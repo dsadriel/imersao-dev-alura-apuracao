@@ -1,968 +1,1162 @@
-# Atualizado em 07/09/2024 às 15:01:02
+# Atualizado em 07/09/2024 às 18:37:09
 # Classificação NÃO oficial e parcial
 Posição,Votos,Nome,GitHub
-1º,145,Israel Rodrigues de Jesus,https://github.com/ijrodrigues/retro-search
-2º,139,Marco Aurélio Rodrigues Ribeiro,https://github.com/marcoaurelior/cedulas-brasileiras
-3º,136,Leonardo de Paula Cardoso,https://github.com/leocardosoo/ReceitasFit
-4º,132,Gabriel Santana,https://github.com/gabrielgsantana/Meu-Projeto-Alura
-5º,123,Dllacy de Lima Rocha,https://github.com/Dllacy-Lima-Dev/Pokelandia
-6º,116,Lara Calegário Guedes,https://github.com/LaraGuedes/Imersao-Alura-e-Google-Gemini
-7º,102,Mário Lúcio,https://github.com/marioluciofjr/projetos_aptos_LIE
-8º,98,Daniel Nogueira,https://github.com/udanielnogueira/token-elements
-9º,97,Daniel Assis,https://github.com/nielassis/ecomerce-vue
-10º,97,Lucas Scherer,https://github.com/LucasScherer04/SantaLuiza
-11º,87,Matheus Hartmann,https://github.com/HartmannMT/Linguagens-de-Programa-o
-12º,85,Mike de Sousa Pereira,https://github.com/mikedsousa/decola-dev
-13º,84,Matheus Cavalcante de Souza,https://github.com/MatheusCS10/Futebol-Futurista
-14º,81,Kaique Rodrigues Zaffarani,https://github.com/Z4ffarani/PORTFOLIO-AI-HUB?tab=readme-ov-file
-15º,81,Aline Rhanny,https://github.com/alinerhanny/entendendo-o-autismo
-16º,80,Savio Castellar,https://github.com/SavioCastellar/hall-da-fama
-17º,77,Jeferson Gonçalves Paz,https://github.com/jeferson-paz/projeto_final_alura_gemini
-18º,71,Náthali dos Santos Carlos,https://github.com/ailluminathi/Lore-of-Legends
-19º,71,Guilherme Campelo De Souza,https://github.com/Campelo3110/EcoWatt
-20º,68,Rian Rios Lemes,https://github.com/RianRioos/Brazil_olympics.git
-21º,66,Pietra Costa,https://github.com/Pietra-Costa/simu
-22º,64,Adriel de Souza,https://github.com/dsadriel/imersao-dev-alura-gemini
-23º,63,Renan Gimenez,https://github.com/Renan-Gimenez/imersao-alura-gemini
-24º,63,Flávia Machado,https://github.com/flaveti/Projeto-Tedio
-25º,61,Bruno Henrique,https://github.com/BrunoH4ds/Tecnologias-Invencao_web
-26º,61,Beatriz Garcia,https://github.com/beatrizgdc/geminiIaNews
-27º,61,Tarcio dos Santos Rodrigues Silva,https://github.com/tarcinwth/aluragemini
-28º,61,Karliane Ferrari,https://github.com/Karliane20/Imers-o-Alura
-29º,60,Davi Samuel Rodrigues de Oliveira,https://github.com/Davesamuu/ongs
-30º,57,Kauan César Ferreira,https://github.com/cesarka1/NuTrainerAI
-31º,56,João Victor de Matos Costa,https://github.com/joaonative/alura-imersao-gemini-2024
-32º,55,Gustavo de Souza Martinez,https://github.com/qMartinz/Ferramentas-IA
-33º,55,Maria Eduarda Comin Paschoal,https://github.com/DudaPaschoal/pokedex-iniciais
-34º,54,Vinicius Moreira Ferreiar,https://github.com/angelbluehaven/serchdev.git
-35º,54,Samanta Wiese,https://github.com/sawaxta/show-da-imersao
-36º,52,Lauren Vasconcelos,https://github.com/l44ver/imersaoDev
-37º,51,Arthur de Melo Barbosa,https://github.com/ArthMelo/arthmelo-imersao-dev
-38º,50,Leonardo José Garcia Maia,https://github.com/leonardojgm/ATaverna
-39º,47,Pedro Henrique Cardoso de Morais,https://github.com/phzxx/The-Game-Awards-Alura
-40º,45,Iranildo Alves Sales,https://github.com/Iranildot/lang-studious
-41º,44,Marcone Boff,https://github.com/m4rcone/alura-imersao-dev-com-gemini
-42º,42,André Sales,https://github.com/andreluke/Desafio_DEV_AluraGemini2024
-43º,42,João Alan Alves de Oliveira,https://github.com/CrimsonSunrise/Que-animal-posso-adotar
-44º,42,Matheus Vinícius Gesser,https://github.com/matheusgesser/themed-http-codes
-45º,42,Matheus Audibert,https://github.com/matheusaudibert/devspace
-46º,42,Shirley Maria Balbino de Mendonça,https://github.com/shirleybalbino/tudo_sobre_ia_e_apis
-47º,42,Bruno Cassemiro de Almeida,https://github.com/devbrunocode/floresta-saber
-48º,41,Agleice Faria de Sousa,https://github.com/agleicesousa/imersao-alura
-49º,41,Paulo Cesar Rodrigues,https://github.com/PauloCesarRodrigues/JogaLogo
-50º,40,Luiz Felipe Oliveira da Silva,https://github.com/oLuizFelipe/exerc-cioIdeal-github.git
-51º,38,João Paulo,https://github.com/Founder-gif/EncicloGamer
-52º,38,Suellen Silva de Oliveira,https://github.com/SuellenSO/Alura-Projeto
-53º,37,Daniel Morceli,https://github.com/dnlll/cod
-54º,37,Matheus Quevedo,https://github.com/mthquevedo/Apolo-Imersao-Alura
-55º,36,Clara Boamar,https://github.com/clarapoerner/comidas
-56º,36,Gabriel de Freitas Galvão,https://github.com/FuturoDevGalvao/Imersao-Dev-com-Google-Gemini.git
-57º,35,Felipe Pinho,https://github.com/FelipeePinho/projeto-TLOU
-58º,35,Gabriel Sares Ferreira de França,https://github.com/gb-franca/PokeDex-Imers-o-Alura-
-59º,35,Melissa Valentin de Oliveira,https://github.com/melissavalentindev/imersao_DEV
-60º,34,Sandro Medice de Oliveira Junior,https://github.com/smedjr/imersaodev-alura
-61º,34,Tainá Morais Fanfa,https://github.com/vfxtai/LunarCycle.git
-62º,34,Julianne Wolkmer Henrique Silva,https://github.com/Trollhammer590/GatosMangakas
-63º,34,Elandro Wozeak Caniela,https://github.com/elandro18/Descrubra-Sua-Classe-Tormernta20
-64º,33,Bomba4512,https://github.com/Bomba4512/imersao-alura | https://bomba4512.github.io/imersao-alura/
-65º,33,Jhonata Anderson,https://github.com/Jhonata-Anderson/sistema_solar
-66º,32,Felipe Mascena Seabra,https://github.com/fmascena-dev/aluraimersao
-67º,32,Sofia Carbonera,https://github.com/sofiacarbonera/gamerhub
-68º,31,Elton Emanuel Vale da Silva,https://github.com/EltOnVaLEF/Warriors-Vs-Wizards-Card-Fight-Game.git
-69º,31,Lennon Oliveira,https://github.com/lehmends/quizbiblico
-70º,30,Leonardo Godinho Antonini,https://github.com/Antonini19/alfabetolibras.github
-71º,30,David Buena,https://github.com/DavidBuena/Maravilhas-do-Gemini
-72º,30,Gabriel Domingues,https://github.com/GabrielD1996/Imersao_dev_alura_gemini
-73º,30,Vania Beatriz Andrade de Melo,https://github.com/Vany005/Imersao-Dev-com-Google-Gemini.git
-74º,30,Thalyson Rafael Barbosa Ribeiro,https://github.com/ThalysonRibeiro/cafe-na-xicara
-75º,30,Juliana Matarazzi (Ju Razzi),https://github.com/Ju-Razzi/Inclusao-de-mulheres-e-minorias-na-tecnologia---Google-e-Allura
-76º,30,João Marcos Souza Bueno,https://github.com/JoaoMarcosHB/ImersaoAluraGemini
-77º,30,Rafael Reiter Valério,https://github.com/rafaelreiter/Como-ficar-rico-com-IA
-78º,29,Raissa Vitória Pereira Bispo,https://github.com/raissabispo/Entendendo-o-autismo
-79º,29,Ketley Gonçalves,https://github.com/ketleygoncalves/girlstech
-80º,29,Silvana Paiva,https://github.com/SilvanaCosta/imersao_dev_alura_gemini
-81º,29,Diego Araujo da Silva,https://github.com/Diego-Silva1/Animais-Marinhos
-82º,28,Gilrlane Costa Ramos Lima,https://github.com/Gilrlane/projetolibras.git
-83º,28,William Hirdes,https://github.com/williamhirdes/Projeto-Imersao-Alura
-84º,28,Malu Alaquoke,https://github.com/quokequack/Lamarr
-85º,27,Pedro Estevão Paulista,https://github.com/Pedro-Estevao/plataforma-estudo-personalizado
-86º,27,Daniela de Souza,https://github.com/Dani-Souza/medulaossea-imersaogemini
-87º,27,Paulo Miguel Bentes do Nascimento,https://github.com/Paulo-Mikhael/imersao-rpg
-88º,27,Claudio Gabriel,https://github.com/Claudinhu/Imers-oAlura
-89º,27,Rebeca Rivas,https://github.com/rebecarivas/imersao-dev-trip-ai/tree/main
-90º,27,Kamilla Santos Silva Azevedo,https://github.com/kamillassazevedo/Maternar
-91º,27,Gabriel de Almeida Florio,https://github.com/ellld0/funcard
-92º,27,Ana JUulia,https://github.com/Ana7oxa/Multiverso
-93º,26,Alan de Queiroz Marques Salviano,https://github.com/AlanSalviano/ancc-alura-gemini
-94º,26,Ana Paula Rodrigues Marques,https://github.com/anaeng/BuscaCeva
-95º,26,Lorena Antonele Gomes Chaves de Oliveira,https://github.com/Loloantonele/alura-gemini-imersaodev
-96º,26,Matheus Farias de Souza,https://github.com/MathFarias/MyoBOT
-97º,26,Cynthia Sant'Anna,https://github.com/CySantanna/flatpetz
-98º,26,Rafaela Cristina Ferraz,https://github.com/rafaferraz/reel-and-read
-99º,25,Rafael Felipe Oliveira Santos,https://github.com/Foxbain/AlquimiaDigital-Imersao-Alura-Gemini
-100º,25,Jônatas Adriel Feyh,https://github.com/jonatasfeyh/imersao-dev-aluraegemini
-101º,25,Verônica Vilas Boas Barbosa dos Santos,https://github.com/VeronicaVilas/manhwaverso
-102º,25,Gabriel Tenorio,https://github.com/Devgabt/mundo-dev
-103º,25,Vander Lucio Ferrareis da Silva,https://github.com/vanderferrareis/narutopedia
-104º,25,João Victor Souza Barros,https://github.com/Vitinho163/CodeBook
-105º,25,Wesley Ryan,https://github.com/Ryan-Wes/guia-de-saude-mental
-106º,25,Maria Eduarda,https://github.com/MariaEduardaQuadros/Dev_Dados.git
-107º,24,Rafael Vieira da Silva,https://github.com/rafaelrvs/Pega_p_bus_Ai.git
-108º,24,Gabriela Franzini,https://github.com/Gabfranzini/ImersaoDevGemini
-109º,24,Jose Felipe Blum de Araujo,https://github.com/jfelipearaujo/alura-imersao-dev-gemini
-110º,24,roberto junior pantoja dos santos pereira,GitHub - robertonakato/Jogo-da-Memoria-dos-Animes
-111º,23,Pedro Rodrigues Ferreira,https://github.com/peRodrigues/todo-list
-112º,23,Leonardo José Garcia Maia,https://github.com/leonardojgm/FabricaDePassoAPassoIA
-113º,23,Yuri,https://github.com/YuriDePaula/imerssao-alura-google-gemini
-114º,23,Rodrigo Pereira Neves,https://github.com/roperne/Sistemasolar
-115º,23,José Diego Borges Oliveira,https://github.com/JoseDiegoB/TurismoCeara
-116º,23,Ingrid Gulão,https://github.com/ingridgulao/Seguranca-Digital/tree/main
-117º,23,Hudson Ribeiro,https://github.com/Hudstoc/projeto-petshop-js
-118º,23,Gabriela Duarte do Nascimento,https://github.com/Gabrieladuartenascimento/finan-as/tree/main
-119º,23,Weslley Alex Cobra,https://github.com/WeslleyAlex/BibliotecaRoyale
-120º,23,LEONARDO ARTHUR RIBEIRO AGUIAR,https://github.com/leonardoarthur/cara-do-ti
-121º,23,Luiza Crumenauer,https://github.com/LuizaCrumenauer/alimentos-para-caes/tree/main
-122º,23,Jonatan Gabriel Costa da Silva,https://github.com/JonatanGabriel/AkumaNoMiDatabase
-123º,23,leonardo costa,https://github.com/leoo-tech/batalha-rock.git
-124º,22,Beatriz Santana do Prado,https://github.com/debonios/blossom-github/tree/main
-125º,22,Luis Felipe,https://github.com/SrMaestro/Imers-o-Dev-com-Gemini
-126º,22,Paulo Giovani Teles Dias,https://github.com/paulotelss/Alura-imersao
-127º,22,Isaque Roberto Zulato Henriques,https://github.com/IsaqueR02/Projeto-Imersao-da-Alura
-128º,22,Gilberto Sá,https://github.com/Gibasa/grande-guia-jardinagem
-129º,22,Beatriz Felix Campache,https://github.com/trizcamp/desvendando-data/blob/main/README.md
-130º,21,Carlos Vinicius Vieira da Silva,https://github.com/viniciusgdr/gdrmusic-ai
-131º,21,Ângelo Silvano,https://github.com/angelodesenvolvedor/imersao-dev-olimpiadas
-132º,21,Carlos William dos Reis Xavier,https://github.com/carloswilliam863/MediaFinder
-133º,21,Geovanni José Dantas de Azevêdo,https://github.com/GeovanniJDA/AniList
-134º,21,Matheus Araujo,https://github.com/Mtheuxa/God-Of-War-Ragnarok
-135º,21,Leandro Traldi Martins,https://github.com/LeandroTraldiMartins/Holiday-Finder
-136º,20,Lucas Filipe dos Reis,https://github.com/ReisLucasF/MoneyGrow
-137º,20,Daniel Ribeiro Ataíde,https://github.com/BigJhinZ/VirtudeEstoicaIMERSAO-DEV
-138º,20,Jefferson dos Santos Justino,https://github.com/jefferson-justino/Guia-de-jogos
-139º,20,Ashiley Sabrina Santiago Rodrigues,https://github.com/AshileySabah/my-deck-imersao-alura-gemini
-140º,20,Dafany Pedott,https://github.com/duff1e/imersao-alura-digitalis
-141º,20,Sarah Santana,https://github.com/Sarah781/ImercaoAlura
-142º,20,Paulo Robson De Andrade Gazzoneo,https://github.com/RobsonGazzoneo/imersao_alura2024.2
-143º,20,Rodrigo Soares Pereira,https://github.com/newbogirdor/Endless_Nightmare2
-144º,20,Lais Aparecida Borges,https://github.com/laisab/ProjetoAlura-StudioGhibli.git
-145º,20,Vika Rosa Silva de Oliveira,https://github.com/venus-dream/AcervoDeMitologias/tree/main
-146º,20,Victor B. O. Leme,https://github.com/VBDOL/Imers-o-Alura-Google-Yoga-Hatha
-147º,20,João Victor Franklin,https://github.com/JohnFrankkk/SolarAluraDev
-148º,19,Heloysa dos Santos Arruda,https://github.com/heloysasa/blog-de-receitas
-149º,19,Fábio Roberto,https://github.com/fabio067/artesmarciais
-150º,19,Joel,https://github.com/joelsmatos/genshin101
-151º,19,Felipe Dos Santos Silva,https://github.com/Felps-Santos/Imersao_Dev_2024/tree/main
-152º,19,Leonardo Paixão Cruz,https://github.com/paixaoS2/guia_platina_god_of_war.git
-153º,19,Marcos Roberto de Souza Filho,https://github.com/Mardevoon/Golden-Album
-154º,19,Américo Focesi Pelicioni,https://github.com/americofp/infecto
-155º,19,Sabrina S. Gomes,https://github.com/Sabrina868/Paises-da-Oceania
-156º,19,Fernanda Beltrão Leite,https://github.com/Nandsbeltrao/AIlert
-157º,19,Germano Costa,https://github.com/gerluc/meuprimeiropet
-158º,19,Marcelo líbanio de Andrade,https://github.com/marceloandrade1993/meupersonal.git
-159º,19,Guilherme de Almeida Braga,https://github.com/braguilweb/herb-alquimia
-160º,19,Rayssa Pereira da Silva,https://github.com/rayssapereira03/RBeauty_web---Imers-o-Dev.git
-161º,19,Gustavo Villela,https://github.com/gustavo-villela/central_dev
-162º,18,Leonardo José Garcia Maia,https://github.com/leonardojgm/ImersaoAluraGemini
-163º,18,Emerson Inácio da Silva,https://github.com/emerson16inacio/desenhos-reconfortantes
-164º,18,Tomas,shadow1363.github.io/imersao-dev/
-165º,18,Alessandra Rebecchi,https://github.com/AlessandraRebecchi/mulheresdaciencia
-166º,18,Wladimir Calazam de Araujo Goes Ramos,https://github.com/WladRamos/A_Jornada_do_Heroi_Logico
-167º,18,lucas eduardo,https://github.com/Lucasodraude/CineMatch/tree/main
-168º,18,wallace bezerra da silva,https://github.com/Wallace-Bezerra/Omnia-AI-Vision
-169º,18,Leandro da Silva Barros,https://github.com/zLeandrin/Projeto-Alura/tree/main
-170º,18,Gean Magno de Brito Cordeiro,https://github.com/GeanMagno/Imers-o-Dev-com-Google-Gemini
-171º,18,jairo neder monassa moreira,https://github.com/desenvolvedorjairomonassa/alura-imersao
-172º,18,Daiane Lopes,https://github.com/daianelopess/Pilulas-Historicas
-173º,18,José Heberson Rodrigues de Carvalho Filho,https://github.com/HebersonCarvalho/levelSkills
-174º,18,Fabricio Liquesley dos Santos,https://github.com/fabricioliquesley/semente_do_bem
-175º,18,Felipe Carvalho do Nascimento,https://github.com/Howst/imersao-dev/tree/main
-176º,17,vithor hugo freitas medeiros,https://github.com/Vithorhh/Imers-o-Dev-com-Google-Gemini---Alura
-177º,17,Mário Rian Macêdo Rodrigues,https://github.com/MarioR-16/hyper-cortex.git
-178º,17,Paulo Custódio de Oliveira Junior,https://github.com/PauloCust/promptier.git
-179º,17,João Vitor Alves Fialho,https://github.com/oclubedosdez/animes-online
-180º,17,Weslley Novelino Cavallaro,https://github.com/weslleycavallaro/Projeto-Imersao-Dev-Alura-Google-Gemini/tree/main
-181º,17,Gyan Monteiro,https://github.com/bjmontr/spiderverse-alura
-182º,17,Vítor Souza Garcia,https://github.com/vitusga/ProjetoME
-183º,17,KARINE DE LIMA ANTONIO MEIRELES,https://github.com/KarineMeireles/Imersao-Dev_Alura-Google
-184º,17,Luciano Quintela dos Santos,https://github.com/Lucianoquintela/imersao-dev-gemini
-185º,17,Paulo Henrique Alves Fialho,https://github.com/PHALVES252/Alexandria
-186º,17,Laura Beatriz Silva Serbêto,https://github.com/lauraserbeto/imers-o-dev-f1.git
-187º,17,Louise Saldanha Tormes,https://github.com/louisetormes/agentesValorant
-188º,17,Vinicius Pereira dos Santos,https://github.com/vinisanths/imersaoDevAluraGemini
-189º,17,ISAC RYUTARO OTSUKA,https://github.com/i-otsuka/imersao-dev-alura-google-desafio
-190º,17,Renata Kormann,https://github.com/renatakormann/Imersao-Alura2024
-191º,17,Luiza Dal Mas Pasini,https://github.com/luizaPasini/Livros
-192º,16,Henrique Gaiardoni,https://github.com/henriquegsantanna
-193º,16,Alex Costa,https://github.com/Alxcostta/Calculadora-IMC
-194º,16,Vlademir Segan Faria,https://github.com/vlademirfaria/alura-github
-195º,16,Hiago Rodrigues Batista,https://github.com/Rolig4n/how_to_craft
-196º,16,Lenon Tonoli Merlo,https://github.com/lenonmerlo/RetroGamesCollection
-197º,16,António Jorge Cardoso Lopes,https://github.com/antoniolopes4/vencedoras_do_miss_universo.git
-198º,16,Rafael Rosa Esquiavoni,https://github.com/Rafffaelyt/imersao-dev
-199º,16,Wendell de Sousa Calazans,https://github.com/kalazans/E-CommerceAluraGeminmi
-200º,16,Janaina Silva,https://github.com/ajanainasilva/imersao-dev-google-gemini.git
-201º,16,Nicholas da Silva Pimenta,https://github.com/nicholasPimenta/promessas-brasileiras-f1/tree/main
-202º,16,Rian Pablo Tavares Barbosa,https://github.com/RianBarbosa1/Marvel
-203º,16,Áquilla Siqueira Gomes,https://github.com/SGomesAquilla/Elpis/tree/main
-204º,16,Clarissa de Assunção Alves,https://github.com/clarissaaalves/quemvemla
-205º,16,Cristiane Justino dos Santos,https://github.com/crisjustinno/maquina-do-tempo-literaria/
-206º,16,Kauan Constancio,https://github.com/kauanconstancio/Imersao-DEV-Alura-Google-Gemini
-207º,16,Ana Carolina dos Santos Garcia,https://github.com/carolzrj/fut-carioca
-208º,16,Luanna Fernandes Flor de Souza,https://github.com/Luanna88/ImersaoAlura-Gemini/tree/main
-209º,15,Ademar Perfoll Junior,https://github.com/juniorperfoll/alura-gemini
-210º,15,Allan Rodrigues de Mendonça,https://github.com/AllanR-M/Receitas-Saudaveis.git
-211º,15,Ricardo julio Gonzaga,https://github.com/zwQa/bibliotecaImersaoDev.github.io
-212º,15,Reilan Gomes Ribeiro,https://github.com/reilangr/projeto_alura
-213º,15,Lorran gomes,https://github.com/Lorrangomes95/alura-dev
-214º,15,Samuel de Paula Britto,https://github.com/spbritto/ProjetoImersaoDevAlura.git
-215º,15,Leonardo Castro de Souza,https://github.com/leocsbh007/sitebuscaprojetoseletronica.git
-216º,15,Fabio Monteiro Oliveira,https://github.com/oifabiomonteiro/projeto-imersaoIA
-217º,15,Mariana do Nascimento Saldanha,https://github.com/calebsaldanha/futuro_expandido/tree/main
-218º,15,Marcos Vinnícius de Souza Amancio,https://github.com/marcosvsamancio/nerdmundi
-219º,15,Higor da Silva Rodrigues,https://github.com/Higashi26/GAMER/tree/main
-220º,15,Lisânia Soares Miranda,https://github.com/lisaniaSoares/Mulheres-Cientistas/tree/main
-221º,15,Giovana,https://github.com/giovxna/heal-us
-222º,14,RUTHE CECILIA DE MELO LOUREIRO,https://github.com/Cecilia0292/projetoimersaoAlura2024.git
-223º,14,Matheus de Souza Garcia,https://github.com/MatheusGarciia/series-mania
-224º,14,Lucas Polidorio,https://github.com/Lpolidorio/imersaodevgemini
-225º,14,Raissa Vitória Pereira Bispo,https://github.com/raissabispo/Entendendo-o-autismo
-226º,14,Kelven Pereira da Silva,https://github.com/KelvenPer/Pagina-de-Acessibilidade/tree/main
-227º,14,Emerson de araujo pinho,https://github.com/Emerson10110/Melhores-filmes
-228º,14,Clara Quintela,https://github.com/claraquintela/knittingglossary
-229º,14,Samuel Sávio Martins Gomes,https://github.com/samuelsavioo/Rota-da-Cerveja-descubra-os-melhores-pubs-de-BH/tree/main
-230º,14,Victor de Almeida Oliveira,https://github.com/Vitomeida095/imersao_dev_gemini_2024
-231º,14,PAULO TUPPY,https://github.com/PauloTuppy/Imers-o-Dev-Com-Gemini/tree/main
-232º,14,Guilherme Bazaneli Furlan,https://github.com/guibzf/beatles_discography
-233º,14,Victor Manoel de Souza Gonçalves,https://github.com/oIntankavel/League-of-Lore/tree/3122991aa85d0564501f2fd7a9dfc12e2bc6be8d
-234º,14,Diogo Gonçalves Soares,https://github.com/Diogo-SoaresDS/editor_texto
-235º,14,Felipe Trevizan,https://github.com/felphisss/animelist
-236º,14,Laryssa Ferreira Martile,https://github.com/laryssamartile/dev-pack
-237º,14,Felipe da Silva Rodrigues,https://github.com/FeSilRod/Projeto-Imers-o-Dev-com-Google-Gemini/tree/main
-238º,14,Darlan Oliveira Filho,github.com/designprojectdev/DRLMX-RACE/
-239º,14,Wendell Gimenez Lander,https://github.com/wendellgimenez/doando_amor
-240º,14,Luana Albino,https://github.com/luanaalbino66/jogos
-241º,14,Camilla Gomes Araújo Correia,https://github.com/camillagacs/Desafio_DEV_AluraGemini2024
-242º,14,Hamilton Godoi Silveira,https://github.com/Ha1000tonG/meucafe
-243º,14,Esther Barreto Tavares Silva,https://github.com/esthertavaress/imersao-dev-google-gemini
-244º,13,Leonardo,Não tenho
-245º,13,Gabriel Marques de Oliveira,https://github.com/P4dr1n/ToDoList.git
-246º,13,Patricia Oliveira,https://github.com/Savarezi/Portfolio/tree/main
-247º,13,Roberta Ribeiro,https://github.com/HarukaIonaSao/Wiki-Shingeki
-248º,13,Marcos Gabriel Mendonça Bessa,https://github.com/marcosbessa0/Anatomia-Dental.git
-249º,13,Sophia Vantil da Cruz,https://github.com/sophiavantil/trilha-dos-anuros
-250º,13,GeminiWAChat,https://github.com/baku01/GeminiWAChat
-251º,13,João Victor de Mello Vuelma,https://github.com/JoaoVuelma/TreinoFacil
-252º,13,Marcos Guterres,https://marcosguterres.github.io/alura_imersao_dev_gemini/
-253º,13,Diego Felipe Pereira,https://github.com/Dietowski/Pneumologia
-254º,13,Otávio Mendes,https://github.com/VRS-Z/IMERS-O_DEV
-255º,13,Tom,https://github.com/Shadow1363/imersao-dev
-256º,13,Ezio R Lorenzetti,https://github.com/ezioweb/Linguagens-de-programacao
-257º,13,Rafael José Rangel,https://github.com/Rajora0/screenshot-to-description-app
-258º,13,Tarcísio Araújo Silva Lima,https://github.com/TarcisioSLima/Leil-o-de-Cavalos
-259º,13,Kaique Alexandre Souza Kubota,https://github.com/SouzaKaique/bioinformatica
-260º,13,Luis Gustavo,https://github.com/eugus/imers-oGeminiAlura.git
-261º,13,Wilson Cristian Teles De Oliveira,https://github.com/wilson385/Aula-de-m-sica/commit/cbd7d5c04a447f7241bcbc8c41d4822ca29959b6
-262º,13,Paulo Henrique Costa Alves,https://github.com/Ph-Alves/Projeto-alura/tree/main
-263º,13,Alexandre dos santos,https://github.com/vrcvde/Melodia-Essencial/blob/main/README.md
-264º,13,Henrique Camargo,https://github.com/Dev0FB/Fatos-Historicos
-265º,13,Jefferson Bueno de Camargo,https://github.com/Jeffdshanks/Imersao-gemini-alura
-266º,13,Rafael Rodrigues Pereira,https://github.com/RPTecDev/VideoGames
-267º,13,Yasmin de Oliveira Venceslau,https://github.com/YasminVenceslau/Doar-Sangue
-268º,13,Ariane de Abreu Costa,https://ariane2023.github.io/Aprendizagem/
-269º,13,Aline Silva de Jesus,https://github.com/alinesilvaj/database
-270º,13,Lucas Colombo Bossoni,https://github.com/LucasColomboBossoni/Imersao-dev-alura-gemini
-271º,13,Andressa Daiane Reis da Silva Santos,https://github.com/dressas05/classicosliteraturabrasileira/tree/main
-272º,13,Manuella Lanfranchi,https://github.com/manulanfran/TLOU-info
-273º,13,Enzo Magioli Costa Núñez,https://github.com/emagioli/dromedados
-274º,13,Lucas Fonseca Fernandes,https://github.com/LFFProjetos/A-livraria-Livros-livres
-275º,13,Genildo Manuel Daniel,https://github.com/GenildoAleXDan77/conselhos-legais.git
-276º,13,Lucas de Oliveira Vilela,https://github.com/LucasVilela1410/Animais-Marinhos?tab=readme-ov-file
-277º,13,Igor Duarte Barros,https://github.com/Fishmaia/Mundo-Am-rica/tree/main
-278º,13,Patricia Mahmoud Assaf,https://github.com/PatriciaAssaf/FilmeMood
-279º,12,Ernane Nogueira Nunes,https://github.com/Ernanenn/ImersaoDeV_Alura_Gemini.git
-280º,12,Gabriel Molinari da Rocha,https://github.com/Gabriel0090/project-alura-imersaoDev.git
-281º,12,Vitor Borges de Melo,https://github.com/VitorBMelo/ProjetoImersao_AlmanaqueIronMaiden
-282º,12,Lucas Mendes Pinheiro,https://github.com/lucasptree/dungeondeck
-283º,12,Gabriel Lima Zanetti,https://github.com/GLzanetti/Alura_com_Gemini
-284º,12,Bruna Silva Santos,https://github.com/Sbrunaa/Projetos.git
-285º,12,Leonardo José Garcia Maia,https://github.com/leonardojgm/AIdivinha
-286º,12,Juliana Santos Lopes Vasconcelos,https://github.com/juslopes/projeto-gemini-alura.git
-287º,12,Conrado Andrade,https://github.com/conradoandrade6/imers-oalura
-288º,12,Marco Antônio Ferreira,https://github.com/Marco-ferreira08/FernandaMontenegro.git
-289º,12,Alterno Jerônimo Junior,https://github.com/juniorjeronimo/Jornada-DEV-Alura-
-290º,12,Fabio Monteiro Oliveira,https://oifabiomonteiro.github.io/projeto-imersaoIA/
-291º,12,André Lucas Vieira Mouzinho,https://github.com/andre-llucas/DM-do-Flamengo-Imersao-Dev-Gemini-Alura.git
-292º,12,Luciano Jesus da Silva,https://github.com/lucianoj75/html_BibliotecaAgil
-293º,12,Gabriel Valim,https://gabri3lvalim.github.io/projeto-gta/
-294º,12,Victor de Souza Xavier Fernandes,https://github.com/victorsxavierf/imersao_dev
-295º,12,Antonio Fonseca Machado,https://github.com/AntoniofmBR/mundo_dos_games
-296º,12,Gabriel Domingues,https://github.com/GabrielD1996/Imersao_dev_alura_gemini
-297º,12,Daniel Silva Martins,https://github.com/danielsmartins/filmes-e-series
-298º,12,Monique,https://github.com/moniqueandery/Pink.
-299º,12,Daniel Silva,https://github.com/GhostDani/GTA
-300º,12,Cláudia Costa Paniago Pereira,https://github.com/ClaudiaCPaniago/imersao-dev-personalizado
-301º,12,Carlos Augusto,https://github.com/gutohistorias/jobs-informatica
-302º,12,Gabriel Escobar Delboni,https://github.com/GabrielEscobar-tech/FutebolBR
-303º,12,Delainy Silva Dias,https://github.com/delainy/Project-Imersao-Alura
-304º,12,Alex Sandro Ferreira dos Santos,https://github.com/Aurora0A/Final-Fantasy-Database-Alura-Gemini/
-305º,12,Erick Rinaldo Rodrigues Pereira,https://github.com/94rnerick/projetovinhos
-306º,12,Naiumi,https://github.com/naiumipaiva/Projeto-Gems_Alura-Imersao-Dev-com-Google-Gemini
-307º,12,Augusto César Montenegro e Silva,https://github.com/cesarmontenegrosilva/imersaoDevAluraGoogle.git
-308º,12,Kadmiel Inácio Souza Ramos,https://github.com/Kadmielgithub/Memory-Football
-309º,12,Patrícia C. Freitas Silva,https://github.com/patyfreitasbr/guia-dev-site
-310º,11,jefferson vitor silva,https://github.com/jeff25700/Taverna-do-Historiador.git
-311º,11,Claudia Soares Albano,nengum
-312º,11,Eduardo A. de Oliveira,https://github.com/eduardooliveira0247/Alura-Imersao
-313º,11,Sara Leticia Nascimento dos Santos,https://github.com/sara-lnas/imersao_dev
-314º,11,Aline Bertolazo dos Santos,https://github.com/alinebertolazosantos/Desafio_Alura
-315º,11,Carlos Humberto Brasileiro Toscano,https://github.com/humbertobrasileiro?tab=repositories
-316º,11,Rodrigo Alves,https://github.com/rodrigoo-alves/alura-pokedex
-317º,11,Victor Costacurta,https://github.com/profvictor/EduSnap
-318º,11,Rafael Aguiar Alves,https://github.com/rafaelaguiaralves/Acessibilidade_JavaScript
-319º,11,Valdino,https://github.com/criquio/imersao-alura-gemini
-320º,11,Glauce Alves,https://glaucealves.github.io/imersao/
-321º,11,Gustavo Padilha,https://github.com/GustavoPadilha/Memoria-dos-Extintos
-322º,11,Gabriel Loureiro Gonçalves,https://github.com/gabrielloureirog/FilmesSequencias
-323º,11,Reinaldo Fernandes Menezes Neto,https://github.com/Reinaldo-Fernandes/D-oh-A-Sua-Busca-Acabou-Aqui
-324º,11,Edmilson Rodrigues do Nascimento Junior,https://github.com/edrodrigues/alura-gemini
-325º,11,Izaiany Martins Arantes Rosa,https://github.com/IzaianyMartins/Imers-o-Alura-Gemini
-326º,11,Vithor Hugo Freitas Medeiros,https://github.com/Vithorhh/Imers-o-Dev-com-Google-Gemini---Alura/tree/main
-327º,11,Pedro Henrique Gonçalves Oliveira,https://github.com/Abuh-byte/abuh-byte
-328º,11,Tiago Kelis,https://github.com/tiago-kelis/project_alura_Compete.js
-329º,11,Ezequiel Adriel Leite farias,https://github.com/ezequielfarias/Ciber-imersao
-330º,11,Lucas dos Santos Gonçalves,https://github.com/LukeSantossz/MacOs-Interface
-331º,11,Luiz Fernando Brito Ferreira,https://github.com/Lz-Fernando/Bandeiras
-332º,11,Lucas Wayland,https://github.com/lucasWayland/fornalha-pokemon
-333º,11,Daniel de Moura Silva,https://github.com/danieldemoura/mydonghualist/tree/main
-334º,11,SERGIO RICARDO BARBOSA MACIEL DE SOUSA,https://github.com/SergioDevSousa/imersao-alura.git
-335º,11,Ana clara Marucci,https://github.com/AnaclaraMarucci/Projeto-mercado-de-trabalho-PCD-/tree/main
-336º,11,Maria Eduarda Rodrigues de Souza,https://github.com/Beemaria/Imers-odev-EcoBras/tree/main
-337º,11,Evandro José Pereira Pedro,https://github.com/Evandro-J-P-Pedro/Wattson-Seu-guia-em-RDA-RDU
-338º,11,Rivonaldo Alves de Oliveira Filho,https://github.com/Rivinnn/Astronomia-Originaria-Brasileira
-339º,11,Sidney Paz de Oliveira,https://github.com/zksidney/quemtues
-340º,11,Davi Gabriel Campos Lobo,https://github.com/DaviPvi/MuseuOnline
-341º,11,Adriele Soares Lima,https://github.com/drisoares/imersaoDev/tree/main
-342º,11,Sandro Luiz,https://github.com/Saandroo/BibliaOnlinedeEstudo
-343º,11,Fabio,https://github.com/xPretti/AIndex
-344º,11,Everton Diego,https://github.com/DiegoNotreve/Elden-Ring
-345º,11,Pedro Henrique da Silva Coelho,https://github.com/PedroCoelho27/TopCell
-346º,11,Luiz Felipe Carvalho,https://github.com/LFC-DEV/Adote_um_amigo---Alura
-347º,11,Rogerio Silva,https://github.com/rogerdgela/clima-capitais
-348º,11,Wendell de Sousa Calazans,https://github.com/kalazans/AcordaAeAluraGemini
-349º,11,Carlos Henrique Neri Matias,https://github.com/carlosneri762/paises-do-mundo
-350º,11,Pedro Gomes dos Santos Junior,https://github.com/PedroGomesjr/DesafioImersaoDevGoogleGemini
-351º,11,Beatriz Silva Rosa,https://github.com/BiahRosa/ByteByByte
-352º,11,Manoel Carlos de Oliveira Ramos Júnior,https://github.com/ManoelCarlosJunior/eloautismo
-353º,11,Luna Costa,https://github.com/lunaflavia/dev-imersion-with-gemini
-354º,11,Wesley Millan Silva,https://github.com/nosferatu-zod/boomershooter-html
-355º,10,Lucas Caetano Cordeiro,https://github.com/LucasCaeCor/Projeto-Alura/tree/main/Projeto%20alura
-356º,10,Leonardo Reneres dos Santos,https://github.com/Reneress/ImersaoDevGeminy
-357º,10,Maurício Lopes de Assis,https://github.com/MAURICIO1w/Prodfilm
-358º,10,Lucas Barros Simon,https://github.com/lucasweacked/Alura-Desafio
-359º,10,Dominique Marcelino Gonçalves,https://github.com/Domisnnet/Projeto-Alura.git
-360º,10,João Vitor Mendonça Santana,https://github.com/JoaoVitorMS0/imersao-dev
-361º,10,Juliano Bordignon,https://github.com/bordis/alura-imersao-gemini
-362º,10,Fabiana Heberle,https://github.com/fabiheberle/NitroPower-GitHub
-363º,10,José Vinícius Ferreira,Vinícius #alura
-364º,10,Carlos Humberto Brasileiro Toscano,https://github.com/humbertobrasileiro/meu-projeto
-365º,10,Nicollas Cavalcanti Soares,https://github.com/Nicdojob/Sistema-de-denuncia
-366º,10,Bruna Geyze de Carvalho Moita,https://github.com/Allmabu/genshin-github
-367º,10,Anderson da Silva Gomes,https://anderson-aec.github.io/imers-odev2/
-368º,10,Gustavo Batista Castagna,https://github.com/GuCastagna/TST_IA
-369º,10,Rafael henrique de lima,https://github.com/RafaelhLimaa/Imersao_Gemini
-370º,10,Matheus Pereira Silva,https://github.com/githubmatheuspereira/xmarine-alura-google
-371º,10,Nelson Nishiwaki,https://github.com/nnishiwaki/Eleicoes_2024
-372º,10,Hidemitsu Gonçalves Hashimoto,https://github.com/HidemitsuHashimoto/alura-gemini-finance
-373º,10,Rafael Pagotto,https://github.com/RafaelPagotto/Alura-ImersionDev-Gemini
-374º,10,Gustavo Lamin Honda,https://github.com/gustavolhonda/Projeto_imersao_dev
-375º,10,Leonardo oscar dos santos,https://github.com/santos2356
-376º,10,Luiz Gabriel Inácio,https://github.com/L-Gabri/ucl-github
-377º,10,Keltonny de França Gonçalves,https://github.com/keltonny00/Projeto-Surfing-github.git
-378º,10,Duan Ledson Alves dos Santos,https://github.com/Duan-Ledson
-379º,10,Marcus Vinicius Freire Souza,https://github.com/Marcus-xpl/ContactConnect
-380º,10,Izaiany Martins Arantes Rosa,https://github.com/IzaianyMartins/Imers-o-Alura-Gemini
-381º,10,Charles Cristopher Cordeiro de Araújo,https://github.com/CharlesCristopher/imers-oAlura.git
-382º,10,André Luiz de Abreu Junior,https://github.com/Andrekk6/CarrosJaponeses
-383º,10,Larissa Cassanjo,https://github.com/Lari-Cassanjo/ouvi_em_glee
-384º,10,Bianca Teodoro Urtado,https://github.com/BiancaTeodoroU/projectwithAPIGemini/tree/main
-385º,10,Fernanda Benacchio,https://github.com/benacchiofernanda/drogas-no-brasil.git
-386º,10,Raphael Nogueira,https://github.com/raaphanogueira/neurodiversidade
-387º,10,Adriana Gomes Pimenta,https://github.com/AdrianaGomesPimenta/descobrindo-signo
-388º,10,Alex Rickey Winland,https://github.com/alexwinland/funcionalidade-de-busca
-389º,10,Mauro Utida,https://github.com/PutsGrilla/ProjetoAluraFlora.git
-390º,10,Caio Diomedes de Alcântara braga,https://github.com/caiodiom/imersao
-391º,10,Caio Magalhães,https://github.com/caioma15/animes
-392º,10,Henrique Matthes,https://github.com/MatthesHenrique/Jornada-na-Engenharia.git
-393º,10,Arthur Kramberger,https://github.com/arthurcuri/allura-gemini-creativity
-394º,10,Fabio Oliveira Ferreira,https://github.com/FABI0FERREIRA/Olimpiada_doa-o
-395º,10,Ana Luiza Tibiriçá da Paixão,https://github.com/Naluaqui/Imersao.Gemini
-396º,10,Germano Schulze Junior,https://github.com/schulze2/imersao-sabores-saudaveis/
-397º,10,Aline Rodrigues da Silva de Castro,https://github.com/OiAline/projeto-gemini.git
-398º,10,Michele Lescano,https://github.com/MicheleLescano/imersaoDev
-399º,10,Cinthia Bezerra de Souza,https://github.com/CinthiaBezerraSouza/Projeto-Imers-o/tree/main
-400º,10,Jean Mendes Paradella,https://github.com/j3anp07/how-i-met-your-mother
-401º,10,Vitor Bittencourt,https://github.com/vitorVBD/buscador-de-IA-imersao-Alura
-402º,10,Felipe Alves Laranjeiras,https://github.com/felipefarius/olimpiadas
-403º,10,Ivan Lima dos Santos,https://github.com/Ivan-lds/genime
-404º,10,Thiago Alencar,https://github.com/Thiago-Alencar/inteligencia_emocional
-405º,10,Felipe Girardi Machado,https://github.com/xFelipeGM/projeto-booksale
-406º,10,Millena Eduarda de Sousa Santos,https://github.com/MillenaSousa17/ImersaoGemini.git
-407º,10,Célio Victor de Amorim,https://github.com/AmorimCelio/conhecendo-a-latinoamerica
-408º,10,Eduardo Gabriel Proença de Carvalho,https://github.com/YoungLich/Search-Machine
-409º,10,Luciano Juchem,https://github.com/lucianojuchem/Imersao_DEV_ALURA_Gemini
-410º,10,Marcelo Pena,https://github.com/CoderPena/pesquisa-videogames
-411º,10,Estevão,https://github.com/EstevaoSantos1/Imagine-Filmes-Livros.git
-412º,10,Jose Gilvanilson,https://github.com/gsilva279/Meu-site001.git
-413º,10,PAMELA OLIVEIRA DE MORAIS AYRES,https://github.com/Pamela-Ayres/Oppa_Dorama
-414º,10,Lucas Henrique,https://github.com/LucasFerreiraH/On-Firer/tree/main
-415º,10,Erik Souza Messias,https://github.com/esmessias/Projeto
-416º,10,Lucca Fernando Portella Sartoratto Silva,https://github.com/sethxzz/Essa-Banda-Emo-/tree/main
-417º,10,Bruno de Paula e Silva Azevedo,https://github.com/Brunoazevedo274/senhor-dos-aneis
-418º,10,Marcos Vinicius Santos de Souza Reis,https://github.com/DevN1ghTT/projetoaluraimersao
-419º,10,Samuel Lucas Lopes,https://github.com/samuel-llp/floaria
-420º,10,Michael,https://github.com/voi1d/A24-Alura-project
-421º,10,Lyvia de Freitas Moreira Oliveira,https://github.com/0002Ly/Jogo_Obstaculos
-422º,9,Guilherme Ferreira Marques,https://github.com/Guilhermefrr11/Guilhermefrr11/tree/eac8c12c11a13f4b1c9fb184763462eb769fcdc0/Projeto%20Alura
-423º,9,Cristiano Grobério,https://github.com/djcristianosgp/imers-o-dev-google-gemini-alura.git
-424º,9,Henrique Begiato Ambiel,https://github.com/Henrique-Ambiel/heacher-Games
-425º,9,Luke Farias (Lucas Oliveira Farias Cordeiro),https://github.com/Saphire-gem/BrasTour-github
-426º,9,Yuri de Paula,https://github.com/YuriDePaula/imerssao-alura-google-gemini
-427º,9,Vinicius Ramos Oliveira,https://github.com/Vinioliveira20
-428º,9,Flavio Burigo,https://github.com/flavioburigo/projetoDollarBill
-429º,9,Eduardo Barbosa Moreira,https://github.com/eduardobmoreira/tattwasclock/
-430º,9,Maria Rosileide Auzier,www.facebook.com/mariarosileide.auzier
-431º,9,Manuel  de Deus,https://github.com/nicolemos56/AlertadorWeb.git
-432º,9,Miriam Tieko Yamamoto,https://github.com/MikaTieko/Imersao---Animes
-433º,9,André de Assis Zanelato,https://github.com/AndreZanelato/desafio-corredor
-434º,9,CARLOS DE CAMARGO PENTEADO NETO,https://github.com/carlospenteado/ProjetoImersaoDevGoogleGemini/
-435º,9,Marlon Felicio Forti,https://github.com/marlaoforti/receita-perfeita-
-436º,9,Kenny,https://github.com/KennyIshii/imersao-dev
-437º,9,Diego Pereira da Silva,https://github.com/diegowebsantos/almanaque-digital-dos-craques
-438º,9,Valéria Helena Politi Gerbelli,https://github.com/ValeriaValtech/ImersaoAlura
-439º,9,Eros Black,https://github.com/Eros-Black/ErosMusic
-440º,9,Thaise Chaves Zanin,https://github.com/thaise-zanin/Imersao_Dev_Alura
-441º,9,Kaio Rodrigues Borges,https://github.com/KaioRodriigues/Projeto-FaculFinder---Alura
-442º,9,Samuel Lorran Andrade de Almeida,https://github.com/M4ximoG/RepositorioGamer
-443º,9,Rafael de Souza Pinto,https://github.com/rafapy/Brain
-444º,9,Pedro Henrique Cantarutti Silva,https://github.com/PCantarutti/Termo-I.A
-445º,9,Lucas Guadagnano Hipólito de Castilhos Santos,https://github.com/lucas-hipolito/Final-Girl
-446º,9,Mariana Lima Albuquerque,https://github.com/maariana-albuquerque/fenomenologia.imersao-alura.git
-447º,9,Arthur Moura Gama,https://github.com/A-M-Gama/Taverna-do-PSI
-448º,9,Isac Junior da Silva,https://github.com/Isacjsilva/Turismo-
-449º,9,Marcus Vinícius Alves de Souza,https://github.com/eivini/Projeto-Imersao
-450º,9,Leonardo Vilela Potomatti,https://github.com/AstroUdyr/ImersaoDev
-451º,9,Flavio Henrique Limeira Bezerra,https://github.com/Henry-fh/Universo-Marvel
-452º,9,Carla de Campos Oliveira,https://github.com/Carlaoliveira2024/Pet-Sitter-github
-453º,9,Renato Faria Alves de Jesus,https://github.com/RenatoFariaDv/The-Best-Drummers
-454º,9,Ryan Decenzo,https://github.com/rdp150-dev/Curiosidades-gamer
-455º,9,Lucas Caetano Cordeiro,https://github.com/LucasCaeCor/Projeto-Alura
-456º,9,Muryllo Nunes,https://github.com/Muryllo32/Pokemon-Go/tree/main
-457º,9,Wellington Monteiro,https://github.com/weto28/Wetao-Hamburgues
-458º,9,Hibernon Rodrigues de Andrade Neto,https://github.com/hiberNT/agrotoxicos
-459º,9,Thiago César Lima Rocha,https://github.com/thiagocesarlr/campeonato_brasileiro
-460º,9,hellen gleice de jesus rodrigues,https://congenial-cod-q79ww9rvjjq7cx6q7.github.dev/
-461º,9,Renan de Oliveira Farias,https://github.com/Nansinyx26/Joia-da-Fic-o-Cient-fica-
-462º,9,Jorge Alvarenga Junior,https://github.com/Jorge-AJ/Manuli-Amigurumi
-463º,9,Kelvin Pereira,https://github.com/Pereirinha01/sa-de
-464º,9,Alex Vieira,https://github.com/Alex-Vieira-da-Silva/ImersaoDev.git
-465º,9,Tiago de Oliveira Lima,https://github.com/TiagoLima135
-466º,9,Esther Araujo,https://github.com/EstherAraujo/JogosDeGestao
-467º,9,Gabriel Henrique Carvalho de Sousa,https://github.com/henriquedev24/lugares-do-mundo.git
-468º,9,Miguel Magalhães dos Anjos,https://github.com/Miguel-Magalhaes/guia-de-personagens
-469º,9,Renan Dias Ferreira,https://github.com/renanbaluarte/ProjetoAlura
-470º,9,Marina Trevisoli Gervino,https://maritrevisoli.github.io/Mapa-interativo-de-impacto-social/
-471º,9,Bruno Chaell Silva,https://imersao-dev-zelda.vercel.app
-472º,9,Maiara G Araujo Vieira,https://github.com/vmay-a?tab=repositories
-473º,9,Danilo Balby Silva Castanheira,https://github.com/danbalby/ia_questoes/
-474º,9,Ana Beatriz Melo Barbosa,https://github.com/BeatrizMeloB/imersao-dev-gemini-alura/
-475º,9,Ana Carla Oliveira Mendes,https://github.com/Anacarlamends/Museu-Global
-476º,9,Josiel Soares de Soares,https://github.com/JosielSSoares/Receitas-de-bolos
-477º,9,Lázaro Pimentel Bonfim,https://github.com/Drlazinho/desafio-alura-09-2024-Marvel-heroes
-478º,9,Vinícius Daniel de Oliveira,https://github.com/TheTurnipHead/Imersao-alura-pokemon
-479º,9,Jean Bruno dos Santos Silva,https://github.com/jbcodexsilva/jb-teoriaMusical
-480º,9,Arthur Inácio Gitzel Teixeira,https://github.com/Inacio04/Processadores
-481º,9,Amanda Mayer,https://github.com/AmandynhaM001/EcossistemaGoogle--Imers-o-Dev-com-Gemini/tree/main
-482º,9,Luan Zelinski Corrêa,https://github.com/luanzelinskicorrea/IDCGGA-LZC
-483º,9,Sabrina dos Santos Gomes,https://github.com/Sabrina868/Paises-da-Oceania
-484º,9,Marcos Rogério Guerreiro,https://github.com/mrguerreiro/AluraGemini.git
-485º,9,Phillip Miranda da Silva,https://github.com/PhillMiranda/ImerssaoDevAlura/tree/main/Imers%C3%A3oDev_%20Alura
-486º,9,Larissa Caroline de Araujo,https://github.com/LarihssaC/Fauna_Brasil.git
-487º,9,UBIRATAN ALMEIDA ALBUQUERQUE SOBRINHO,https://github.com/BiraByte/ImersaoAlura/tree/main
-488º,9,juan Malachias Pereira de Freitas,https://github.com/Juanmalachias/worldgeek
-489º,9,sarah Nascimento,https://github.com/Punkiita/genshin-5
-490º,9,Mateus Oliveira Augusto,https://github.com/mateusoliiveiira/QUIZ-Alura
-491º,9,Micael Sampaio da Silva,https://github.com/MicaelSampaioS/Seu-Mentor-Acad-mico
-492º,9,Arthur Andrade dos Anjos,https://github.com/sensewxrld/wikirap
-493º,9,Letícia Farias de Souza,https://github.com/lefarias-med/imersao/tree/main
-494º,8,Matheus Vitório Figueiredo de Oliveira,https://github.com/Mat2302/geminiAlura
-495º,8,Ezequiel Adriel Leite Farias,https://github.com/ezequielfarias/Imers-o-Alura---Ciberseguran-a
-496º,8,Erick Patrick dos Santos Silva,https://github.com/ericks03/JS-GAME
-497º,8,Jorge Teixeira de Melo,https://github.com/JorgeDeTeixeira/Imers-o-Alura
-498º,8,José Genilson Araújo de Souza,https://github.com/genilsonaraujo/ProjetoIntegrador1
-499º,8,Jefferson vitor silva,jeff25700
-500º,8,Gabriel da Costa Evangelista D'Epiro,https://github.com/GabrielDepiro/Imersao-Google-Gemini
-501º,8,allan vinicios,https://github.com/alllanvfs/imersao_alura/tree/main
-502º,8,João Vitor De Oliveira Ferreira,https://github.com/joaoincode/imensaodev-alura
-503º,8,Mauro Vinícius Holme,https://github.com/MauroHolme/atletas_brasil
-504º,8,Ezequiel Adriel Leite  Farias,https://github.com/ezequielfarias/Imers-o-Alura---Ciberseguran-a.git
-505º,8,Miller César de Oliveira,https://github.com/miller00315/dont_be_fooled/tree/main
-506º,8,Marcio Jucelio Gomes Barros,https://github.com/marciojucelio/blacklives
-507º,8,João Vitor De Oliveira Ferreira,https://github.com/joaoincode/imensaodev-alura
-508º,8,Thiago Marques,https://github.com/ThiagoMarques19/luffy-run
-509º,8,Fabio Henrique,fabiohesantosleite
-510º,8,Fabio Henrique,fabiohesantosleite
-511º,8,Marcio Jucelio Gomes Barros,https://github.com/marciojucelio/blacklives
-512º,8,Miriã Ribeiro,https://github.com/miria2413/imers-o-dev-gemini
-513º,8,Rogerio Lubk,https://github.com/rogeriolubk/Calculadora.git
-514º,8,Anderson dos Santos Soares,https://github.com/andersonsoares12/alura_gemini
-515º,8,Silas Hamburgo Santana,https://github.com/Hamburgos/dev-gemini
-516º,8,Hidemitsu Gonçalves Hashimoto,https://github.com/HidemitsuHashimoto/alura-gemini-rpg-class
-517º,8,Gilson Pereira Andrade,https://github.com/users/gilsonpa/projects/1
-518º,8,alyson marian,https://github.com/amariandev/lendasdorock.git
-519º,8,Douglas Pereira Galdino,https://github.com/DougPGaldino/Imersao-Dev-Alura
-520º,8,Carolina Silveira Andreani,https://github.com/cacausilveira/tatuagens-do-mundo
-521º,8,Lucas de Campos Ranzani,https://github.com/llucascr/ImersaoDevAlura_GoogleGemini
-522º,8,Helen Souza Ramos Ivo,https://github.com/Helen-Ramos/imersao_alura/tree/main
-523º,8,EDUARDO SOUZA RODRIGUES,https://github.com/eduardo2580/search_engine
-524º,8,Leandro do Vale Santos,https://github.com/LeandroVale7/Imersao-Dev-Alura
-525º,8,Pedro,https://github.com/PedroLouzada/imersao-alura
-526º,8,Paulo Vitor Andrade Borges,https://github.com/Paulovab/Imers-o-Dev-Google-Gemini---Tabuada-de-multiplica-o.git
-527º,8,Maria Eduarda Santana,https://github.com/eduardasnz/projeto-judocas/blob/main/README.md
-528º,8,vinicius krulewski delfino,https://github.com/krulewski/Star-Wars
-529º,8,Matheus Silva de Deus,https://github.com/MatheusSD19/Phrasal-Verbs-Today/tree/main
-530º,8,Maico Trein Müller,https://github.com/maicotreinmuller/CodeFlix
-531º,8,Lyvia de Freitas Moreira Oliveria,https://github.com/0002Ly/Jogo_Obstaculos
-532º,8,Rhuan A. A. Boni,https://github.com/Rhuan-aa/javascript/tree/main/PP%20-%20Personal%20Projects/IMC%20Calculator
-533º,8,Felipe Bozolan,https://github.com/bozolan22/PROJETO-BET/tree/main
-534º,8,Eduardo Rocha,https://github.com/Edurcm/GaleriaVisual
-535º,8,Arthur,https://github.com/artstar10/google-gemini-alura
-536º,8,Andréia de Almeida Marques,https://github.com/Andreiaamarques/Intolerancia-alimentar/blob/main/README.md
-537º,8,Isis Marieli da Silva Moura,https://github.com/IsisMarieli/webMatrix
-538º,8,Elaine,https://github.com/ElaineSouza88/projeto-ia-gemini/tree/main
-539º,8,Marcelo Dias Soares,https://github.com/Mdsoare/demon-slayer
-540º,8,Marcelo Dias Soares,https://github.com/Mdsoare/pesquisa-pokemon
-541º,8,Luiz Eduardo,https://github.com/luizeduardoqj/Site-dos-Memes
-542º,8,Gabriel Lopes de Brito,https://github.com/lopes2202/filmes-projeto/tree/main
-543º,8,Leandro Gasparino,https://github.com/LeandroGasparino/Projeto
-544º,8,GABRIEL MONTANHER,https://github.com/GMontanher96/imersao-alura
-545º,8,Marcelo silva,https://github.com/marcelosilva03/ProjetoMusical
-546º,8,Cirlei Dias Gonçalves,https://github.com/CirleiDias/Planetas-em-Chamas
-547º,8,Nelson Nishiwaki,https://github.com/nnishiwaki/Eleicoes_2024  https://eleicoes-2024-ten.vercel.app/
-548º,8,Maria Elisa Biagi Tassi Raphael,https://github.com/MariaElisaBTR/IM_Alura
-549º,8,Davi Fernandes Domingues,https://github.com/Fernandes2019/ProjetoSorte
-550º,8,Natanael Eugenio,https://github.com/Euggenio/S-ries/blob/main/README.md
-551º,8,Yasmin Sanches,https://github.com/yasminsan009/Imers-o-Alura
-552º,8,Yasmin Sanches,https://github.com/yasminsan009/Imers-o-Alura
-553º,8,Dinah Navas Elias,https://github.com/dielias/chapeuSeletor
-554º,8,Julio,https://github.com/gotinhaneto/olimpiadas
-555º,8,Gabriel Henrique Carvalho de Sousa,https://github.com/henriquedev24/lugares-do-mundo.git
-556º,8,Bruno Henrique Naiser Hernandes,https://github.com/bnaiser/Imersao-alura
-557º,8,Marina Trevisoli Gervino,https://github.com/maritrevisoli/Mapa-interativo-de-impacto-social
-558º,8,Kauã Miguel Oliveira dos Santos,https://github.com/KauaOSantos/Imersao_Dev_Alura
-559º,8,Luis Miguel Ferreira de Souza,https://github.com/Kirby350/Celeste/tree/main/projeto%20alura
-560º,8,Carlos Eduardo Marques Veloso,https://github.com/Carlosmveloso/mundo-do-desenvolvedor
-561º,8,Willian de Sousa Xavier,https://github.com/Cr0l3y/imersaoResilientesAL
-562º,8,Estela Tamura Mello Freire,https://github.com/estelatamura/nossos-pes-viajantes
-563º,8,Vahissa Rafaely da Silva,https://github.com/VahissaRafaely/Projeto-de-Busca-Interativa-para-Atividades-de-Beb-s/tree/main
-564º,8,José Guilherme,https://reforma-tributaria.vercel.app/
-565º,8,Oseanes Dias de Farias,https://github.com/Oseanes/quiz-conhecimento
-566º,8,Lucas Mateus,https://github.com/lucasmateusdesenvolvedor/-ASSIM-QUE-ACABA
-567º,8,Caíque de Sousa Ferreira,https://github.com/CaiqueSF/codigo-aberto
-568º,8,Simone Alves Diana,https://github.com/SiDianaGit/VamosEstudar
-569º,8,Arthur Moraes de Paula,https://github.com/ArtthurMoraes/nba-players/tree/main
-570º,8,Gabriel da Silva Toledo Cristino,https://github.com/biel628/Imersaodev                             https://imersaodev-hazel.vercel.app/
-571º,8,Milena da Silva Castro,https://github.com/Mit-98/EcoGuia
-572º,8,Brenda Gabrielli Barbosa,https://github.com/brebarbosaa/soBalletAlura
-573º,8,Fábio Guerreiro,https://github.com/fabiogsal/Ao-Gosto-BR-site
-574º,8,Kallebe Daniel Guedes Almeida,https://github.com/Kallebson11/Variantes-do-Deadpool/tree/main
-575º,8,Camila Lopes Veiga,https://github.com/Camicai/TurismoBr-Search
-576º,8,Ricardo Rocha da Mata,https://github.com/RicardoRocha1990/Centro-Oeste
-577º,8,Victor Lima,https://github.com/limavictor97/Valentino
-578º,8,João Alexandre da Costa,https://github.com/Jadc-1/Catalogo-Netflix
-579º,8,Leonardo Gamerro,https://github.com/Leozzitor/DoencasVirais-ProjetoGoogleGemini
-580º,8,Eduardo Gabriel Proença de Carvalho,https://github.com/YoungLich/Search-Machine
-581º,8,Stanley Gomes da Silva,https://github.com/StanleyGomes-dev/Projeto-politico
-582º,8,Gabriel Oliveira Gomes,https://github.com/GabriOliveira/projetoMusica
-583º,8,Matheus Menezes,https://github.com/Matheusmene/projetoaluragooglegemini.git
-584º,8,Igor Bitencourt,https://github.com/igorb-dev/mundo-bruxo
-585º,8,Kauê Riki Kakinoana,https://github.com/kaueriki/ImersaoAluraGemini
-586º,8,Matheus Lucio Araujo Mendonça,https://github.com/MatheusLucio84/Apostolos
-587º,8,Giulia Zacharias Belatini,https://github.com/GiuliaaaB/AumigoIdeal/tree/main
-588º,8,Yan lucas Menezes Alves,https://github.com/ynxzs/Projeto-imers-o
-589º,7,ADELCIO CAVINATO PORTO,https://github.com/portoinfo/Alura
-590º,7,Hugo Luiz Silva do Valle,https://github.com/hlsvalle/projetoimersao
-591º,7,Rudinei Pereira Dias,https://github.com/rudineidias/print3d/
-592º,7,Gabriel Rodrigues de Borba,https://github.com/Dev-Borba/imersao_alura
-593º,7,Vinicius Krulewski Delfino,https://github.com/krulewski/Imers-o---Star-Wars
-594º,7,Murilo de Oliveira Silva,https://github.com/developmurilo
-595º,7,Pedro Henrique Silva Ferreira,https://github.com/henrique-esilva/projeto-alura-gemini-2024
-596º,7,Alef,Https://github.com/
-597º,7,Adriana B Aura,https://github.com/adrianaaura/imersaoDevGemini
-598º,7,Murilo de oliveira Silva,https://github.com/developmurilo/imers-o_alura
-599º,7,Paulo Henrique Costa Alves,https://github.com/Ph-Alves/Projeto-alura
-600º,7,GeminiWAChat,https://github.com/baku01/GeminiWAChat
-601º,7,Larissa Mayara Rodrigues de Oliveira,https://github.com/LariOpanda/imersao-dev-alura-gemini
-602º,7,Flavio Nunes,https://github.com/FlavioMurielNunes/Projeto-Imersao.git
-603º,7,Emilly,https://github.com/emillytol/cars/tree/main
-604º,7,Alexandre dos Santos pires de sousa,https://github.com/vrcvde/Melodia-Essencial
-605º,7,Paulo Marcio Ribeiro da Costa,https://github.com/PauloMRC/imersao_alura
-606º,7,Rodrigo Eufrasio Costa Pires,https://github.com/recpires/Imer-alura-gemini
-607º,7,Talilo Tarlison Passos de Araujo,https://github.com/talilotarlison/ongtech-imersao-dev-google-gemini-main
-608º,7,Pedro Ernesto Pinheiro Gonçalves,https://github.com/PedrocaOBanido/Guia_de_Tuning
-609º,7,Talilo Tarlison Passos de Araujo,https://github.com/talilotarlison/ongtech-imersao-dev-google-gemini-main
-610º,7,Edinardo de Melo Pereira,https://github.com/edinardo-pereira/google-gemini
-611º,7,Matheus Crosciati,https://github.com/drkmatheus/pmmx-alura
-612º,7,Luis Antonio Soares,https://github.com/LuisSoaresDevCriativo/tdah
-613º,7,Leonardo Hideki Morita,https://github.com/leonardomorita/imersao-alura-dev-gemini
-614º,7,Kauê Riki Kakinoana,https://github.com/kaueriki/ImersaoAluraGemini
-615º,7,Guilherme Sá,https://github.com/Guilherme-Sa-1/imersao
-616º,7,Bernardo Amisse Assumane,https://github.com/bernardoaa/buscadorDeLocaisTuristicosDeMocambique
-617º,7,Diogo Carelli,https://github.com/Carellao/SuperHerois
-618º,7,Luís Felipe Narciso Barcelos,https://github.com/FelipeNarciso/Imersao-Alura-Gemini
-619º,7,Erik Breno Branches Caldeira,https://github.com/Breno-max-lab/Quiz-Programa-o/tree/main
-620º,7,Evellyn da Silva Neves,https://github.com/Ynlleve/Venom
-621º,7,Milene de Lima Veiga,https://github.com/Milenedev-alt/Livros
-622º,7,Mariane Okimoto,https://github.com/Bplushie/Trash-Ops-Imers-o-Dev-Alura
-623º,7,Fernando Salles Vilela,https://github.com/FerSiloe/PlanodeEstudos
-624º,7,Liz Lane,https://github.com/Laneads/gatinhos
-625º,7,Matheus Vencovsky da Penha,https://github.com/mathvencovsky/Palmeiras-Mundial
-626º,7,Bruno Maia de Oliveira Peixoto,https://github.com/BrunoMaiaPeixoto/codigis
-627º,7,Paulo Giovani Teles Dias,https://github.com/paulotelss/Alura-imersao
-628º,7,Melyssa da Silva Azevedo,https://github.com/MelyssaAzevedo/imersaodev-racas
-629º,7,Guilherme Henrique Almeida Bianchi,https://github.com/thcegui/WoW/tree/main
-630º,7,Rogerio Leite Paiva,https://github.com/RogerioLPaiva/Imers-oAlura
-631º,7,Guilherme Augusto Perazolli Costa,https://github.com/gPerazolli/imersao-dev_google-gemini
-632º,7,Alexia Bagesteiro Camargo,https://github.com/accstudyac/Poetas-Brasileiros
-633º,7,Júlia Maria Barbosa Kuroishi,https://github.com/juliakuroishi/imersao-dev-ALURA
-634º,7,Rodrigo Alves,https://github.com/rodrigoo-alves/alura-pokedex
-635º,7,Pedro Henrique Pinheiro Dias Barbosa,https://github.com/phdiias/motos-tech
-636º,7,Rogerio Leite Paiva,https://github.com/RogerioLPaiva/Imers-oAlura/blob/main/app.js
-637º,7,Hamilton,https://github.com/HamiltonFJ/oldcars
-638º,7,Bruna Matos Pereira dos Santos Mercuri,https://github.com/Bruna-MM/PatinhaIdeal
-639º,7,Renato Rodrigues Dos Santos,https://github.com/Santosrr/escolas.git
-640º,7,Denes Almeida Machado Filho,https://github.com/DenAlmeida/site-reflexos
-641º,7,yasmin vizeu gil,https://github.com/Yasminvizeu/imersao-alura-gemini
-642º,7,Petterson Oliveira,https://github.com/PettersonnOliveira/Atletas-do-flamengo-2024
-643º,7,Alexandre Augusto De Camargo,https://github.com/AlexandreCamargo13/Cantores_Famosos
-644º,7,Nicolas de Almeida Sousa,https://github.com/NicolasStudio/Batalha-Naval
-645º,7,Patriandeson Soldiade dos Santos,https://github.com/PatriandesonSolidade/autismo.git
-646º,7,Bianca Sara,https://github.com/bsaraf/Lista-de-Tarefas
-647º,7,João Victor de Freitas Lima,https://github.com/jvfreitasl/Imers-o-Dev-with-Gemini
-648º,7,Rodrigo Moura Sousa,https://github.com/RogsMoura/LoL
-649º,7,caroline monfardini,https://github.com/karolychan/imersao1-aluragemini
-650º,7,Bruno Chaell Silva,https://github.com/brunochaell/Imers-o-Dev-_-Zelda
-651º,7,Matheus Farias de Souza,github.com/MathFarias/MyoBOT
-652º,7,José Erasmo Santana Rocha,https://github.com/JseRocha/eastereggs
-653º,7,José Samuel de Lucena,https://github.com/JoseSamuell/Imers-o-Alura-Gemini/blob/main/README.md
-654º,7,Henrique Melo Gaertner Amaral,https://github.com/HenriqueMGA/Imersao-Alura-Gemini
-655º,7,Gabriela da Silva,https://github.com/GabidaSilva/proj_imersao_alura_gemini
-656º,7,Matheus Eduardo Custódio Souza,https://github.com/MatheusAnimacaoCraft/O-Cubo-M-gico
-657º,7,Emerson Silva Santana,https://github.com/EmersonFy2002?tab=repositories
-658º,7,Kaio Gabriel de Sousa Carvalho,https://github.com/KaioGabriel-the/Imers-o-Dev-com-Google-Gemini.git
-659º,7,Damião Otávio da Conceição,https://github.com/Damiao100/projeto-dc-veiculos/tree/main
-660º,7,João Marcos Barbosa Nogueira,https://github.com/JoaoMarcosBN1/photoworld
-661º,7,Lucas Gabriel Ramos da Silva,https://github.com/LucasRamuus/Paralimpiadas
-662º,7,João Vitor de Souza da Silva,https://github.com/joaovitorss472/projeto-imersaodev
-663º,7,ELIANE POLIDORO BERTI,https://github.com/ELIANEBERTI/SIGNOS
-664º,7,Fernando Torre Moreira,https://github.com/ftorrem/data_science_books/tree/main
-665º,7,Emerson Costa,https://github.com/messorod/Alura-Baseball
-666º,7,Pablo Alves Fernandes,imersoes-front-alura.vercel.app
-667º,7,João Luiz Garcia Borba,https://github.com/ojoaoborba/imersao.alura
-668º,7,willians martins silva de gois,https://github.com/williansMT/Apostolos-gemini-projeto-Alura
-669º,7,Glaucio Marques Nogueira,https://github.com/GlaucioMN/The--Best-AluraGemini
-670º,7,vitor batista de freitas,https://github.com/Batistta/PaleontologiaBr
-671º,7,Caio Henrique,https://github.com/CaioLopes5556/Gramofones
-672º,7,Pedro Henrique Peres Roriz,https://github.com/PedrohRoriz/machuquei
-673º,7,Ludimila Maria de Oliveira Cardomingo,https://github.com/ludoliveira/FerramentasIA
-674º,7,Ana Beatriz Nunes Zucareli,https://github.com/zucareli17
-675º,7,Bernardo Abreu Brandão,https://github.com/BeBrandao/Alura-Gemini
-676º,7,clara,https://github.com/claraamz/tay
-677º,7,Alexandre Barreto Menna,https://github.com/Alexandre05/Site-de-Noticias.git
-678º,7,Diego Gustavo dos Santos Medeiros,https://github.com/diegodimedeiros/Uma-Fruta-Todo-Dia
-679º,7,Guilherme Schenfeld,https://github.com/RomanoSSch/InfoGames
-680º,7,Antônio Lucas de Lima Gueiros Pires,https://github.com/AntonioPROLucas/Zelda-Timeline-Guide
-681º,7,Gustavo Jefferson Pereira Ferreira,https://github.com/Gustavow-Ferreira/AcademyEduQando/tree/main
-682º,7,Anderson Fernandes da Silva,https://github.com/AndersonDevFernandes/imersaoDevAlura
-683º,7,Sara Machado,https://github.com/sar-md/marvel-play
-684º,7,Gabriel da Silva,https://github.com/GabrielDev1667/Primeiro-Site--Alura/blob/main/README.md
-685º,7,Kauã De Araújo Rocha,https://github.com/kauayzk007/Musicas/tree/main
-686º,7,Vanessa,https://github.com/Vanlimp/cat-logo-minipizza
-687º,7,Tauan Carvalho Serpa,https://github.com/tauan2serpa/projeto-bestiario-imersao-alura-com-google-gemini
-688º,7,Carlos Alberto Poschardt da Silva,https://github.com/carlinhospos/projeto_streamings
-689º,7,Michel,https://github.com/DEV-Cafe096/personal-chatBot-v1
-690º,7,Mariana Dias Pereira,https://github.com/Marianadias503/BurguerMania
-691º,7,Nathalia de França Pinheiro Merelli,https://github.com/Nathalia-Merelli/HelpGuide.git
-692º,7,Mateus Barros Veríssimo,https://github.com/mateusverissimo94/imersao-gemini
-693º,7,Juci Alves Junior,https://github.com/JuciAlvesJunior/Farmaquick
-694º,7,Antonio Abel de Lucca Junior,https://github.com/aadljdev/adotaPet
-695º,7,Lucas Abmael Bandeira Formiga,https://github.com/lucas22022008/SearchDev
-696º,7,Leonardo,https://github.com/leolynz/motopecas
-697º,7,Natália Gomes Quintilhano,https://github.com/quintilhano-maker/Signos-HTML
-698º,7,Monalisa Oliveira Alves,https://monalisaalvess.github.io/projeto/
-699º,7,Rafael Gerônimo Oliveira,https://github.com/geronimoOliveira/Projeto-Tecnologia-e-inclus-o
-700º,7,Amaral,https://github.com/amxral/imersao-alura
-701º,7,Lucas Palma Stabile,https://github.com/Hilgo/forca-multiplayer
-702º,6,victor augusto ferreira rodrigues,https://github.com/victorAFRodrigues/Projeto-Alura-Gemini
-703º,6,Gabriel Mathias Da Silva Bastos,https://github.com/Gab2390/Projeto-imers-o
-704º,6,Carlos Alexandre da Silva,https://github.com/Carlosaleee/ImersaoAluraGemini
-705º,6,Salvador Camiege,https://salvadorcamiege.github.io/Projecto-Guarda/
-706º,6,Iago Menezes Soares,https://github.com/iagoheadmaster/Imers-o-IA-Alura-Google.git
-707º,6,Beatriz santina,https://github.com/krocodaimon/OnePiece/tree/main
-708º,6,Natanael de Sousa Martins,https://github.com/natanmartinsm/judocasbrasileiros
-709º,6,Wesseley Moura de Paula Freitas Junior,https://github.com/WesseleyJr/viajantesConetectados
-710º,6,Israel José Oliveira de Brito Júnior,https://github.com/israelbritojr/Spotify-Wiki
-711º,6,Natalia de Souza da Cruz,https://github.com/Queenlust/Raibow-World
-712º,6,Carlos Henrique Garcia Soares,https://github.com/Carlos-CGS/Projeto-AssistenteBusca
-713º,6,Luis Carlos de Oliveira Junior,https://github.com/LucaolDev/Projeto-Imersao
-714º,6,Caio Henrique Novaes da Silva,https://github.com/Caio-Hnovaes/JusticeLeague-pt-BR-
-715º,6,Patricia de Souza Escobar,https://github.com/Patricia-1996/ImersaoPatricia/tree/main
-716º,6,Henrique Marcandier,https://github.com/henriquemarcandier/linguagens-de-programacao
-717º,6,Raquel Guerreiro,https://github.com/RaquelGuerreiro21/Biotec
-718º,6,Caio Bomfim Pantoja,https://github.com/caiob2811/imersao-alura
-719º,6,Marlos Fellipe Nunes Siqueira Cardoso,https://github.com/marlosfellipe/bancos
-720º,6,Caio Bomfim Pantoja,https://github.com/caiob2811/imersao-alura
-721º,6,Geovana Teixeira Cardoso,Geovana145674/olimpiadas-projeto
-722º,6,William dos Santos Silva,https://github.com/wsant/imersao-dev-alura-asssitencia
-723º,6,Gabriel Rodrigues de Almeida,README.md
-724º,6,Kaike Smolari,https://github.com/KaikeSmolari/Air-max/tree/main
-725º,6,ARIANE KELLY RIBEIRO DOS SANTOS,https://github.com/arianekellyribeirodossantos/buscagames
-726º,6,Luciane de Castro,https://github.com/lucianedecastro/imersaodevAlura
-727º,6,Isac Monteiro de Castro Soares,https://github.com/IsacMonteiro/ProjetoMetalSlug.git
-728º,6,William Mateus De Novais,https://github.com/williamVrau/ImersaoAlura
-729º,6,Frederico Moura,https://github.com/mourafc73/CiclistasFenomenomenais.git
-730º,6,Nathércia Aguiar,https://github.com/Nkcosta/minhas-viagens
-731º,6,Bruna Soares Neves,https://github.com/ibrunaneves/imersao-alura-gemini
-732º,6,Paulo Henrique,https://github.com/Paulo-Joseph/Origamis-DIY/tree/main
-733º,6,Daniel Chaffer,https://github.com/DChaffer/projectone-github
-734º,6,Maria Fernanda Prandi Quintella Nunes,https://github.com/Mafeepam/musiquinhas
-735º,6,Age,https://github.com/agge0/filmes-internacionais
-736º,6,Douglas Silva,https://github.com/douglass154/projetos/tree/main/pessoais/projeto-serie-lucifer
-737º,6,Luana,https://github.com/thatbky/alura.git
-738º,6,Raylan da Rocha Araújo,https://github.com/raylanraraujo/projetoamigopet
-739º,6,Enrico Vergolino Gnani,https://github.com/EnricoVergolinoGnani/animes/
-740º,6,Leonardo Santana,https://github.com/Leonardo-Santana02/Search-Champions-Demo
-741º,6,Gustavo Felipe Scheneider,https://github.com/gusfelipes/imersao-alura-gemini
-742º,6,Daniel Freire da Silva,https://github.com/dev-DanielSilva/pokedex
-743º,6,Marcos Vieira,https://github.com/marvieiradev/monster-wiki
-744º,6,André Tavares,https://github.com/Nogmi81/imersao-Dev-Alura-Gemini
-745º,6,AFANAZIO GUTTERREZ ROCHA DE OLIVEIRA,https://gutterrez31.github.io/repositorio-site/
-746º,6,Gabriel Ferreira Herrera,https://github.com/gabrielferreira28/MundoRobotico/blob/main/README.md
-747º,6,Manoella Vieira,https://github.com/Manoellavs/CineVis-o
-748º,6,dandara batista de oliveira,https://github.com/dandayyyter/tentativa-site-alura
-749º,6,Marcelo A. F. Vieira,https://github.com/profmarcelovieira-cc/tecnologiaeducacional
-750º,6,Lucivan Dev-Dondon,https://github.com/DEV-Dondon/harrypotter
-751º,6,carlos augusto souza targino,https://github.com/carlituss2/card_games-github
-752º,6,Tauan dos Anjos Nascimento,https://github.com/TauanAnjos/Front-ImersaoAluraGoogleGemini
-753º,6,Fábio Marques Henrique,https://github.com/fabiohennr/energiaSolar
-754º,6,Darlan Oliveira Filho,github.com/designprojectdev/DRLMX-RACE/
-755º,6,Leonam Monteiro,https://github.com/leonammonteiro/natuwiki   https://natuwiki.vercel.app/
-756º,6,Leonardo Amorim Campos,https://github.com/Lacampos-info/ImersaoGemini/tree/LACAMPOS/IMERSAO/.vscode
-757º,6,Roberto Santos,https://github.com/BetoS79/Saturno.html
-758º,6,Guilherme de Almeida Braga,https://github.com/braguilweb/herb-alquimia
-759º,6,Diego Eiji de Menezes,https://github.com/diegoeiji/P1
-760º,6,Gabriel Alexandroni Cordova de Sousa,https://github.com/Alexandroni07/GamesWiki
-761º,6,Renato Trench,https://github.com/Trench12/imersao
-762º,6,Clauson Garcias Ambrosio,https://github.com/clausonambrosio/seriados
-763º,6,Rubens Jean Simon,https://github.com/rubemoon/herois-da-independencia
-764º,6,Cristiane Rangel,https://github.com/crisrangell/projeto-seriados
-765º,6,Jonathan Gabriel Santos de Lima,https://github.com/Jonhy21/ficcao_crista
-766º,6,Kaike Arthur Pereira,https://github.com/IkeArthyrus/Jogatina-SmashLegends
-767º,6,Caetano Bernardo Monteiro Souza,https://github.com/iBMSi/WikiAwards
-768º,6,João Victor Oliveira Dourado Costa,https://github.com/JV-VM/Projeto-da-Alura-com-google-gemni---JVVM
-769º,6,Fábio Leandro Medeiros,https://github.com/FabioMedeiros1000/desafio-alura-gemini-quiz
-770º,6,Thiara,https://github.com/ThiaraFernandes/mulheres-na-tecnologia
-771º,6,Ian Radtke,https://github.com/IanRadtke/receitas_de_geladeira?tab=readme-ov-file
-772º,6,Sidney Costa dos Santos,https://github.com/BOAZ-D7/Visual-Identity
-773º,6,William Reis,https://github.com/William-Reis/encontre-seu-pet
-774º,6,Thyago Roberto dos Reis,https://github.com/Dev-ThyRex/Pais-presentes-e-em-constante-transforma-o.git
-775º,6,Caio Barbosa Rodrigues,https://github.com/khyneXp/Mercearia.git
-776º,6,Wllysse Melo,https://github.com/Wllysses-Melo/Ci-ncias-Exatas
-777º,6,Gislaine Vanessa Custodio Souza,https://github.com/Gvcustodio/Mundo-Entretenimento
-778º,6,Daniel Augusto da Silva,https://github.com/danielssaugusto/imersao
-779º,6,Bruno Motta,https://github.com/Mottab766/Gemini-Cariocas
-780º,6,Anderson Petry,https://github.com/petry85/projeto_imersao_alura
-781º,6,Sara Vanessa Guedes de Oliveira Firme,https://github.com/sarafirme/DesafioAlura-Gemini
-782º,6,Luiz Eduardo Capovilla,https://github.com/LuizLEC/Aberturas-de-Xadrez.git
-783º,6,edson francisco da silva,https://github.com/hnfksdjjn/verde-sustentavel/tree/main
-784º,6,Isaías Amorim Gonçalves,https://gelo-e-fogo.vercel.app/
-785º,6,Caroline de Jesus Clezar,https://github.com/Cclezar/imers-o-treino-em-casa/tree/main
-786º,6,Julio Roncato,https://github.com/JulioRoncato/Clash-Royale---GitHub/tree/main ; https://clash-royale-git-hub.vercel.app/
-787º,6,FABIANA RODRIGUES DE ALMEIDA,https://github.com/FabianaRAlmeida/Tabela-Peri-dica
-788º,6,Luan Indiano Barreto,https://github.com/luanindiano/pesquisaDeNomes
-789º,6,Micael Sampaio da Silva,https://github.com/MicaelSampaioS/Seu-Mentor-Acad-mico
-790º,6,Joplin Hendrix da Silva Cruz,https://github.com/Joplin Cruz/animes
-791º,6,Caetano Souza Junqueira Tagliari Ferreira,https://github.com/Biscoito464/banco-de-jogos-brasileiros
-792º,6,Tallis Teixeira de Melo,https://github.com/tallismelo07/projeto-desvendando-atletas-
-793º,6,Adriel,https://github.com/Sethh7/Intelig-ncia-Artificial
-794º,6,Bruna Puggina Lima,https://github.com/BrunaPugginaLima/BuscadorSeriesTerror
-795º,6,Carolina Liberatti,https://github.com/caliberatti/acessibilidade
-796º,6,Lucas Gabriel Fernandes Ibanez,https://github.com/LxIbz/projetoCyberWall
-797º,6,Giovanna da Silva Araujo,https://github.com/GiovannaArauj0/SOSBrasil
-798º,6,Ayumi,https://github.com/ayujima/amiguinhos-da-sanrio
-799º,6,Thiago Castro Felix,https://github.com/thiagocastro-f/Tecnologias-Agro
-800º,6,Emmanuel lohan de siqueira ozorio viana,https://github.com/LohanOzorio/ChatBot-Bardo
-801º,6,Erivaldo Soares Junior,https://github.com/juuniorsoares/imensao-alura-google-germini
-802º,6,Geice Mara de O. R. Alexandre,https://github.com/AlexandreGM/Autismo
-803º,6,Murilo Weishaupt de Camargo,https://github.com/MuriloWeishaupt/Projeto-busca-de-carros
-804º,6,Márcia Cristina de Almeida,https://github.com/MayAlmeida09/Gemini/tree/main
-805º,6,Mariana do Nascimento Saldanha,https://github.com/calebsaldanha/Projetos_imersao_gemini/
-806º,6,Tassiana Milka Fontana Soares,https://github.com/TassianaMilka/Desafio-Alura-2
-807º,5,Edmo Gibson da Costa Carvalho,https://github.com/Kamiouji1/worlds-teams-data/tree/main
-808º,5,Lucas Tavares Drumond,https://github.com/LTavaresDrumond/Elenco-Botafogo
-809º,5,Emanuel Pereira de Sousa,https://github.com/Dipperdevs/imersao
-810º,5,Alison Barbosa,https://github.com/eualisonbarbosa/Viagens
-811º,5,Tiago Jacob,https://github.com/bvnditx/Remote-Education-Platform
-812º,5,Alexandre Silva Ferreira,https://github.com/Xandin22/OnePiece
-813º,5,luis carlos de oliveira junior,https://github.com/LucaolDev/Projeto-Imersao
-814º,5,Renato Pereira dos Santos,https://github.com/Renato32s/catalogo-de-jogos-indies
-815º,5,Guilherme Gomes Fernandes,https://guilhermegsfs.github.io/guilhermegemini/
-816º,5,João Milholo,https://github.com/jaomilholo/imersao-dev-alura
-817º,5,Ariane de Abreu Costa,https://github.com/Ariane2023/Aprendizagem
-818º,5,rodrigo venancio pimentel lima,https://github.com/RodrigoPimentelLima/projeto-google-gemini/tree/main
-819º,5,Rafaela Júlia Estabile,https://github.com/RafaJEstabile/Tecnologias.git
-820º,5,Tainá Fanfa,https://lunar-cycle.vercel.app/
-821º,5,Raphael Candido,https://github.com/Candido187/Dinossauros/tree/main
-822º,5,Gabriel Borges Silva,https://github.com/GabrielBorgesSilv/Pokedex-Pokemon
-823º,5,Lucas Pietro Roncatto,https://github.com/NextBooleanL/AluraMinecraftWiki
-824º,5,Luiz Gustavo Tozzi Dias Laurindo,https://github.com/DrLuizSherlock/Campe-es-Mundiais-Brasileiros-de-E-sports
-825º,5,João Víctor Dias Souza,https://github.com/JoaoVicDS/Curso-Alura
-826º,5,Amabilly Barbosa Russo,https://github.com/ambarussian/AluraImmersion
-827º,5,Wellygton Moraes e Silva,https://github.com/wellygtonDev2024/FrontEnd-Brasil/tree/main
-828º,5,wesley bruno pereira conde,https://github.com/Wesley9512/Flamengo
-829º,5,Davi Minetto Izui,https://github.com/daviizui/vaicompao-imersaodev
-830º,5,Elisvaldo Braga,https://github.com/elivaldobraga23/Cine-Mania
-831º,5,Sophia Heringer Coelho,https://github.com/Sophia-Coelho/Harry-Potter
-832º,5,Pierre Philemon Ricardo Rocha Reis,https://github.com/PierreRicardo213/Musicos-Mineiros
-833º,5,Guilherme de Paiva Ferraz Souza,https://github.com/Spindx/FimImerAlura
-834º,5,Everton Jesus da Paixão,https://github.com/evertonpaixao/front-end-develops
-835º,5,Gabriel Guimarães Gambeta,https://github.com/GabrielGambeta/Paralimpiadas/tree/main
-836º,5,Matheus Lima Carneiro,https://github.com/MatheusLimaCarneiro/GeminiWebDev
-837º,5,João Victor Pereira de Castro,https://github.com/JoaoVictorHub/Power-Rangers
-838º,5,André marcelino,https://github.com/Marcelinofatec/futebol
-839º,5,Deivid de Souza,https://github.com/deividfront-end/minhas-receitas
-840º,5,Gustavo Gabriel Fucilini,https://github.com/gustavofucilini/imersao-alura
-841º,5,Marco Aurelio Oliveira,https://github.com/Maoaurelio/Profissoes
-842º,5,Filipe Batista do Valle,https://github.com/Filipebdv/BTD6-Imersao
-843º,5,Carlos Magno Galindo Cordeiro da Silva,https://github.com/magnomct/imersao-alura-gemini
-844º,5,Maria Leônia de Melo Cavalcante,https://github.com/LeoniaMelo/TechTitans
-845º,5,Elandro Wozeak Caniela,git@github.com:elandro18/Descrubra-Sua-Classe-Tormernta20.git
-846º,5,Nivaldo Borges dos Santos Neto,https://github.com/Nivaldera/Atletas-Ol-mpicos-de-Jud-em-Toda-Hist-ria
-847º,5,Maria Fernanda Vaz Rocha,https://github.com/Mariavr04/Parabadminton/tree/main
-848º,5,Gustavo Barbosa Castilho,https://github.com/gustavobcx/imersao-dev-alura-gemini
-849º,5,Hudson Freire Miranda,https://github.com/hudsonfreiree/livros/tree/main
-850º,5,Arthur Leonardo Oliveira de Matos,https://github.com/Arthur-Leonardo/Deadpool-pool
-851º,5,Jose Eustaquio Silverio,https://github.com/JOSEEUSTAQUIOSILVERI0/retrato_queimadas.git
-852º,5,Pablo de lima Carvalho,https://codepen.io/collection/KpjLrO.
-853º,5,André Tavares,https://github.com/Nogmi81/imersao-Dev-Alura-Gemini
-854º,5,Larissa Pereira Victor de Lima,https://github.com/laraaladim/Programa-o_Iniciantes/tree/main
-855º,5,Daniel Barbosa Pereira,https://github.com/daniel-b-pereira/Oraculo-online
-856º,5,Agatha de Araujo Camargo,https://github.com/anek0/SitePortifolio
-857º,5,Nadinael Silva Teixeira,https://github.com/nadinael/socorre
-858º,5,Lucas Rodrigues Martins,https://github.com/LucasDevMartins/Projeto-Alura
-859º,5,Luisa Santana,https://github.com/Luuhs21/PesquisaGame
-860º,5,Marcos Vinícius Rebouças Lopes,https://github.com/Vhinicius/Seu-destino-nos-Estados-Unidos.
-861º,5,Marcella Hoffmann Barreto,https://github.com/marcellahoffmann/AluCine
-862º,5,Rodrigo Correia de Almeida,https://github.com/RodrigoC-Almeida/Imersao-Alura
-863º,5,Guilherme Amaral Guerra,https://github.com/GuilhermeAmaralGuerra/Projeto-Marvel.git
-864º,5,Maju,...
-865º,5,Fernando Diego,https://github.com/Efidiego/imers-o-alura
-866º,5,Arthur Gabriel da Silva,https://github.com/Arthgabriel/BacSearch
-867º,5,Túlio Barroso,https://github.com/TulioBarroso/Projeto-Web
-868º,5,Dayvison Fontes da silva,https://github.com/DayvisonFontes/AluraGemini
-869º,5,Leonardo Santos Oliveira,https://github.com/leosantos43/Leotech
-870º,5,Marcos Poscai,https://github.com/poscai/maquina_do_tempo/
-871º,5,Aline de Farias Lisboa,https://github.com/lisboalien/anime-project
-872º,5,Vinicius Sousa Fernandes,https://github.com/Vinifernandes05/projeto-alura-Marcas-Esportivas/blob/main/README.md
-873º,5,Rafael Henrique de Lima,https://github.com/RafaelhLimaa/Imersao_Gemini/tree/main/pontos-turisticos-por-estado
-874º,5,José Vinício Olivindo Dias,https://github.com/vinicioolivindo/miau-da-sorte
-875º,5,Christian Fernando Mazzon Gauer,https://github.com/Chrisfer132/CursosFaculdade
-876º,4,marcelo líbanio de Andrade,https://github.com/marceloandrade1993/meupersonal.git
-877º,4,Júlio César da Silva Borges,https://github.com/RealBG011/Mundo-do-Futebol
-878º,4,Rafael Rodrigues Pereira,https://github.com/RPTecDev/VideoGames
-879º,4,William Denis,https://olipimiadas.vercel.app/
-880º,4,felipe silva proença,https://vercel.com/new/felipe-proencas-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=imersao-google-gemini-h51na3jim-felipe-proencas-projects.vercel.app&projectName=imersao-google-gemini&s=https%3A%2F%2Fgithub.com%2Ffpsproenca%2FImersao-google-gemini&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1
-881º,4,Renan Evaristo,https://github.com/JuvenalJuvencio/Concurso-alura
-882º,4,Artagnaldo Coelho,https://github.com/artagnaldo/bloco-de-notas.github.io
-883º,4,Janaina Aparecida da Silva,https://github.com/ajanainasilva/imersao-dev-google-geminini.git
-884º,4,Frederico Carvalho (Zaki),https://github.com/freedyCarvalho/ImersaoAluraGoogleGemini
-885º,4,Pedro Henrique Rodrigues Costa,https://github.com/Pedr0-Henrique/Atletas-do-brasil
-886º,4,Lucas Gomes Mustafa,https://github.com/Lucasmstaf/atletasfluminense
-887º,4,Andrew Coelho,https://github.com/Projecoes/atletasParalimpicos/tree/main/ImersãoDev
-888º,4,Luisa Sant'Ana,https://github.com/lugoncales/skinviajante/
-889º,4,Leonardo Fernandes Ribeiro,https://github.com/LeonardoFernandesRibeiro/Neo-Arts/tree/main
-890º,4,Julia Reis,https://github.com/Yclaster/Cats
-891º,4,Ricardo,https://github.com/RiknelSan/GeracoesDosConsoles
-892º,4,Abdalla El Dib,https://github.com/danikejs/Imersao-Dev-com-Google-Gemini
-893º,4,Walker Marcelino Capuzzo de Aquino,https://github.com/walkerCapuzzo/cidades-historicas.git
-894º,4,Maria Eduarda Santos Pereira de Barros,https://github.com/marispbarros/senhor-dos-aneis
-895º,4,Victor Cardoso Lima Matos,https://github.com/VictorSamuraiWol/projeto-cloud-imersao
-896º,4,Michael,https://github.com/voi1d/A24-Alura-project
-897º,4,Matteus de Paula Francisco,https://github.com/matteusdpf/movie4you
-898º,4,Ysa Kayanne A.G,https://github.com/ykayanne/LaDouce
-899º,4,Kervens Louis,https://github.com/kervens12/Champions-Alura-Gemini
-900º,4,Gesiel Neves,https://github.com/gijosc
-901º,4,Jefferson Cardoso,https://github.com/jeffvida2003/buscadordepostIA
-902º,4,Victor Franco dos Santos,https://github.com/victor-franco-dos-santos/serras-brasileiras
-903º,4,Murilo Góes,https://github.com/Murilo-Goes/Pesquisa-Interplanetaria
-904º,4,Renato Rodrigues Dos Santos,https://github.com/Santosrr/escolas.git
-905º,4,Junior da Costa França,https://github.com/Juniorcosta-dev/Descubra-Brasil
-906º,4,Murilo Ramos Ortega,https://github.com/Ortega1998/Alura-Gemini-
-907º,4,Michele Sales,https://github.com/michelesales67/MEIO-DO-MUNDO
-908º,4,Ana Caroline de Jessus,https://github.com/Carolduplex/fisiculturias_imersaoDEV
-909º,4,Gabriel Teixeira Desterro,https://github.com/GabrielDesterro/Modern-Family-Wiki-Imers-o-Alura-Gemini
-910º,4,Gustavo Ribeiro,https://github.com/gurbr/alura-gemini-2024
-911º,4,Pedro Cordeiro Fernandes,https://github.com/PedroCordeiroF/Life-Is-Strange-Character-Search-Tool/tree/main
-912º,4,Sayd Matheus,Diretores-Essenciais-para-a-Hist-ria-do-Cinema
-913º,4,Lucas de Goes Vieira Júnior,https://github.com/LucasGoes89/buscaTemaVersiculos
-914º,4,Josué Pedroso,josuepedroso/Alura-Imers-o-Dev-com-Google-Gemini-
-915º,4,Nicole cazarini rodrigues,https://github.com/CazariniNicole/Curiosidades-do-universo/blob/main/README.md
-916º,4,Matheus Correa Seki,https://github.com/mcseki/imersaodev_portifolio
-917º,4,Luanna Fernandes Flor de Souza,https://github.com/Luanna88/ImersaoAlura-Gemini/tree/main
-918º,4,João Constantino Pontes Barreto,https://github.com/constantino2710/Senado-dos-tangas
-919º,4,Caio Borges,https://github.com/SinalZero/Frases-Nerds/tree/main
-920º,4,Moisés de Rossi,https://github.com/MoisesdeRossi/ProjetoDev
-921º,4,Bruno,Sem projeto
-922º,4,Pedro Guilherme Monteiro de Oliveira,https://github.com/Kamado328/Imers-o-dev
-923º,4,Samuel Souza da silva,https://github.com/samuel12s1/dicionario/tree/main
-924º,4,Dagmar Collela,https://github.com/Collela/Alura-Imersao-Dev-com-Google-Gemini
-925º,4,Diones sabino,https://github.com/D1ones/f--page
-926º,4,jayne aparecida da silva,https://github.com/JayneSilva/Desafio-Imers-o-Alura-Gemini/tree/main
-927º,4,Renan Sena,https://github.com/renan013/Projeto-alura-GoogleGemini
-928º,4,Ronayrton Rocha Barbosa Pinto,https://github.com/ronayrton/Imers-o-Dev-com-Gemini---Catalogo-de-pecas-de-informatica/tree/main
-929º,3,Laysson Santos da Silva,https://github.com/layssonsantos/Agenda-Digital
-930º,3,Vinícius Diller,https://github.com/viniciusdiller/olimpiadas
-931º,3,Mariana Lacerda Reis,https://github.com/mariilacerda/cantores-sertanejos
-932º,3,Maria Luiza Lima Bastos,https://github.com/marialuiza15/SoliSite-CursoAlura/blob/1d13ff1e8f872b3447499792f912d645e23f65b0/README.md
-933º,3,Maria Rosalia Pereira dos Santos,https://github.com/TImrosalia/projeto-tecnologiasalaser/tree/main
-934º,3,karla virginia,https://github.com/KarlaNascimento12/Curiosidade-Mitologica
-935º,3,Michael,https://github.com/voi1d/A24-Alura-project
-936º,3,José Heberson Rodrigues de Carvalho Filho,https://github.com/HebersonCarvalho/levelSkills
-937º,3,Lara Vitória da Costa Bezerra,https://github.com/larav1/zombie
-938º,3,Emanoel Victor,https://github.com/cientstaaa/games.git
-939º,3,Luis Felipe Galvao Cabral,https://github.com/Luisfgc1/ImersaoNBA_Help
-940º,3,Joyce,https://github.com/JoyceRibeiroS/agentes-valorant
-941º,3,Duan Ledson,https://github.com/Duan-Ledson/guerreirosZ/tree/main
-942º,3,Pedro Cavalcante,https://github.com/pedrobule/raizes-nomes
-943º,3,Samuel Dantas,https://github.com/s4mmus/lost-guides
-944º,3,Gabriel Gonçalves Alves,https://github.com/BielAlveszz/campeoes
-945º,3,Fernanda Cristina Amaral Santana,https://github.com/Santanaferr/Imers-o-Alura-e-Gemini-2024/tree/main
-946º,3,Munir Adnan Hamze,https://github.com/Munir002/Velozes-e-Curiosos/tree/main
-947º,3,Maciel Ferreira da Silva,https://github.com/MacielFerre/imersao_alura_paginaweb
-948º,3,Felipe Florêncio de Andrade,https://github.com/S3GFelipe/ProjetoEVolvo
-949º,3,Thiago Mendes de Lima,https://github.com/ThiagoLima616/Metal-BR
-950º,3,Caio Hênry Pereira Domingues,https://github.com/CaioHenryxz/Site-Mov.IA/tree/main
-951º,3,João Pedro Carmo Lopes,https://github.com/joaopcarmo/hotyreblog
-952º,3,Marcos Antônio Teixeira de Souza Junior,https://github.com/MarcosTeixeiraJr/pagina_de_busca
-953º,3,Juan Souza de Paiva,https://github.com/jsouzabr/patas_gemini
-954º,2,Leandro Aparecio losso barbosa,https://github.com/leanbarbosa/animes./tree/main
-955º,2,Thiago Mendes de Lima,https://github.com/ThiagoLima616/Metal-BR
-956º,2,Gabriele Beraldi Felipe,https://github.com/gabriele-beraldi/Slimepedia
-957º,2,Victor Amadeu S. de Medeiros,https://github.com/victramadeu/Plantas-t-xicas-mais-comuns-nas-escolas-do-Rio-de-Janeiro
-958º,1,Ana Caroline Alves Lustosa,https://github.com/AlvesLustosa95/Projeto-Imers-o-Alura-Google-Geminii.git
-959º,1,Pedro,https://github.com/Pedrobert013/Cientistas
-960º,1,Maikon Rigon,https://github.com/MaikonRigon/olimpiadas
-961º,1,Layo Brum,https://github.com/MrBrum007/Jogadores-de-e-sports/tree/main
-962º,1,Hugo Roberto Braga,https://github.com/hrbraga/imersao.git
-963º,1,Jerônimo Santos Rodrigues,https://github.com/JeronimoSantos/Projeto-Imesao-Dev-Gemini
-964º,1,Flávio Leandro Do Nascimento Félix,https://github.com/fau-33/imersao-alura-gemini
-965º,1,Odenilson Marques Araújo,https://github.com/odenilsonmarques/Projeto-alura-gemini
+1º,166,Marco Aurélio Rodrigues Ribeiro,https://github.com/marcoaurelior/cedulas-brasileiras
+2º,165,Israel Rodrigues de Jesus,https://github.com/ijrodrigues/retro-search
+3º,162,Leonardo de Paula Cardoso,https://github.com/leocardosoo/ReceitasFit
+4º,147,Gabriel Santana,https://github.com/gabrielgsantana/Meu-Projeto-Alura
+5º,134,Dllacy de Lima Rocha,https://github.com/Dllacy-Lima-Dev/Pokelandia
+6º,132,Lara Calegário Guedes,https://github.com/LaraGuedes/Imersao-Alura-e-Google-Gemini
+7º,119,Daniel Assis,https://github.com/nielassis/ecomerce-vue
+8º,114,Mário Lúcio,https://github.com/marioluciofjr/projetos_aptos_LIE
+9º,113,Daniel Nogueira,https://github.com/udanielnogueira/token-elements
+10º,110,Lucas Scherer,https://github.com/LucasScherer04/SantaLuiza
+11º,109,Mike de Sousa Pereira,https://github.com/mikedsousa/decola-dev
+12º,102,Matheus Hartmann,https://github.com/HartmannMT/Linguagens-de-Programa-o
+13º,91,Matheus Cavalcante de Souza,https://github.com/MatheusCS10/Futebol-Futurista
+14º,90,Jeferson Gonçalves Paz,https://github.com/jeferson-paz/projeto_final_alura_gemini
+15º,90,Aline Rhanny,https://github.com/alinerhanny/entendendo-o-autismo
+16º,87,Kaique Rodrigues Zaffarani,https://github.com/Z4ffarani/PORTFOLIO-AI-HUB?tab=readme-ov-file
+17º,85,João Victor de Matos Costa,https://github.com/joaonative/alura-imersao-gemini-2024
+18º,84,Rian Rios Lemes,https://github.com/RianRioos/Brazil_olympics.git
+19º,81,Náthali dos Santos Carlos,https://github.com/ailluminathi/Lore-of-Legends
+20º,80,Savio Castellar,https://github.com/SavioCastellar/hall-da-fama
+21º,79,Guilherme Campelo De Souza,https://github.com/Campelo3110/EcoWatt
+22º,78,Renan Gimenez,https://github.com/Renan-Gimenez/imersao-alura-gemini
+23º,76,Pietra Costa,https://github.com/Pietra-Costa/simu
+24º,72,Beatriz Garcia,https://github.com/beatrizgdc/geminiIaNews
+25º,69,Leonardo José Garcia Maia,https://github.com/leonardojgm/ATaverna
+26º,69,Flávia Machado,https://github.com/flaveti/Projeto-Tedio
+27º,68,Bruno Henrique,https://github.com/BrunoH4ds/Tecnologias-Invencao_web
+28º,67,Lauren Vasconcelos,https://github.com/l44ver/imersaoDev
+29º,66,Davi Samuel Rodrigues de Oliveira,https://github.com/Davesamuu/ongs
+30º,65,Adriel de Souza,https://github.com/dsadriel/imersao-dev-alura-gemini
+31º,65,Karliane Ferrari,https://github.com/Karliane20/Imers-o-Alura
+32º,63,Tarcio dos Santos Rodrigues Silva,https://github.com/tarcinwth/aluragemini
+33º,58,Kauan César Ferreira,https://github.com/cesarka1/NuTrainerAI
+34º,58,Iranildo Alves Sales,https://github.com/Iranildot/lang-studious
+35º,58,Samanta Wiese,https://github.com/sawaxta/show-da-imersao
+36º,57,Gustavo de Souza Martinez,https://github.com/qMartinz/Ferramentas-IA
+37º,57,Maria Eduarda Comin Paschoal,https://github.com/DudaPaschoal/pokedex-iniciais
+38º,56,Vinicius Moreira Ferreiar,https://github.com/angelbluehaven/serchdev.git
+39º,54,Arthur de Melo Barbosa,https://github.com/ArthMelo/arthmelo-imersao-dev
+40º,51,Felipe Pinho,https://github.com/FelipeePinho/projeto-TLOU
+41º,50,Matheus Audibert,https://github.com/matheusaudibert/devspace
+42º,50,Elandro Wozeak Caniela,https://github.com/elandro18/Descrubra-Sua-Classe-Tormernta20
+43º,49,Silvana Paiva,https://github.com/SilvanaCosta/imersao_dev_alura_gemini
+44º,49,Bruno Cassemiro de Almeida,https://github.com/devbrunocode/floresta-saber
+45º,48,João Alan Alves de Oliveira,https://github.com/CrimsonSunrise/Que-animal-posso-adotar
+46º,48,Pedro Henrique Cardoso de Morais,https://github.com/phzxx/The-Game-Awards-Alura
+47º,45,Marcone Boff,https://github.com/m4rcone/alura-imersao-dev-com-gemini
+48º,45,Ana JUulia,https://github.com/Ana7oxa/Multiverso
+49º,44,Suellen Silva de Oliveira,https://github.com/SuellenSO/Alura-Projeto
+50º,43,Paulo Cesar Rodrigues,https://github.com/PauloCesarRodrigues/JogaLogo
+51º,42,André Sales,https://github.com/andreluke/Desafio_DEV_AluraGemini2024
+52º,42,Clara Boamar,https://github.com/clarapoerner/comidas
+53º,42,Shirley Maria Balbino de Mendonça,https://github.com/shirleybalbino/tudo_sobre_ia_e_apis
+54º,42,Thalyson Rafael Barbosa Ribeiro,https://github.com/ThalysonRibeiro/cafe-na-xicara
+55º,42,Gabriel de Freitas Galvão,https://github.com/FuturoDevGalvao/Imersao-Dev-com-Google-Gemini.git
+56º,41,Matheus Vinícius Gesser,https://github.com/matheusgesser/themed-http-codes
+57º,41,Luiz Felipe Oliveira da Silva,https://github.com/oLuizFelipe/exerc-cioIdeal-github.git
+58º,41,Daniel Morceli,https://github.com/dnlll/cod
+59º,41,Jhonata Anderson,https://github.com/Jhonata-Anderson/sistema_solar
+60º,40,Agleice Faria de Sousa,https://github.com/agleicesousa/imersao-alura
+61º,40,Malu Alaquoke,https://github.com/quokequack/Lamarr
+62º,39,Matheus Quevedo,https://github.com/mthquevedo/Apolo-Imersao-Alura
+63º,38,Marcelo líbanio de Andrade,https://github.com/marceloandrade1993/meupersonal.git
+64º,37,João Paulo,https://github.com/Founder-gif/EncicloGamer
+65º,37,Julianne Wolkmer Henrique Silva,https://github.com/Trollhammer590/GatosMangakas
+66º,35,Sandro Medice de Oliveira Junior,https://github.com/smedjr/imersaodev-alura
+67º,35,Gabriel Sares Ferreira de França,https://github.com/gb-franca/PokeDex-Imers-o-Alura-
+68º,35,Tainá Morais Fanfa,https://github.com/vfxtai/LunarCycle.git
+69º,35,João Victor Souza Barros,https://github.com/Vitinho163/CodeBook
+70º,35,Sofia Carbonera,https://github.com/sofiacarbonera/gamerhub
+71º,35,Diego Araujo da Silva,https://github.com/Diego-Silva1/Animais-Marinhos
+72º,35,Melissa Valentin de Oliveira,https://github.com/melissavalentindev/imersao_DEV
+73º,34,William Hirdes,https://github.com/williamhirdes/Projeto-Imersao-Alura
+74º,34,Elton Emanuel Vale da Silva,https://github.com/EltOnVaLEF/Warriors-Vs-Wizards-Card-Fight-Game.git
+75º,34,Claudio Gabriel,https://github.com/Claudinhu/Imers-oAlura
+76º,34,Juliana Matarazzi (Ju Razzi),https://github.com/Ju-Razzi/Inclusao-de-mulheres-e-minorias-na-tecnologia---Google-e-Allura
+77º,33,Bomba4512,https://github.com/Bomba4512/imersao-alura | https://bomba4512.github.io/imersao-alura/
+78º,33,Lennon Oliveira,https://github.com/lehmends/quizbiblico
+79º,33,Gilberto Sá,https://github.com/Gibasa/grande-guia-jardinagem
+80º,32,Felipe Mascena Seabra,https://github.com/fmascena-dev/aluraimersao
+81º,32,Raissa Vitória Pereira Bispo,https://github.com/raissabispo/Entendendo-o-autismo
+82º,32,Vania Beatriz Andrade de Melo,https://github.com/Vany005/Imersao-Dev-com-Google-Gemini.git
+83º,32,Matheus Farias de Souza,https://github.com/MathFarias/MyoBOT
+84º,32,Isaque Roberto Zulato Henriques,https://github.com/IsaqueR02/Projeto-Imersao-da-Alura
+85º,31,Matheus Araujo,https://github.com/Mtheuxa/God-Of-War-Ragnarok
+86º,31,Gabriela Duarte do Nascimento,https://github.com/Gabrieladuartenascimento/finan-as/tree/main
+87º,31,João Marcos Souza Bueno,https://github.com/JoaoMarcosHB/ImersaoAluraGemini
+88º,31,Rafael Reiter Valério,https://github.com/rafaelreiter/Como-ficar-rico-com-IA
+89º,31,Jonatan Gabriel Costa da Silva,https://github.com/JonatanGabriel/AkumaNoMiDatabase
+90º,30,Leonardo Godinho Antonini,https://github.com/Antonini19/alfabetolibras.github
+91º,30,David Buena,https://github.com/DavidBuena/Maravilhas-do-Gemini
+92º,30,Gabriel Domingues,https://github.com/GabrielD1996/Imersao_dev_alura_gemini
+93º,30,Weslley Alex Cobra,https://github.com/WeslleyAlex/BibliotecaRoyale
+94º,30,Kauan Constancio,https://github.com/kauanconstancio/Imersao-DEV-Alura-Google-Gemini
+95º,29,Gilrlane Costa Ramos Lima,https://github.com/Gilrlane/projetolibras.git
+96º,29,Ketley Gonçalves,https://github.com/ketleygoncalves/girlstech
+97º,29,Rodrigo Soares Pereira,https://github.com/newbogirdor/Endless_Nightmare2
+98º,29,Wesley Ryan,https://github.com/Ryan-Wes/guia-de-saude-mental
+99º,29,Samuel Lucas Lopes,https://github.com/samuel-llp/floaria
+100º,29,Ana Carolina dos Santos Garcia,https://github.com/carolzrj/fut-carioca
+101º,28,Wladimir Calazam de Araujo Goes Ramos,https://github.com/WladRamos/A_Jornada_do_Heroi_Logico
+102º,28,Rebeca Rivas,https://github.com/rebecarivas/imersao-dev-trip-ai/tree/main
+103º,28,Kamilla Santos Silva Azevedo,https://github.com/kamillassazevedo/Maternar
+104º,28,Gabriel de Almeida Florio,https://github.com/ellld0/funcard
+105º,28,João Victor Franklin,https://github.com/JohnFrankkk/SolarAluraDev
+106º,27,Pedro Estevão Paulista,https://github.com/Pedro-Estevao/plataforma-estudo-personalizado
+107º,27,Daniela de Souza,https://github.com/Dani-Souza/medulaossea-imersaogemini
+108º,27,Paulo Miguel Bentes do Nascimento,https://github.com/Paulo-Mikhael/imersao-rpg
+109º,27,Cynthia Sant'Anna,https://github.com/CySantanna/flatpetz
+110º,27,Germano Costa,https://github.com/gerluc/meuprimeiropet
+111º,26,Alan de Queiroz Marques Salviano,https://github.com/AlanSalviano/ancc-alura-gemini
+112º,26,Ana Paula Rodrigues Marques,https://github.com/anaeng/BuscaCeva
+113º,26,Gabriel Tenorio,https://github.com/Devgabt/mundo-dev
+114º,26,Geovanni José Dantas de Azevêdo,https://github.com/GeovanniJDA/AniList
+115º,26,Lorena Antonele Gomes Chaves de Oliveira,https://github.com/Loloantonele/alura-gemini-imersaodev
+116º,26,Ingrid Gulão,https://github.com/ingridgulao/Seguranca-Digital/tree/main
+117º,26,Rafaela Cristina Ferraz,https://github.com/rafaferraz/reel-and-read
+118º,26,Sabrina S. Gomes,https://github.com/Sabrina868/Paises-da-Oceania
+119º,26,Fernanda Beltrão Leite,https://github.com/Nandsbeltrao/AIlert
+120º,25,Rafael Vieira da Silva,https://github.com/rafaelrvs/Pega_p_bus_Ai.git
+121º,25,Leonardo José Garcia Maia,https://github.com/leonardojgm/FabricaDePassoAPassoIA
+122º,25,Rafael Felipe Oliveira Santos,https://github.com/Foxbain/AlquimiaDigital-Imersao-Alura-Gemini
+123º,25,Jônatas Adriel Feyh,https://github.com/jonatasfeyh/imersao-dev-aluraegemini
+124º,25,Verônica Vilas Boas Barbosa dos Santos,https://github.com/VeronicaVilas/manhwaverso
+125º,25,Vander Lucio Ferrareis da Silva,https://github.com/vanderferrareis/narutopedia
+126º,25,roberto junior pantoja dos santos pereira,GitHub - robertonakato/Jogo-da-Memoria-dos-Animes
+127º,25,LEONARDO ARTHUR RIBEIRO AGUIAR,https://github.com/leonardoarthur/cara-do-ti
+128º,25,Maria Eduarda,https://github.com/MariaEduardaQuadros/Dev_Dados.git
+129º,24,Pedro Rodrigues Ferreira,https://github.com/peRodrigues/todo-list
+130º,24,Beatriz Santana do Prado,https://github.com/debonios/blossom-github/tree/main
+131º,24,Gabriela Franzini,https://github.com/Gabfranzini/ImersaoDevGemini
+132º,24,Jose Felipe Blum de Araujo,https://github.com/jfelipearaujo/alura-imersao-dev-gemini
+133º,24,Lais Aparecida Borges,https://github.com/laisab/ProjetoAlura-StudioGhibli.git
+134º,23,vithor hugo freitas medeiros,https://github.com/Vithorhh/Imers-o-Dev-com-Google-Gemini---Alura
+135º,23,Carlos Vinicius Vieira da Silva,https://github.com/viniciusgdr/gdrmusic-ai
+136º,23,Yuri,https://github.com/YuriDePaula/imerssao-alura-google-gemini
+137º,23,Gyan Monteiro,https://github.com/bjmontr/spiderverse-alura
+138º,23,Rodrigo Pereira Neves,https://github.com/roperne/Sistemasolar
+139º,23,José Diego Borges Oliveira,https://github.com/JoseDiegoB/TurismoCeara
+140º,23,Paulo Giovani Teles Dias,https://github.com/paulotelss/Alura-imersao
+141º,23,Hudson Ribeiro,https://github.com/Hudstoc/projeto-petshop-js
+142º,23,Luiza Crumenauer,https://github.com/LuizaCrumenauer/alimentos-para-caes/tree/main
+143º,23,Daiane Lopes,https://github.com/daianelopess/Pilulas-Historicas
+144º,23,leonardo costa,https://github.com/leoo-tech/batalha-rock.git
+145º,23,Beatriz Felix Campache,https://github.com/trizcamp/desvendando-data/blob/main/README.md
+146º,23,Lyvia de Freitas Moreira Oliveira,https://github.com/0002Ly/Jogo_Obstaculos
+147º,22,Luis Felipe,https://github.com/SrMaestro/Imers-o-Dev-com-Gemini
+148º,22,Carlos William dos Reis Xavier,https://github.com/carloswilliam863/MediaFinder
+149º,22,Felipe Trevizan,https://github.com/felphisss/animelist
+150º,21,Lucas Filipe dos Reis,https://github.com/ReisLucasF/MoneyGrow
+151º,21,Ângelo Silvano,https://github.com/angelodesenvolvedor/imersao-dev-olimpiadas
+152º,21,Leonardo Paixão Cruz,https://github.com/paixaoS2/guia_platina_god_of_war.git
+153º,21,Leandro Traldi Martins,https://github.com/LeandroTraldiMartins/Holiday-Finder
+154º,21,Marcos Roberto de Souza Filho,https://github.com/Mardevoon/Golden-Album
+155º,21,Victor Hugo Araujo Fogaça,https://github.com/minimundosbr/EncontraRango/tree/main
+156º,20,Daniel Ribeiro Ataíde,https://github.com/BigJhinZ/VirtudeEstoicaIMERSAO-DEV
+157º,20,Jefferson dos Santos Justino,https://github.com/jefferson-justino/Guia-de-jogos
+158º,20,Ashiley Sabrina Santiago Rodrigues,https://github.com/AshileySabah/my-deck-imersao-alura-gemini
+159º,20,Dafany Pedott,https://github.com/duff1e/imersao-alura-digitalis
+160º,20,Sarah Santana,https://github.com/Sarah781/ImercaoAlura
+161º,20,Adriana Gomes Pimenta,https://github.com/AdrianaGomesPimenta/descobrindo-signo
+162º,20,Paulo Robson De Andrade Gazzoneo,https://github.com/RobsonGazzoneo/imersao_alura2024.2
+163º,20,Vika Rosa Silva de Oliveira,https://github.com/venus-dream/AcervoDeMitologias/tree/main
+164º,20,Victor B. O. Leme,https://github.com/VBDOL/Imers-o-Alura-Google-Yoga-Hatha
+165º,20,José Heberson Rodrigues de Carvalho Filho,https://github.com/HebersonCarvalho/levelSkills
+166º,20,Mateus Oliveira Augusto,https://github.com/mateusoliiveiira/QUIZ-Alura
+167º,20,Gustavo Villela,https://github.com/gustavo-villela/central_dev
+168º,20,Pietro Castro Prata,https://github.com/Pietrocastro/Sustentabilidade-em-Casa
+169º,19,Mário Rian Macêdo Rodrigues,https://github.com/MarioR-16/hyper-cortex.git
+170º,19,Leonardo José Garcia Maia,https://github.com/leonardojgm/ImersaoAluraGemini
+171º,19,Heloysa dos Santos Arruda,https://github.com/heloysasa/blog-de-receitas
+172º,19,Samuel Lorran Andrade de Almeida,https://github.com/M4ximoG/RepositorioGamer
+173º,19,Fábio Roberto,https://github.com/fabio067/artesmarciais
+174º,19,Joel,https://github.com/joelsmatos/genshin101
+175º,19,Felipe Dos Santos Silva,https://github.com/Felps-Santos/Imersao_Dev_2024/tree/main
+176º,19,Américo Focesi Pelicioni,https://github.com/americofp/infecto
+177º,19,ISAC RYUTARO OTSUKA,https://github.com/i-otsuka/imersao-dev-alura-google-desafio
+178º,19,Hamilton Godoi Silveira,https://github.com/Ha1000tonG/meucafe
+179º,19,Guilherme de Almeida Braga,https://github.com/braguilweb/herb-alquimia
+180º,19,Rayssa Pereira da Silva,https://github.com/rayssapereira03/RBeauty_web---Imers-o-Dev.git
+181º,19,Esther Barreto Tavares Silva,https://github.com/esthertavaress/imersao-dev-google-gemini
+182º,19,Giovana,https://github.com/giovxna/heal-us
+183º,19,Christian Fernando Mazzon Gauer,https://github.com/Chrisfer132/CursosFaculdade
+184º,19,Franklin Pereira Andrade,https://github.com/frk-andrade/rpg-mundo-magico.git
+185º,18,Alex Costa,https://github.com/Alxcostta/Calculadora-IMC
+186º,18,Emerson Inácio da Silva,https://github.com/emerson16inacio/desenhos-reconfortantes
+187º,18,Tomas,shadow1363.github.io/imersao-dev/
+188º,18,Alessandra Rebecchi,https://github.com/AlessandraRebecchi/mulheresdaciencia
+189º,18,Janaina Silva,https://github.com/ajanainasilva/imersao-dev-google-gemini.git
+190º,18,lucas eduardo,https://github.com/Lucasodraude/CineMatch/tree/main
+191º,18,Luciano Quintela dos Santos,https://github.com/Lucianoquintela/imersao-dev-gemini
+192º,18,wallace bezerra da silva,https://github.com/Wallace-Bezerra/Omnia-AI-Vision
+193º,18,Laryssa Ferreira Martile,https://github.com/laryssamartile/dev-pack
+194º,18,Leandro da Silva Barros,https://github.com/zLeandrin/Projeto-Alura/tree/main
+195º,18,Gean Magno de Brito Cordeiro,https://github.com/GeanMagno/Imers-o-Dev-com-Google-Gemini
+196º,18,jairo neder monassa moreira,https://github.com/desenvolvedorjairomonassa/alura-imersao
+197º,18,Clarissa de Assunção Alves,https://github.com/clarissaaalves/quemvemla
+198º,18,Fabricio Liquesley dos Santos,https://github.com/fabricioliquesley/semente_do_bem
+199º,18,Luiza Dal Mas Pasini,https://github.com/luizaPasini/Livros
+200º,18,Felipe Carvalho do Nascimento,https://github.com/Howst/imersao-dev/tree/main
+201º,18,Letícia Farias de Souza,https://github.com/lefarias-med/imersao/tree/main
+202º,18,Deivily Dias Fernandes,https://github.com/deivilydias/Imersao-Dev-Google_Gemini
+203º,18,Jose Quintino de Freitas Junior,https://github.com/juniordefreitas74/universoDosVinhos/tree/main
+204º,18,Paulo Gilberto dos Santos Junior,https://github.com/PauloSantosJr/pokesigno
+205º,17,Henrique Gaiardoni,https://github.com/henriquegsantanna
+206º,17,Vlademir Segan Faria,https://github.com/vlademirfaria/alura-github
+207º,17,Paulo Custódio de Oliveira Junior,https://github.com/PauloCust/promptier.git
+208º,17,João Vitor Alves Fialho,https://github.com/oclubedosdez/animes-online
+209º,17,Weslley Novelino Cavallaro,https://github.com/weslleycavallaro/Projeto-Imersao-Dev-Alura-Google-Gemini/tree/main
+210º,17,Vítor Souza Garcia,https://github.com/vitusga/ProjetoME
+211º,17,KARINE DE LIMA ANTONIO MEIRELES,https://github.com/KarineMeireles/Imersao-Dev_Alura-Google
+212º,17,Paulo Henrique Alves Fialho,https://github.com/PHALVES252/Alexandria
+213º,17,Laura Beatriz Silva Serbêto,https://github.com/lauraserbeto/imers-o-dev-f1.git
+214º,17,Louise Saldanha Tormes,https://github.com/louisetormes/agentesValorant
+215º,17,Vinicius Pereira dos Santos,https://github.com/vinisanths/imersaoDevAluraGemini
+216º,17,Renata Kormann,https://github.com/renatakormann/Imersao-Alura2024
+217º,17,Marcos Vinnícius de Souza Amancio,https://github.com/marcosvsamancio/nerdmundi
+218º,17,Cristiane Justino dos Santos,https://github.com/crisjustinno/maquina-do-tempo-literaria/
+219º,17,Luanna Fernandes Flor de Souza,https://github.com/Luanna88/ImersaoAlura-Gemini/tree/main
+220º,17,Tassiana Milka Fontana Soares,https://github.com/TassianaMilka/Desafio-Alura-2
+221º,16,Ademar Perfoll Junior,https://github.com/juniorperfoll/alura-gemini
+222º,16,Allan Rodrigues de Mendonça,https://github.com/AllanR-M/Receitas-Saudaveis.git
+223º,16,Hiago Rodrigues Batista,https://github.com/Rolig4n/how_to_craft
+224º,16,Lenon Tonoli Merlo,https://github.com/lenonmerlo/RetroGamesCollection
+225º,16,António Jorge Cardoso Lopes,https://github.com/antoniolopes4/vencedoras_do_miss_universo.git
+226º,16,Rafael Rosa Esquiavoni,https://github.com/Rafffaelyt/imersao-dev
+227º,16,Wendell de Sousa Calazans,https://github.com/kalazans/E-CommerceAluraGeminmi
+228º,16,Nicholas da Silva Pimenta,https://github.com/nicholasPimenta/promessas-brasileiras-f1/tree/main
+229º,16,Áquilla Siqueira Gomes,https://github.com/SGomesAquilla/Elpis/tree/main
+230º,16,Lisânia Soares Miranda,https://github.com/lisaniaSoares/Mulheres-Cientistas/tree/main
+231º,16,Luna Costa,https://github.com/lunaflavia/dev-imersion-with-gemini
+232º,16,José Vinício Olivindo Dias,https://github.com/vinicioolivindo/miau-da-sorte
+233º,16,Tayanne Carneiro de Lima,https://github.com/TayanneLima/GaiaBem-Imers-oDev
+234º,16,Ana Clara Martins Ribeiro,https://github.com/anaclaram15/Imers-o-Alura---Serena
+235º,16,Débora Helena da Silva Farias,https://github.com/debiris/memoria-culinaria
+236º,16,Caroline Luzia Martins Reis Alves,https://github.com/clmra93/imersaoDevAlura.git
+237º,15,RUTHE CECILIA DE MELO LOUREIRO,https://github.com/Cecilia0292/projetoimersaoAlura2024.git
+238º,15,Fabiana Heberle,https://github.com/fabiheberle/NitroPower-GitHub
+239º,15,Matheus de Souza Garcia,https://github.com/MatheusGarciia/series-mania
+240º,15,Ricardo julio Gonzaga,https://github.com/zwQa/bibliotecaImersaoDev.github.io
+241º,15,Reilan Gomes Ribeiro,https://github.com/reilangr/projeto_alura
+242º,15,Lorran gomes,https://github.com/Lorrangomes95/alura-dev
+243º,15,Samuel de Paula Britto,https://github.com/spbritto/ProjetoImersaoDevAlura.git
+244º,15,Yasmin de Oliveira Venceslau,https://github.com/YasminVenceslau/Doar-Sangue
+245º,15,Ariane de Abreu Costa,https://ariane2023.github.io/Aprendizagem/
+246º,15,Leonardo Castro de Souza,https://github.com/leocsbh007/sitebuscaprojetoseletronica.git
+247º,15,Kelvin Pereira,https://github.com/Pereirinha01/sa-de
+248º,15,Rian Pablo Tavares Barbosa,https://github.com/RianBarbosa1/Marvel
+249º,15,Fabio Monteiro Oliveira,https://github.com/oifabiomonteiro/projeto-imersaoIA
+250º,15,Mariana do Nascimento Saldanha,https://github.com/calebsaldanha/futuro_expandido/tree/main
+251º,15,Higor da Silva Rodrigues,https://github.com/Higashi26/GAMER/tree/main
+252º,15,Pedro Gomes dos Santos Junior,https://github.com/PedroGomesjr/DesafioImersaoDevGoogleGemini
+253º,14,Leonardo,Não tenho
+254º,14,Gabriel Marques de Oliveira,https://github.com/P4dr1n/ToDoList.git
+255º,14,Patricia Oliveira,https://github.com/Savarezi/Portfolio/tree/main
+256º,14,Lucas Polidorio,https://github.com/Lpolidorio/imersaodevgemini
+257º,14,Raissa Vitória Pereira Bispo,https://github.com/raissabispo/Entendendo-o-autismo
+258º,14,Kelven Pereira da Silva,https://github.com/KelvenPer/Pagina-de-Acessibilidade/tree/main
+259º,14,Emerson de araujo pinho,https://github.com/Emerson10110/Melhores-filmes
+260º,14,Clara Quintela,https://github.com/claraquintela/knittingglossary
+261º,14,Samuel Sávio Martins Gomes,https://github.com/samuelsavioo/Rota-da-Cerveja-descubra-os-melhores-pubs-de-BH/tree/main
+262º,14,Victor de Almeida Oliveira,https://github.com/Vitomeida095/imersao_dev_gemini_2024
+263º,14,PAULO TUPPY,https://github.com/PauloTuppy/Imers-o-Dev-Com-Gemini/tree/main
+264º,14,Guilherme Bazaneli Furlan,https://github.com/guibzf/beatles_discography
+265º,14,Victor Manoel de Souza Gonçalves,https://github.com/oIntankavel/League-of-Lore/tree/3122991aa85d0564501f2fd7a9dfc12e2bc6be8d
+266º,14,Diogo Gonçalves Soares,https://github.com/Diogo-SoaresDS/editor_texto
+267º,14,Aline Silva de Jesus,https://github.com/alinesilvaj/database
+268º,14,Felipe da Silva Rodrigues,https://github.com/FeSilRod/Projeto-Imers-o-Dev-com-Google-Gemini/tree/main
+269º,14,Darlan Oliveira Filho,github.com/designprojectdev/DRLMX-RACE/
+270º,14,Wendell Gimenez Lander,https://github.com/wendellgimenez/doando_amor
+271º,14,Luana Albino,https://github.com/luanaalbino66/jogos
+272º,14,Camilla Gomes Araújo Correia,https://github.com/camillagacs/Desafio_DEV_AluraGemini2024
+273º,14,Antônio Lucas de Lima Gueiros Pires,https://github.com/AntonioPROLucas/Zelda-Timeline-Guide
+274º,14,Genildo Manuel Daniel,https://github.com/GenildoAleXDan77/conselhos-legais.git
+275º,14,Ysa Kayanne A.G,https://github.com/ykayanne/LaDouce
+276º,14,Patricia Mahmoud Assaf,https://github.com/PatriciaAssaf/FilmeMood
+277º,14,Alice Schmidt,https://github.com/aliceschm/desafio-alura-receitas
+278º,14,Pedro Simão de Oliveira Soares,https://github.com/Simao-dev/league.campeoes
+279º,14,Tatiana Bernardino Pinheiro,https://github.com/Tatiana-codedev/SustainAgri/
+280º,14,renato rodolfo mellao,https://github.com/Reedtz1/Games-2024/tree/main
+281º,13,Lucas Caetano Cordeiro,https://github.com/LucasCaeCor/Projeto-Alura/tree/main/Projeto%20alura
+282º,13,Ernane Nogueira Nunes,https://github.com/Ernanenn/ImersaoDeV_Alura_Gemini.git
+283º,13,Gabriel Molinari da Rocha,https://github.com/Gabriel0090/project-alura-imersaoDev.git
+284º,13,Vitor Borges de Melo,https://github.com/VitorBMelo/ProjetoImersao_AlmanaqueIronMaiden
+285º,13,Juliana Santos Lopes Vasconcelos,https://github.com/juslopes/projeto-gemini-alura.git
+286º,13,Roberta Ribeiro,https://github.com/HarukaIonaSao/Wiki-Shingeki
+287º,13,Marcos Gabriel Mendonça Bessa,https://github.com/marcosbessa0/Anatomia-Dental.git
+288º,13,Sophia Vantil da Cruz,https://github.com/sophiavantil/trilha-dos-anuros
+289º,13,GeminiWAChat,https://github.com/baku01/GeminiWAChat
+290º,13,João Victor de Mello Vuelma,https://github.com/JoaoVuelma/TreinoFacil
+291º,13,Marcos Guterres,https://marcosguterres.github.io/alura_imersao_dev_gemini/
+292º,13,Diego Felipe Pereira,https://github.com/Dietowski/Pneumologia
+293º,13,Otávio Mendes,https://github.com/VRS-Z/IMERS-O_DEV
+294º,13,Tom,https://github.com/Shadow1363/imersao-dev
+295º,13,Ezio R Lorenzetti,https://github.com/ezioweb/Linguagens-de-programacao
+296º,13,Rafael José Rangel,https://github.com/Rajora0/screenshot-to-description-app
+297º,13,Tarcísio Araújo Silva Lima,https://github.com/TarcisioSLima/Leil-o-de-Cavalos
+298º,13,Kaique Alexandre Souza Kubota,https://github.com/SouzaKaique/bioinformatica
+299º,13,Luis Gustavo,https://github.com/eugus/imers-oGeminiAlura.git
+300º,13,Wilson Cristian Teles De Oliveira,https://github.com/wilson385/Aula-de-m-sica/commit/cbd7d5c04a447f7241bcbc8c41d4822ca29959b6
+301º,13,Paulo Henrique Costa Alves,https://github.com/Ph-Alves/Projeto-alura/tree/main
+302º,13,Alexandre dos santos,https://github.com/vrcvde/Melodia-Essencial/blob/main/README.md
+303º,13,Henrique Camargo,https://github.com/Dev0FB/Fatos-Historicos
+304º,13,Jefferson Bueno de Camargo,https://github.com/Jeffdshanks/Imersao-gemini-alura
+305º,13,Rafael Rodrigues Pereira,https://github.com/RPTecDev/VideoGames
+306º,13,Lucas Colombo Bossoni,https://github.com/LucasColomboBossoni/Imersao-dev-alura-gemini
+307º,13,Andressa Daiane Reis da Silva Santos,https://github.com/dressas05/classicosliteraturabrasileira/tree/main
+308º,13,Manuella Lanfranchi,https://github.com/manulanfran/TLOU-info
+309º,13,Enzo Magioli Costa Núñez,https://github.com/emagioli/dromedados
+310º,13,Lucas Fonseca Fernandes,https://github.com/LFFProjetos/A-livraria-Livros-livres
+311º,13,Patrícia C. Freitas Silva,https://github.com/patyfreitasbr/guia-dev-site
+312º,13,Lucas de Oliveira Vilela,https://github.com/LucasVilela1410/Animais-Marinhos?tab=readme-ov-file
+313º,13,sarah Nascimento,https://github.com/Punkiita/genshin-5
+314º,13,Igor Duarte Barros,https://github.com/Fishmaia/Mundo-Am-rica/tree/main
+315º,13,Nadinael Silva Teixeira,https://github.com/nadinael/socorre
+316º,13,Antonio Abel de Lucca Junior,https://github.com/aadljdev/adotaPet
+317º,13,Lucas Abmael Bandeira Formiga,https://github.com/lucas22022008/SearchDev
+318º,13,Jonnas Cipriano,https://github.com/jonnascipriano/projeto-criativo-alura
+319º,13,Giovana Libania Martins Ticianelli,https://github.com/gioticianelli/Dicionario-do-Programador
+320º,13,Gustavo Henrique Mendes de Oliveira,https://github.com/gustoliveira12/astrocuriosity
+321º,13,Mateus Oliveira Paiva,https://github.com/mateusopaiva/imersao-dev-google-gemini
+322º,13,Juliana de Oliveira Zuanon,https://github.com/juzuanon/Taylor-Swift-lbuns-e-m-sicas/tree/main
+323º,12,jefferson vitor silva,https://github.com/jeff25700/Taverna-do-Historiador.git
+324º,12,Claudia Soares Albano,nengum
+325º,12,Eduardo A. de Oliveira,https://github.com/eduardooliveira0247/Alura-Imersao
+326º,12,Sara Leticia Nascimento dos Santos,https://github.com/sara-lnas/imersao_dev
+327º,12,Rodrigo Alves,https://github.com/rodrigoo-alves/alura-pokedex
+328º,12,Nicollas Cavalcanti Soares,https://github.com/Nicdojob/Sistema-de-denuncia
+329º,12,Lucas Mendes Pinheiro,https://github.com/lucasptree/dungeondeck
+330º,12,Gabriel Lima Zanetti,https://github.com/GLzanetti/Alura_com_Gemini
+331º,12,Bruna Silva Santos,https://github.com/Sbrunaa/Projetos.git
+332º,12,Leonardo José Garcia Maia,https://github.com/leonardojgm/AIdivinha
+333º,12,Conrado Andrade,https://github.com/conradoandrade6/imers-oalura
+334º,12,Marco Antônio Ferreira,https://github.com/Marco-ferreira08/FernandaMontenegro.git
+335º,12,Alterno Jerônimo Junior,https://github.com/juniorjeronimo/Jornada-DEV-Alura-
+336º,12,Fabio Monteiro Oliveira,https://oifabiomonteiro.github.io/projeto-imersaoIA/
+337º,12,André Lucas Vieira Mouzinho,https://github.com/andre-llucas/DM-do-Flamengo-Imersao-Dev-Gemini-Alura.git
+338º,12,Luciano Jesus da Silva,https://github.com/lucianoj75/html_BibliotecaAgil
+339º,12,Gabriel Valim,https://gabri3lvalim.github.io/projeto-gta/
+340º,12,Edmilson Rodrigues do Nascimento Junior,https://github.com/edrodrigues/alura-gemini
+341º,12,Victor de Souza Xavier Fernandes,https://github.com/victorsxavierf/imersao_dev
+342º,12,Antonio Fonseca Machado,https://github.com/AntoniofmBR/mundo_dos_games
+343º,12,Gabriel Domingues,https://github.com/GabrielD1996/Imersao_dev_alura_gemini
+344º,12,Daniel Silva Martins,https://github.com/danielsmartins/filmes-e-series
+345º,12,Monique,https://github.com/moniqueandery/Pink.
+346º,12,Daniel Silva,https://github.com/GhostDani/GTA
+347º,12,Cláudia Costa Paniago Pereira,https://github.com/ClaudiaCPaniago/imersao-dev-personalizado
+348º,12,Carlos Augusto,https://github.com/gutohistorias/jobs-informatica
+349º,12,Gabriel Escobar Delboni,https://github.com/GabrielEscobar-tech/FutebolBR
+350º,12,Delainy Silva Dias,https://github.com/delainy/Project-Imersao-Alura
+351º,12,Alex Sandro Ferreira dos Santos,https://github.com/Aurora0A/Final-Fantasy-Database-Alura-Gemini/
+352º,12,Erick Rinaldo Rodrigues Pereira,https://github.com/94rnerick/projetovinhos
+353º,12,Naiumi,https://github.com/naiumipaiva/Projeto-Gems_Alura-Imersao-Dev-com-Google-Gemini
+354º,12,Augusto César Montenegro e Silva,https://github.com/cesarmontenegrosilva/imersaoDevAluraGoogle.git
+355º,12,Kadmiel Inácio Souza Ramos,https://github.com/Kadmielgithub/Memory-Football
+356º,12,Wendell de Sousa Calazans,https://github.com/kalazans/AcordaAeAluraGemini
+357º,12,Carlos Henrique Neri Matias,https://github.com/carlosneri762/paises-do-mundo
+358º,12,Alfredo Corrêa Lima Junior,https://github.com/oalfredojr/pokemons-lendarios
+359º,12,Estevão,https://github.com/estevaovikas/kartodromos
+360º,11,Leonardo Reneres dos Santos,https://github.com/Reneress/ImersaoDevGeminy
+361º,11,Juliano Bordignon,https://github.com/bordis/alura-imersao-gemini
+362º,11,José Vinícius Ferreira,Vinícius #alura
+363º,11,Aline Bertolazo dos Santos,https://github.com/alinebertolazosantos/Desafio_Alura
+364º,11,Carlos Humberto Brasileiro Toscano,https://github.com/humbertobrasileiro?tab=repositories
+365º,11,Victor Costacurta,https://github.com/profvictor/EduSnap
+366º,11,Anderson da Silva Gomes,https://anderson-aec.github.io/imers-odev2/
+367º,11,Rafael henrique de lima,https://github.com/RafaelhLimaa/Imersao_Gemini
+368º,11,Rafael Aguiar Alves,https://github.com/rafaelaguiaralves/Acessibilidade_JavaScript
+369º,11,Valdino,https://github.com/criquio/imersao-alura-gemini
+370º,11,Glauce Alves,https://glaucealves.github.io/imersao/
+371º,11,Gustavo Padilha,https://github.com/GustavoPadilha/Memoria-dos-Extintos
+372º,11,Gabriel Loureiro Gonçalves,https://github.com/gabrielloureirog/FilmesSequencias
+373º,11,Reinaldo Fernandes Menezes Neto,https://github.com/Reinaldo-Fernandes/D-oh-A-Sua-Busca-Acabou-Aqui
+374º,11,Izaiany Martins Arantes Rosa,https://github.com/IzaianyMartins/Imers-o-Alura-Gemini
+375º,11,Vithor Hugo Freitas Medeiros,https://github.com/Vithorhh/Imers-o-Dev-com-Google-Gemini---Alura/tree/main
+376º,11,Pedro Henrique Gonçalves Oliveira,https://github.com/Abuh-byte/abuh-byte
+377º,11,Tiago Kelis,https://github.com/tiago-kelis/project_alura_Compete.js
+378º,11,Ezequiel Adriel Leite farias,https://github.com/ezequielfarias/Ciber-imersao
+379º,11,Lucas dos Santos Gonçalves,https://github.com/LukeSantossz/MacOs-Interface
+380º,11,Luiz Fernando Brito Ferreira,https://github.com/Lz-Fernando/Bandeiras
+381º,11,Lucas Wayland,https://github.com/lucasWayland/fornalha-pokemon
+382º,11,Daniel de Moura Silva,https://github.com/danieldemoura/mydonghualist/tree/main
+383º,11,SERGIO RICARDO BARBOSA MACIEL DE SOUSA,https://github.com/SergioDevSousa/imersao-alura.git
+384º,11,Ana clara Marucci,https://github.com/AnaclaraMarucci/Projeto-mercado-de-trabalho-PCD-/tree/main
+385º,11,Maria Eduarda Rodrigues de Souza,https://github.com/Beemaria/Imers-odev-EcoBras/tree/main
+386º,11,Evandro José Pereira Pedro,https://github.com/Evandro-J-P-Pedro/Wattson-Seu-guia-em-RDA-RDU
+387º,11,Rivonaldo Alves de Oliveira Filho,https://github.com/Rivinnn/Astronomia-Originaria-Brasileira
+388º,11,Sidney Paz de Oliveira,https://github.com/zksidney/quemtues
+389º,11,Davi Gabriel Campos Lobo,https://github.com/DaviPvi/MuseuOnline
+390º,11,Adriele Soares Lima,https://github.com/drisoares/imersaoDev/tree/main
+391º,11,Sandro Luiz,https://github.com/Saandroo/BibliaOnlinedeEstudo
+392º,11,Fabio,https://github.com/xPretti/AIndex
+393º,11,Everton Diego,https://github.com/DiegoNotreve/Elden-Ring
+394º,11,Pedro Henrique da Silva Coelho,https://github.com/PedroCoelho27/TopCell
+395º,11,Luiz Felipe Carvalho,https://github.com/LFC-DEV/Adote_um_amigo---Alura
+396º,11,Rogerio Silva,https://github.com/rogerdgela/clima-capitais
+397º,11,Beatriz Silva Rosa,https://github.com/BiahRosa/ByteByByte
+398º,11,Manoel Carlos de Oliveira Ramos Júnior,https://github.com/ManoelCarlosJunior/eloautismo
+399º,11,Mateus Barros Veríssimo,https://github.com/mateusverissimo94/imersao-gemini
+400º,11,Wesley Millan Silva,https://github.com/nosferatu-zod/boomershooter-html
+401º,11,Mariana do Nascimento Saldanha,https://github.com/calebsaldanha/Projetos_imersao_gemini/
+402º,11,Leonardo Barros,https://github.com/Myashiror/Classes-World-of-Warcraft.git
+403º,11,Matheus Ribeiro Silva,https://github.com/Piriripimpim/Estados-do-Brasil/tree/main
+404º,11,Elisângela,https://github.com/Lissie-ea/SOP-HAC-busca
+405º,11,Eduardo Roberto Maehigashi,https://github.com/arqmex/Locomotivas-a-Vapor-do-Brasil/tree/main
+406º,11,Giovanna Lepore,https://github.com/GiovannaLepore/consulta_atividades_realizadas
+407º,11,Ramon Medeiro,https://github.com/ramoonmedeiro/cinequest
+408º,10,Guilherme Ferreira Marques,https://github.com/Guilhermefrr11/Guilhermefrr11/tree/eac8c12c11a13f4b1c9fb184763462eb769fcdc0/Projeto%20Alura
+409º,10,Maurício Lopes de Assis,https://github.com/MAURICIO1w/Prodfilm
+410º,10,Lucas Barros Simon,https://github.com/lucasweacked/Alura-Desafio
+411º,10,Dominique Marcelino Gonçalves,https://github.com/Domisnnet/Projeto-Alura.git
+412º,10,João Vitor Mendonça Santana,https://github.com/JoaoVitorMS0/imersao-dev
+413º,10,Yuri de Paula,https://github.com/YuriDePaula/imerssao-alura-google-gemini
+414º,10,Vinicius Ramos Oliveira,https://github.com/Vinioliveira20
+415º,10,Carlos Humberto Brasileiro Toscano,https://github.com/humbertobrasileiro/meu-projeto
+416º,10,Bruna Geyze de Carvalho Moita,https://github.com/Allmabu/genshin-github
+417º,10,Gustavo Batista Castagna,https://github.com/GuCastagna/TST_IA
+418º,10,Matheus Pereira Silva,https://github.com/githubmatheuspereira/xmarine-alura-google
+419º,10,Nelson Nishiwaki,https://github.com/nnishiwaki/Eleicoes_2024
+420º,10,Hidemitsu Gonçalves Hashimoto,https://github.com/HidemitsuHashimoto/alura-gemini-finance
+421º,10,Kenny,https://github.com/KennyIshii/imersao-dev
+422º,10,Rafael Pagotto,https://github.com/RafaelPagotto/Alura-ImersionDev-Gemini
+423º,10,Gustavo Lamin Honda,https://github.com/gustavolhonda/Projeto_imersao_dev
+424º,10,Leonardo oscar dos santos,https://github.com/santos2356
+425º,10,Luiz Gabriel Inácio,https://github.com/L-Gabri/ucl-github
+426º,10,Keltonny de França Gonçalves,https://github.com/keltonny00/Projeto-Surfing-github.git
+427º,10,Duan Ledson Alves dos Santos,https://github.com/Duan-Ledson
+428º,10,Marcus Vinicius Freire Souza,https://github.com/Marcus-xpl/ContactConnect
+429º,10,Izaiany Martins Arantes Rosa,https://github.com/IzaianyMartins/Imers-o-Alura-Gemini
+430º,10,Charles Cristopher Cordeiro de Araújo,https://github.com/CharlesCristopher/imers-oAlura.git
+431º,10,André Luiz de Abreu Junior,https://github.com/Andrekk6/CarrosJaponeses
+432º,10,Larissa Cassanjo,https://github.com/Lari-Cassanjo/ouvi_em_glee
+433º,10,Bianca Teodoro Urtado,https://github.com/BiancaTeodoroU/projectwithAPIGemini/tree/main
+434º,10,Fernanda Benacchio,https://github.com/benacchiofernanda/drogas-no-brasil.git
+435º,10,Raphael Nogueira,https://github.com/raaphanogueira/neurodiversidade
+436º,10,Pedro Henrique Cantarutti Silva,https://github.com/PCantarutti/Termo-I.A
+437º,10,Lucas Guadagnano Hipólito de Castilhos Santos,https://github.com/lucas-hipolito/Final-Girl
+438º,10,Mariana Lima Albuquerque,https://github.com/maariana-albuquerque/fenomenologia.imersao-alura.git
+439º,10,Leandro do Vale Santos,https://github.com/LeandroVale7/Imersao-Dev-Alura
+440º,10,Alex Rickey Winland,https://github.com/alexwinland/funcionalidade-de-busca
+441º,10,Mauro Utida,https://github.com/PutsGrilla/ProjetoAluraFlora.git
+442º,10,Caio Diomedes de Alcântara braga,https://github.com/caiodiom/imersao
+443º,10,Caio Magalhães,https://github.com/caioma15/animes
+444º,10,Henrique Matthes,https://github.com/MatthesHenrique/Jornada-na-Engenharia.git
+445º,10,Arthur Kramberger,https://github.com/arthurcuri/allura-gemini-creativity
+446º,10,Fabio Oliveira Ferreira,https://github.com/FABI0FERREIRA/Olimpiada_doa-o
+447º,10,Ana Luiza Tibiriçá da Paixão,https://github.com/Naluaqui/Imersao.Gemini
+448º,10,Germano Schulze Junior,https://github.com/schulze2/imersao-sabores-saudaveis/
+449º,10,Aline Rodrigues da Silva de Castro,https://github.com/OiAline/projeto-gemini.git
+450º,10,Michele Lescano,https://github.com/MicheleLescano/imersaoDev
+451º,10,Cinthia Bezerra de Souza,https://github.com/CinthiaBezerraSouza/Projeto-Imers-o/tree/main
+452º,10,Jean Mendes Paradella,https://github.com/j3anp07/how-i-met-your-mother
+453º,10,Vitor Bittencourt,https://github.com/vitorVBD/buscador-de-IA-imersao-Alura
+454º,10,Felipe Alves Laranjeiras,https://github.com/felipefarius/olimpiadas
+455º,10,Ivan Lima dos Santos,https://github.com/Ivan-lds/genime
+456º,10,Thiago Alencar,https://github.com/Thiago-Alencar/inteligencia_emocional
+457º,10,Felipe Girardi Machado,https://github.com/xFelipeGM/projeto-booksale
+458º,10,Millena Eduarda de Sousa Santos,https://github.com/MillenaSousa17/ImersaoGemini.git
+459º,10,Célio Victor de Amorim,https://github.com/AmorimCelio/conhecendo-a-latinoamerica
+460º,10,Eduardo Gabriel Proença de Carvalho,https://github.com/YoungLich/Search-Machine
+461º,10,Luciano Juchem,https://github.com/lucianojuchem/Imersao_DEV_ALURA_Gemini
+462º,10,Marcelo Pena,https://github.com/CoderPena/pesquisa-videogames
+463º,10,Estevão,https://github.com/EstevaoSantos1/Imagine-Filmes-Livros.git
+464º,10,Jose Gilvanilson,https://github.com/gsilva279/Meu-site001.git
+465º,10,PAMELA OLIVEIRA DE MORAIS AYRES,https://github.com/Pamela-Ayres/Oppa_Dorama
+466º,10,Lucas Henrique,https://github.com/LucasFerreiraH/On-Firer/tree/main
+467º,10,Erik Souza Messias,https://github.com/esmessias/Projeto
+468º,10,Lucca Fernando Portella Sartoratto Silva,https://github.com/sethxzz/Essa-Banda-Emo-/tree/main
+469º,10,Bruno de Paula e Silva Azevedo,https://github.com/Brunoazevedo274/senhor-dos-aneis
+470º,10,Marcos Vinicius Santos de Souza Reis,https://github.com/DevN1ghTT/projetoaluraimersao
+471º,10,juan Malachias Pereira de Freitas,https://github.com/Juanmalachias/worldgeek
+472º,10,Michael,https://github.com/voi1d/A24-Alura-project
+473º,10,Eduardo Gabriel Proença de Carvalho,https://github.com/YoungLich/Search-Machine
+474º,10,Nathalia de França Pinheiro Merelli,https://github.com/Nathalia-Merelli/HelpGuide.git
+475º,10,Leonardo,https://github.com/leolynz/motopecas
+476º,10,Lucas Palma Stabile,https://github.com/Hilgo/forca-multiplayer
+477º,10,Lucas Pires Kamegawa,https://github.com/3KAMEGAS/Imersao-GoogleGemini-Alura/tree/main
+478º,10,Lucas Pedro de Souza,https://github.com/LPSouz/lpsouz.github.io
+479º,10,Gustavo Magalhaes Cezar,https://github.com/gustavomgcz/hp-imersaoalura
+480º,10,Eduardo Ribeiro da Silva,https://github.com/Edu1769/Imersao-Alura-2024
+481º,10,Gustavo Henrique Teló,https://github.com/GustavoTelosm/informa-investimentos-premios/tree/main
+482º,9,Matheus Vitório Figueiredo de Oliveira,https://github.com/Mat2302/geminiAlura
+483º,9,Ezequiel Adriel Leite Farias,https://github.com/ezequielfarias/Imers-o-Alura---Ciberseguran-a
+484º,9,José Genilson Araújo de Souza,https://github.com/genilsonaraujo/ProjetoIntegrador1
+485º,9,Jefferson vitor silva,jeff25700
+486º,9,Gabriel da Costa Evangelista D'Epiro,https://github.com/GabrielDepiro/Imersao-Google-Gemini
+487º,9,Cristiano Grobério,https://github.com/djcristianosgp/imers-o-dev-google-gemini-alura.git
+488º,9,Henrique Begiato Ambiel,https://github.com/Henrique-Ambiel/heacher-Games
+489º,9,Luke Farias (Lucas Oliveira Farias Cordeiro),https://github.com/Saphire-gem/BrasTour-github
+490º,9,allan vinicios,https://github.com/alllanvfs/imersao_alura/tree/main
+491º,9,Flavio Burigo,https://github.com/flavioburigo/projetoDollarBill
+492º,9,Mauro Vinícius Holme,https://github.com/MauroHolme/atletas_brasil
+493º,9,Eduardo Barbosa Moreira,https://github.com/eduardobmoreira/tattwasclock/
+494º,9,Miriã Ribeiro,https://github.com/miria2413/imers-o-dev-gemini
+495º,9,Maria Rosileide Auzier,www.facebook.com/mariarosileide.auzier
+496º,9,Anderson dos Santos Soares,https://github.com/andersonsoares12/alura_gemini
+497º,9,Silas Hamburgo Santana,https://github.com/Hamburgos/dev-gemini
+498º,9,Manuel  de Deus,https://github.com/nicolemos56/AlertadorWeb.git
+499º,9,Miriam Tieko Yamamoto,https://github.com/MikaTieko/Imersao---Animes
+500º,9,André de Assis Zanelato,https://github.com/AndreZanelato/desafio-corredor
+501º,9,CARLOS DE CAMARGO PENTEADO NETO,https://github.com/carlospenteado/ProjetoImersaoDevGoogleGemini/
+502º,9,Marlon Felicio Forti,https://github.com/marlaoforti/receita-perfeita-
+503º,9,Diego Pereira da Silva,https://github.com/diegowebsantos/almanaque-digital-dos-craques
+504º,9,Valéria Helena Politi Gerbelli,https://github.com/ValeriaValtech/ImersaoAlura
+505º,9,Eros Black,https://github.com/Eros-Black/ErosMusic
+506º,9,Thaise Chaves Zanin,https://github.com/thaise-zanin/Imersao_Dev_Alura
+507º,9,Kaio Rodrigues Borges,https://github.com/KaioRodriigues/Projeto-FaculFinder---Alura
+508º,9,Rafael de Souza Pinto,https://github.com/rafapy/Brain
+509º,9,Helen Souza Ramos Ivo,https://github.com/Helen-Ramos/imersao_alura/tree/main
+510º,9,EDUARDO SOUZA RODRIGUES,https://github.com/eduardo2580/search_engine
+511º,9,Paulo Giovani Teles Dias,https://github.com/paulotelss/Alura-imersao
+512º,9,Pedro,https://github.com/PedroLouzada/imersao-alura
+513º,9,Paulo Vitor Andrade Borges,https://github.com/Paulovab/Imers-o-Dev-Google-Gemini---Tabuada-de-multiplica-o.git
+514º,9,Maria Eduarda Santana,https://github.com/eduardasnz/projeto-judocas/blob/main/README.md
+515º,9,vinicius krulewski delfino,https://github.com/krulewski/Star-Wars
+516º,9,Matheus Silva de Deus,https://github.com/MatheusSD19/Phrasal-Verbs-Today/tree/main
+517º,9,Arthur Moura Gama,https://github.com/A-M-Gama/Taverna-do-PSI
+518º,9,Isac Junior da Silva,https://github.com/Isacjsilva/Turismo-
+519º,9,Marcus Vinícius Alves de Souza,https://github.com/eivini/Projeto-Imersao
+520º,9,Leonardo Vilela Potomatti,https://github.com/AstroUdyr/ImersaoDev
+521º,9,Flavio Henrique Limeira Bezerra,https://github.com/Henry-fh/Universo-Marvel
+522º,9,Carla de Campos Oliveira,https://github.com/Carlaoliveira2024/Pet-Sitter-github
+523º,9,Renato Faria Alves de Jesus,https://github.com/RenatoFariaDv/The-Best-Drummers
+524º,9,Ryan Decenzo,https://github.com/rdp150-dev/Curiosidades-gamer
+525º,9,Lucas Caetano Cordeiro,https://github.com/LucasCaeCor/Projeto-Alura
+526º,9,Muryllo Nunes,https://github.com/Muryllo32/Pokemon-Go/tree/main
+527º,9,Wellington Monteiro,https://github.com/weto28/Wetao-Hamburgues
+528º,9,Hibernon Rodrigues de Andrade Neto,https://github.com/hiberNT/agrotoxicos
+529º,9,Thiago César Lima Rocha,https://github.com/thiagocesarlr/campeonato_brasileiro
+530º,9,hellen gleice de jesus rodrigues,https://congenial-cod-q79ww9rvjjq7cx6q7.github.dev/
+531º,9,Renan de Oliveira Farias,https://github.com/Nansinyx26/Joia-da-Fic-o-Cient-fica-
+532º,9,Jorge Alvarenga Junior,https://github.com/Jorge-AJ/Manuli-Amigurumi
+533º,9,Alex Vieira,https://github.com/Alex-Vieira-da-Silva/ImersaoDev.git
+534º,9,Tiago de Oliveira Lima,https://github.com/TiagoLima135
+535º,9,Esther Araujo,https://github.com/EstherAraujo/JogosDeGestao
+536º,9,Gabriel Henrique Carvalho de Sousa,https://github.com/henriquedev24/lugares-do-mundo.git
+537º,9,Miguel Magalhães dos Anjos,https://github.com/Miguel-Magalhaes/guia-de-personagens
+538º,9,Renan Dias Ferreira,https://github.com/renanbaluarte/ProjetoAlura
+539º,9,Marina Trevisoli Gervino,https://maritrevisoli.github.io/Mapa-interativo-de-impacto-social/
+540º,9,Bruno Chaell Silva,https://imersao-dev-zelda.vercel.app
+541º,9,Maiara G Araujo Vieira,https://github.com/vmay-a?tab=repositories
+542º,9,Danilo Balby Silva Castanheira,https://github.com/danbalby/ia_questoes/
+543º,9,Ana Beatriz Melo Barbosa,https://github.com/BeatrizMeloB/imersao-dev-gemini-alura/
+544º,9,Ana Carla Oliveira Mendes,https://github.com/Anacarlamends/Museu-Global
+545º,9,Josiel Soares de Soares,https://github.com/JosielSSoares/Receitas-de-bolos
+546º,9,Lázaro Pimentel Bonfim,https://github.com/Drlazinho/desafio-alura-09-2024-Marvel-heroes
+547º,9,Vinícius Daniel de Oliveira,https://github.com/TheTurnipHead/Imersao-alura-pokemon
+548º,9,Jean Bruno dos Santos Silva,https://github.com/jbcodexsilva/jb-teoriaMusical
+549º,9,Arthur Inácio Gitzel Teixeira,https://github.com/Inacio04/Processadores
+550º,9,Amanda Mayer,https://github.com/AmandynhaM001/EcossistemaGoogle--Imers-o-Dev-com-Gemini/tree/main
+551º,9,Luan Zelinski Corrêa,https://github.com/luanzelinskicorrea/IDCGGA-LZC
+552º,9,Ricardo Rocha da Mata,https://github.com/RicardoRocha1990/Centro-Oeste
+553º,9,Sabrina dos Santos Gomes,https://github.com/Sabrina868/Paises-da-Oceania
+554º,9,Marcos Rogério Guerreiro,https://github.com/mrguerreiro/AluraGemini.git
+555º,9,Phillip Miranda da Silva,https://github.com/PhillMiranda/ImerssaoDevAlura/tree/main/Imers%C3%A3oDev_%20Alura
+556º,9,Larissa Caroline de Araujo,https://github.com/LarihssaC/Fauna_Brasil.git
+557º,9,UBIRATAN ALMEIDA ALBUQUERQUE SOBRINHO,https://github.com/BiraByte/ImersaoAlura/tree/main
+558º,9,Igor Bitencourt,https://github.com/igorb-dev/mundo-bruxo
+559º,9,Micael Sampaio da Silva,https://github.com/MicaelSampaioS/Seu-Mentor-Acad-mico
+560º,9,Arthur Andrade dos Anjos,https://github.com/sensewxrld/wikirap
+561º,9,Amaral,https://github.com/amxral/imersao-alura
+562º,9,Moisés Fontana,https://github.com/MoisesFontana/alura-imersao-gemini
+563º,9,William Morais Suppi,https://github.com/willsuppidev/Imers-o-Alura-Gemini
+564º,9,Evelyn Solidario de Souza Nicioli Silva,https://github.com/EvelynNicioli/artesanato
+565º,9,Lucca da Silva Ferraz,https://github.com/Luketa08/Projeto-Alura-e-Google-Gemini/tree/main
+566º,9,João Victor Torres,https://github.com/JoaoTorres-dev/RAIZ-DO-PARA/tree/main
+567º,8,Erick Patrick dos Santos Silva,https://github.com/ericks03/JS-GAME
+568º,8,Jorge Teixeira de Melo,https://github.com/JorgeDeTeixeira/Imers-o-Alura
+569º,8,Hugo Luiz Silva do Valle,https://github.com/hlsvalle/projetoimersao
+570º,8,Rudinei Pereira Dias,https://github.com/rudineidias/print3d/
+571º,8,Gabriel Rodrigues de Borba,https://github.com/Dev-Borba/imersao_alura
+572º,8,Vinicius Krulewski Delfino,https://github.com/krulewski/Imers-o---Star-Wars
+573º,8,João Vitor De Oliveira Ferreira,https://github.com/joaoincode/imensaodev-alura
+574º,8,Pedro Henrique Silva Ferreira,https://github.com/henrique-esilva/projeto-alura-gemini-2024
+575º,8,Ezequiel Adriel Leite  Farias,https://github.com/ezequielfarias/Imers-o-Alura---Ciberseguran-a.git
+576º,8,Miller César de Oliveira,https://github.com/miller00315/dont_be_fooled/tree/main
+577º,8,Marcio Jucelio Gomes Barros,https://github.com/marciojucelio/blacklives
+578º,8,João Vitor De Oliveira Ferreira,https://github.com/joaoincode/imensaodev-alura
+579º,8,Thiago Marques,https://github.com/ThiagoMarques19/luffy-run
+580º,8,Fabio Henrique,fabiohesantosleite
+581º,8,Fabio Henrique,fabiohesantosleite
+582º,8,Marcio Jucelio Gomes Barros,https://github.com/marciojucelio/blacklives
+583º,8,Rogerio Lubk,https://github.com/rogeriolubk/Calculadora.git
+584º,8,Paulo Henrique Costa Alves,https://github.com/Ph-Alves/Projeto-alura
+585º,8,Hidemitsu Gonçalves Hashimoto,https://github.com/HidemitsuHashimoto/alura-gemini-rpg-class
+586º,8,Gilson Pereira Andrade,https://github.com/users/gilsonpa/projects/1
+587º,8,Larissa Mayara Rodrigues de Oliveira,https://github.com/LariOpanda/imersao-dev-alura-gemini
+588º,8,Talilo Tarlison Passos de Araujo,https://github.com/talilotarlison/ongtech-imersao-dev-google-gemini-main
+589º,8,alyson marian,https://github.com/amariandev/lendasdorock.git
+590º,8,Douglas Pereira Galdino,https://github.com/DougPGaldino/Imersao-Dev-Alura
+591º,8,Carolina Silveira Andreani,https://github.com/cacausilveira/tatuagens-do-mundo
+592º,8,Lucas de Campos Ranzani,https://github.com/llucascr/ImersaoDevAlura_GoogleGemini
+593º,8,Bernardo Amisse Assumane,https://github.com/bernardoaa/buscadorDeLocaisTuristicosDeMocambique
+594º,8,Diogo Carelli,https://github.com/Carellao/SuperHerois
+595º,8,Luís Felipe Narciso Barcelos,https://github.com/FelipeNarciso/Imersao-Alura-Gemini
+596º,8,Erik Breno Branches Caldeira,https://github.com/Breno-max-lab/Quiz-Programa-o/tree/main
+597º,8,Evellyn da Silva Neves,https://github.com/Ynlleve/Venom
+598º,8,Milene de Lima Veiga,https://github.com/Milenedev-alt/Livros
+599º,8,Mariane Okimoto,https://github.com/Bplushie/Trash-Ops-Imers-o-Dev-Alura
+600º,8,Fernando Salles Vilela,https://github.com/FerSiloe/PlanodeEstudos
+601º,8,Liz Lane,https://github.com/Laneads/gatinhos
+602º,8,Matheus Vencovsky da Penha,https://github.com/mathvencovsky/Palmeiras-Mundial
+603º,8,Bruno Maia de Oliveira Peixoto,https://github.com/BrunoMaiaPeixoto/codigis
+604º,8,Melyssa da Silva Azevedo,https://github.com/MelyssaAzevedo/imersaodev-racas
+605º,8,Guilherme Henrique Almeida Bianchi,https://github.com/thcegui/WoW/tree/main
+606º,8,Rogerio Leite Paiva,https://github.com/RogerioLPaiva/Imers-oAlura
+607º,8,Guilherme Augusto Perazolli Costa,https://github.com/gPerazolli/imersao-dev_google-gemini
+608º,8,Alexia Bagesteiro Camargo,https://github.com/accstudyac/Poetas-Brasileiros
+609º,8,Júlia Maria Barbosa Kuroishi,https://github.com/juliakuroishi/imersao-dev-ALURA
+610º,8,Rodrigo Alves,https://github.com/rodrigoo-alves/alura-pokedex
+611º,8,Pedro Henrique Pinheiro Dias Barbosa,https://github.com/phdiias/motos-tech
+612º,8,Rogerio Leite Paiva,https://github.com/RogerioLPaiva/Imers-oAlura/blob/main/app.js
+613º,8,Hamilton,https://github.com/HamiltonFJ/oldcars
+614º,8,Maico Trein Müller,https://github.com/maicotreinmuller/CodeFlix
+615º,8,Lyvia de Freitas Moreira Oliveria,https://github.com/0002Ly/Jogo_Obstaculos
+616º,8,Rhuan A. A. Boni,https://github.com/Rhuan-aa/javascript/tree/main/PP%20-%20Personal%20Projects/IMC%20Calculator
+617º,8,Felipe Bozolan,https://github.com/bozolan22/PROJETO-BET/tree/main
+618º,8,Eduardo Rocha,https://github.com/Edurcm/GaleriaVisual
+619º,8,Arthur,https://github.com/artstar10/google-gemini-alura
+620º,8,Andréia de Almeida Marques,https://github.com/Andreiaamarques/Intolerancia-alimentar/blob/main/README.md
+621º,8,Isis Marieli da Silva Moura,https://github.com/IsisMarieli/webMatrix
+622º,8,Elaine,https://github.com/ElaineSouza88/projeto-ia-gemini/tree/main
+623º,8,Marcelo Dias Soares,https://github.com/Mdsoare/demon-slayer
+624º,8,Marcelo Dias Soares,https://github.com/Mdsoare/pesquisa-pokemon
+625º,8,Luiz Eduardo,https://github.com/luizeduardoqj/Site-dos-Memes
+626º,8,Gabriel Lopes de Brito,https://github.com/lopes2202/filmes-projeto/tree/main
+627º,8,Leandro Gasparino,https://github.com/LeandroGasparino/Projeto
+628º,8,GABRIEL MONTANHER,https://github.com/GMontanher96/imersao-alura
+629º,8,Marcelo silva,https://github.com/marcelosilva03/ProjetoMusical
+630º,8,Cirlei Dias Gonçalves,https://github.com/CirleiDias/Planetas-em-Chamas
+631º,8,Nelson Nishiwaki,https://github.com/nnishiwaki/Eleicoes_2024  https://eleicoes-2024-ten.vercel.app/
+632º,8,Maria Elisa Biagi Tassi Raphael,https://github.com/MariaElisaBTR/IM_Alura
+633º,8,Davi Fernandes Domingues,https://github.com/Fernandes2019/ProjetoSorte
+634º,8,Natanael Eugenio,https://github.com/Euggenio/S-ries/blob/main/README.md
+635º,8,Yasmin Sanches,https://github.com/yasminsan009/Imers-o-Alura
+636º,8,Yasmin Sanches,https://github.com/yasminsan009/Imers-o-Alura
+637º,8,Dinah Navas Elias,https://github.com/dielias/chapeuSeletor
+638º,8,Julio,https://github.com/gotinhaneto/olimpiadas
+639º,8,Gabriel Henrique Carvalho de Sousa,https://github.com/henriquedev24/lugares-do-mundo.git
+640º,8,Bruno Henrique Naiser Hernandes,https://github.com/bnaiser/Imersao-alura
+641º,8,Marina Trevisoli Gervino,https://github.com/maritrevisoli/Mapa-interativo-de-impacto-social
+642º,8,Kauã Miguel Oliveira dos Santos,https://github.com/KauaOSantos/Imersao_Dev_Alura
+643º,8,Luis Miguel Ferreira de Souza,https://github.com/Kirby350/Celeste/tree/main/projeto%20alura
+644º,8,Carlos Eduardo Marques Veloso,https://github.com/Carlosmveloso/mundo-do-desenvolvedor
+645º,8,Willian de Sousa Xavier,https://github.com/Cr0l3y/imersaoResilientesAL
+646º,8,Rodrigo Moura Sousa,https://github.com/RogsMoura/LoL
+647º,8,caroline monfardini,https://github.com/karolychan/imersao1-aluragemini
+648º,8,Estela Tamura Mello Freire,https://github.com/estelatamura/nossos-pes-viajantes
+649º,8,Vahissa Rafaely da Silva,https://github.com/VahissaRafaely/Projeto-de-Busca-Interativa-para-Atividades-de-Beb-s/tree/main
+650º,8,José Guilherme,https://reforma-tributaria.vercel.app/
+651º,8,Oseanes Dias de Farias,https://github.com/Oseanes/quiz-conhecimento
+652º,8,Lucas Mateus,https://github.com/lucasmateusdesenvolvedor/-ASSIM-QUE-ACABA
+653º,8,Caíque de Sousa Ferreira,https://github.com/CaiqueSF/codigo-aberto
+654º,8,Simone Alves Diana,https://github.com/SiDianaGit/VamosEstudar
+655º,8,Arthur Moraes de Paula,https://github.com/ArtthurMoraes/nba-players/tree/main
+656º,8,Gabriel da Silva Toledo Cristino,https://github.com/biel628/Imersaodev                             https://imersaodev-hazel.vercel.app/
+657º,8,Milena da Silva Castro,https://github.com/Mit-98/EcoGuia
+658º,8,Brenda Gabrielli Barbosa,https://github.com/brebarbosaa/soBalletAlura
+659º,8,Fábio Guerreiro,https://github.com/fabiogsal/Ao-Gosto-BR-site
+660º,8,Kallebe Daniel Guedes Almeida,https://github.com/Kallebson11/Variantes-do-Deadpool/tree/main
+661º,8,Camila Lopes Veiga,https://github.com/Camicai/TurismoBr-Search
+662º,8,Victor Lima,https://github.com/limavictor97/Valentino
+663º,8,João Alexandre da Costa,https://github.com/Jadc-1/Catalogo-Netflix
+664º,8,Leonardo Gamerro,https://github.com/Leozzitor/DoencasVirais-ProjetoGoogleGemini
+665º,8,Gustavo Jefferson Pereira Ferreira,https://github.com/Gustavow-Ferreira/AcademyEduQando/tree/main
+666º,8,Stanley Gomes da Silva,https://github.com/StanleyGomes-dev/Projeto-politico
+667º,8,Gabriel Oliveira Gomes,https://github.com/GabriOliveira/projetoMusica
+668º,8,Tauan Carvalho Serpa,https://github.com/tauan2serpa/projeto-bestiario-imersao-alura-com-google-gemini
+669º,8,Matheus Menezes,https://github.com/Matheusmene/projetoaluragooglegemini.git
+670º,8,Kauê Riki Kakinoana,https://github.com/kaueriki/ImersaoAluraGemini
+671º,8,Matheus Lucio Araujo Mendonça,https://github.com/MatheusLucio84/Apostolos
+672º,8,Michel,https://github.com/DEV-Cafe096/personal-chatBot-v1
+673º,8,Giulia Zacharias Belatini,https://github.com/GiuliaaaB/AumigoIdeal/tree/main
+674º,8,Carolina Liberatti,https://github.com/caliberatti/acessibilidade
+675º,8,Leonardo Santos Oliveira,https://github.com/leosantos43/Leotech
+676º,8,Yan lucas Menezes Alves,https://github.com/ynxzs/Projeto-imers-o
+677º,8,Natália Gomes Quintilhano,https://github.com/quintilhano-maker/Signos-HTML
+678º,8,jayne aparecida da silva,https://github.com/JayneSilva/Desafio-Imers-o-Alura-Gemini/tree/main
+679º,8,Lucas chagas dos Santos tavares,https://github.com/Luke77983/curso-alura-Real
+680º,8,Neiwerton Cesar Pontes do Prado,https://github.com/Neiwerton-Cesar/Receitas-Sococo
+681º,8,Mirian Ajiki Molicawa,https://github.com/ajikisan/humor-de-bits
+682º,8,Nicoly Lima Cardoso,https://github.com/n1lima/AdotePet.git
+683º,7,ADELCIO CAVINATO PORTO,https://github.com/portoinfo/Alura
+684º,7,victor augusto ferreira rodrigues,https://github.com/victorAFRodrigues/Projeto-Alura-Gemini
+685º,7,Carlos Alexandre da Silva,https://github.com/Carlosaleee/ImersaoAluraGemini
+686º,7,Murilo de Oliveira Silva,https://github.com/developmurilo
+687º,7,Alef,Https://github.com/
+688º,7,Adriana B Aura,https://github.com/adrianaaura/imersaoDevGemini
+689º,7,Murilo de oliveira Silva,https://github.com/developmurilo/imers-o_alura
+690º,7,GeminiWAChat,https://github.com/baku01/GeminiWAChat
+691º,7,Flavio Nunes,https://github.com/FlavioMurielNunes/Projeto-Imersao.git
+692º,7,Emilly,https://github.com/emillytol/cars/tree/main
+693º,7,Alexandre dos Santos pires de sousa,https://github.com/vrcvde/Melodia-Essencial
+694º,7,Paulo Marcio Ribeiro da Costa,https://github.com/PauloMRC/imersao_alura
+695º,7,Rodrigo Eufrasio Costa Pires,https://github.com/recpires/Imer-alura-gemini
+696º,7,Talilo Tarlison Passos de Araujo,https://github.com/talilotarlison/ongtech-imersao-dev-google-gemini-main
+697º,7,Pedro Ernesto Pinheiro Gonçalves,https://github.com/PedrocaOBanido/Guia_de_Tuning
+698º,7,Edinardo de Melo Pereira,https://github.com/edinardo-pereira/google-gemini
+699º,7,Matheus Crosciati,https://github.com/drkmatheus/pmmx-alura
+700º,7,Luis Antonio Soares,https://github.com/LuisSoaresDevCriativo/tdah
+701º,7,Leonardo Hideki Morita,https://github.com/leonardomorita/imersao-alura-dev-gemini
+702º,7,Kauê Riki Kakinoana,https://github.com/kaueriki/ImersaoAluraGemini
+703º,7,Guilherme Sá,https://github.com/Guilherme-Sa-1/imersao
+704º,7,Geovana Teixeira Cardoso,Geovana145674/olimpiadas-projeto
+705º,7,William dos Santos Silva,https://github.com/wsant/imersao-dev-alura-asssitencia
+706º,7,Bruna Matos Pereira dos Santos Mercuri,https://github.com/Bruna-MM/PatinhaIdeal
+707º,7,Renato Rodrigues Dos Santos,https://github.com/Santosrr/escolas.git
+708º,7,Denes Almeida Machado Filho,https://github.com/DenAlmeida/site-reflexos
+709º,7,yasmin vizeu gil,https://github.com/Yasminvizeu/imersao-alura-gemini
+710º,7,Petterson Oliveira,https://github.com/PettersonnOliveira/Atletas-do-flamengo-2024
+711º,7,Alexandre Augusto De Camargo,https://github.com/AlexandreCamargo13/Cantores_Famosos
+712º,7,Nicolas de Almeida Sousa,https://github.com/NicolasStudio/Batalha-Naval
+713º,7,Patriandeson Soldiade dos Santos,https://github.com/PatriandesonSolidade/autismo.git
+714º,7,Bianca Sara,https://github.com/bsaraf/Lista-de-Tarefas
+715º,7,Raylan da Rocha Araújo,https://github.com/raylanraraujo/projetoamigopet
+716º,7,João Victor de Freitas Lima,https://github.com/jvfreitasl/Imers-o-Dev-with-Gemini
+717º,7,Gabriel Ferreira Herrera,https://github.com/gabrielferreira28/MundoRobotico/blob/main/README.md
+718º,7,Bruno Chaell Silva,https://github.com/brunochaell/Imers-o-Dev-_-Zelda
+719º,7,Matheus Farias de Souza,github.com/MathFarias/MyoBOT
+720º,7,José Erasmo Santana Rocha,https://github.com/JseRocha/eastereggs
+721º,7,José Samuel de Lucena,https://github.com/JoseSamuell/Imers-o-Alura-Gemini/blob/main/README.md
+722º,7,Henrique Melo Gaertner Amaral,https://github.com/HenriqueMGA/Imersao-Alura-Gemini
+723º,7,Gabriela da Silva,https://github.com/GabidaSilva/proj_imersao_alura_gemini
+724º,7,Matheus Eduardo Custódio Souza,https://github.com/MatheusAnimacaoCraft/O-Cubo-M-gico
+725º,7,Emerson Silva Santana,https://github.com/EmersonFy2002?tab=repositories
+726º,7,Kaio Gabriel de Sousa Carvalho,https://github.com/KaioGabriel-the/Imers-o-Dev-com-Google-Gemini.git
+727º,7,Damião Otávio da Conceição,https://github.com/Damiao100/projeto-dc-veiculos/tree/main
+728º,7,João Marcos Barbosa Nogueira,https://github.com/JoaoMarcosBN1/photoworld
+729º,7,Lucas Gabriel Ramos da Silva,https://github.com/LucasRamuus/Paralimpiadas
+730º,7,João Vitor de Souza da Silva,https://github.com/joaovitorss472/projeto-imersaodev
+731º,7,ELIANE POLIDORO BERTI,https://github.com/ELIANEBERTI/SIGNOS
+732º,7,Fernando Torre Moreira,https://github.com/ftorrem/data_science_books/tree/main
+733º,7,Emerson Costa,https://github.com/messorod/Alura-Baseball
+734º,7,Pablo Alves Fernandes,imersoes-front-alura.vercel.app
+735º,7,João Luiz Garcia Borba,https://github.com/ojoaoborba/imersao.alura
+736º,7,willians martins silva de gois,https://github.com/williansMT/Apostolos-gemini-projeto-Alura
+737º,7,Glaucio Marques Nogueira,https://github.com/GlaucioMN/The--Best-AluraGemini
+738º,7,vitor batista de freitas,https://github.com/Batistta/PaleontologiaBr
+739º,7,Caio Henrique,https://github.com/CaioLopes5556/Gramofones
+740º,7,Pedro Henrique Peres Roriz,https://github.com/PedrohRoriz/machuquei
+741º,7,Ludimila Maria de Oliveira Cardomingo,https://github.com/ludoliveira/FerramentasIA
+742º,7,Ana Beatriz Nunes Zucareli,https://github.com/zucareli17
+743º,7,Bernardo Abreu Brandão,https://github.com/BeBrandao/Alura-Gemini
+744º,7,clara,https://github.com/claraamz/tay
+745º,7,Alexandre Barreto Menna,https://github.com/Alexandre05/Site-de-Noticias.git
+746º,7,Diego Gustavo dos Santos Medeiros,https://github.com/diegodimedeiros/Uma-Fruta-Todo-Dia
+747º,7,Guilherme Schenfeld,https://github.com/RomanoSSch/InfoGames
+748º,7,Anderson Fernandes da Silva,https://github.com/AndersonDevFernandes/imersaoDevAlura
+749º,7,Gustavo Barbosa Castilho,https://github.com/gustavobcx/imersao-dev-alura-gemini
+750º,7,Sara Machado,https://github.com/sar-md/marvel-play
+751º,7,Jonathan Gabriel Santos de Lima,https://github.com/Jonhy21/ficcao_crista
+752º,7,Gabriel da Silva,https://github.com/GabrielDev1667/Primeiro-Site--Alura/blob/main/README.md
+753º,7,Kauã De Araújo Rocha,https://github.com/kauayzk007/Musicas/tree/main
+754º,7,Vanessa,https://github.com/Vanlimp/cat-logo-minipizza
+755º,7,Caroline de Jesus Clezar,https://github.com/Cclezar/imers-o-treino-em-casa/tree/main
+756º,7,FABIANA RODRIGUES DE ALMEIDA,https://github.com/FabianaRAlmeida/Tabela-Peri-dica
+757º,7,Carlos Alberto Poschardt da Silva,https://github.com/carlinhospos/projeto_streamings
+758º,7,Mariana Dias Pereira,https://github.com/Marianadias503/BurguerMania
+759º,7,Bruna Puggina Lima,https://github.com/BrunaPugginaLima/BuscadorSeriesTerror
+760º,7,Túlio Barroso,https://github.com/TulioBarroso/Projeto-Web
+761º,7,Juci Alves Junior,https://github.com/JuciAlvesJunior/Farmaquick
+762º,7,Monalisa Oliveira Alves,https://monalisaalvess.github.io/projeto/
+763º,7,Rafael Gerônimo Oliveira,https://github.com/geronimoOliveira/Projeto-Tecnologia-e-inclus-o
+764º,7,Juan Souza de Paiva,https://github.com/jsouzabr/patas_gemini
+765º,7,Elton Ricardo Gonçalves,https://github.com/eltonricardogoncalves/brasil_empregos.git
+766º,7,Matheus Filipe Morais Cavalcanti,https://github.com/MathFilipeDev/Imersao-Alura
+767º,7,Leandro Jesus Do Nascimento,https://github.com/leandronasx/imersao-tech-alura
+768º,7,Pedro Victor (PV),https://github.com/PedroVic12/ia-gemini-alura3/
+769º,7,Millena dos Santos Oliveira,https://github.com/llenaofBR/Shrek-teste
+770º,7,Laura Medeiros,https://github.com/laurabmee/cartas
+771º,7,Arthur Kayan Lima Bottona,https://github.com/ArthurKayan/FINALPROJETO-ALURA-GEMINI
+772º,7,Victor Muinos Barroso Lima,https://github.com/victormuinosblima/imersaoAluraGemini
+773º,7,Mateus de Paula Baptista da Silva,https://github.com/mtsbaptista/Fires-in-Brazil
+774º,7,Kerolayne Grassi Damiani,https://github.com/karoldamiani/Lumos-Library
+775º,7,João Victor de Macedo Silva,https://github.com/jvmacedos/SiteOlimpiadas
+776º,7,Thaís Coutinho Teixeira,https://github.com/thaiscoutt/Diario-de-Bordo
+777º,7,Bernardo da Silveira Rodrigues,https://github.com/Enderdroyd-Z/dicionario-tecnologia.git
+778º,7,Kastney Albuquerque Frazão,https://github.com/kastney/ephemeris
+779º,7,Maria Eduarda Castro Carvalho,https://github.com/dudaz-dev/PROJETO_ALURA_IMERSAO_DEV/blob/main/README.md
+780º,7,Vinicius Cordeiro,https://github.com/vtcordeiro/leagueofsups/
+781º,7,William Renan Novak,https://github.com/WilliamNovak/NBA-75
+782º,7,Henrry Farias Bueno,https://github.com/henrrybueno/one-piece
+783º,6,Gabriel Mathias Da Silva Bastos,https://github.com/Gab2390/Projeto-imers-o
+784º,6,Salvador Camiege,https://salvadorcamiege.github.io/Projecto-Guarda/
+785º,6,Iago Menezes Soares,https://github.com/iagoheadmaster/Imers-o-IA-Alura-Google.git
+786º,6,Beatriz santina,https://github.com/krocodaimon/OnePiece/tree/main
+787º,6,Natanael de Sousa Martins,https://github.com/natanmartinsm/judocasbrasileiros
+788º,6,Wesseley Moura de Paula Freitas Junior,https://github.com/WesseleyJr/viajantesConetectados
+789º,6,Israel José Oliveira de Brito Júnior,https://github.com/israelbritojr/Spotify-Wiki
+790º,6,Natalia de Souza da Cruz,https://github.com/Queenlust/Raibow-World
+791º,6,Tiago Jacob,https://github.com/bvnditx/Remote-Education-Platform
+792º,6,Ariane de Abreu Costa,https://github.com/Ariane2023/Aprendizagem
+793º,6,Carlos Henrique Garcia Soares,https://github.com/Carlos-CGS/Projeto-AssistenteBusca
+794º,6,Luis Carlos de Oliveira Junior,https://github.com/LucaolDev/Projeto-Imersao
+795º,6,Caio Henrique Novaes da Silva,https://github.com/Caio-Hnovaes/JusticeLeague-pt-BR-
+796º,6,Patricia de Souza Escobar,https://github.com/Patricia-1996/ImersaoPatricia/tree/main
+797º,6,Henrique Marcandier,https://github.com/henriquemarcandier/linguagens-de-programacao
+798º,6,Raquel Guerreiro,https://github.com/RaquelGuerreiro21/Biotec
+799º,6,Caio Bomfim Pantoja,https://github.com/caiob2811/imersao-alura
+800º,6,Marlos Fellipe Nunes Siqueira Cardoso,https://github.com/marlosfellipe/bancos
+801º,6,Caio Bomfim Pantoja,https://github.com/caiob2811/imersao-alura
+802º,6,Gabriel Rodrigues de Almeida,README.md
+803º,6,Kaike Smolari,https://github.com/KaikeSmolari/Air-max/tree/main
+804º,6,ARIANE KELLY RIBEIRO DOS SANTOS,https://github.com/arianekellyribeirodossantos/buscagames
+805º,6,Luciane de Castro,https://github.com/lucianedecastro/imersaodevAlura
+806º,6,Isac Monteiro de Castro Soares,https://github.com/IsacMonteiro/ProjetoMetalSlug.git
+807º,6,William Mateus De Novais,https://github.com/williamVrau/ImersaoAlura
+808º,6,Frederico Moura,https://github.com/mourafc73/CiclistasFenomenomenais.git
+809º,6,Nathércia Aguiar,https://github.com/Nkcosta/minhas-viagens
+810º,6,Bruna Soares Neves,https://github.com/ibrunaneves/imersao-alura-gemini
+811º,6,Paulo Henrique,https://github.com/Paulo-Joseph/Origamis-DIY/tree/main
+812º,6,Daniel Chaffer,https://github.com/DChaffer/projectone-github
+813º,6,Maria Fernanda Prandi Quintella Nunes,https://github.com/Mafeepam/musiquinhas
+814º,6,Age,https://github.com/agge0/filmes-internacionais
+815º,6,Douglas Silva,https://github.com/douglass154/projetos/tree/main/pessoais/projeto-serie-lucifer
+816º,6,Luana,https://github.com/thatbky/alura.git
+817º,6,Enrico Vergolino Gnani,https://github.com/EnricoVergolinoGnani/animes/
+818º,6,Leonardo Santana,https://github.com/Leonardo-Santana02/Search-Champions-Demo
+819º,6,Gustavo Felipe Scheneider,https://github.com/gusfelipes/imersao-alura-gemini
+820º,6,Daniel Freire da Silva,https://github.com/dev-DanielSilva/pokedex
+821º,6,Marcos Vieira,https://github.com/marvieiradev/monster-wiki
+822º,6,André Tavares,https://github.com/Nogmi81/imersao-Dev-Alura-Gemini
+823º,6,AFANAZIO GUTTERREZ ROCHA DE OLIVEIRA,https://gutterrez31.github.io/repositorio-site/
+824º,6,Manoella Vieira,https://github.com/Manoellavs/CineVis-o
+825º,6,dandara batista de oliveira,https://github.com/dandayyyter/tentativa-site-alura
+826º,6,Marcelo A. F. Vieira,https://github.com/profmarcelovieira-cc/tecnologiaeducacional
+827º,6,Lucivan Dev-Dondon,https://github.com/DEV-Dondon/harrypotter
+828º,6,carlos augusto souza targino,https://github.com/carlituss2/card_games-github
+829º,6,Tauan dos Anjos Nascimento,https://github.com/TauanAnjos/Front-ImersaoAluraGoogleGemini
+830º,6,Fábio Marques Henrique,https://github.com/fabiohennr/energiaSolar
+831º,6,Darlan Oliveira Filho,github.com/designprojectdev/DRLMX-RACE/
+832º,6,Leonam Monteiro,https://github.com/leonammonteiro/natuwiki   https://natuwiki.vercel.app/
+833º,6,Leonardo Amorim Campos,https://github.com/Lacampos-info/ImersaoGemini/tree/LACAMPOS/IMERSAO/.vscode
+834º,6,Roberto Santos,https://github.com/BetoS79/Saturno.html
+835º,6,Guilherme de Almeida Braga,https://github.com/braguilweb/herb-alquimia
+836º,6,Diego Eiji de Menezes,https://github.com/diegoeiji/P1
+837º,6,Gabriel Alexandroni Cordova de Sousa,https://github.com/Alexandroni07/GamesWiki
+838º,6,Renato Trench,https://github.com/Trench12/imersao
+839º,6,Clauson Garcias Ambrosio,https://github.com/clausonambrosio/seriados
+840º,6,Rubens Jean Simon,https://github.com/rubemoon/herois-da-independencia
+841º,6,Cristiane Rangel,https://github.com/crisrangell/projeto-seriados
+842º,6,Kaike Arthur Pereira,https://github.com/IkeArthyrus/Jogatina-SmashLegends
+843º,6,Caetano Bernardo Monteiro Souza,https://github.com/iBMSi/WikiAwards
+844º,6,João Victor Oliveira Dourado Costa,https://github.com/JV-VM/Projeto-da-Alura-com-google-gemni---JVVM
+845º,6,Fábio Leandro Medeiros,https://github.com/FabioMedeiros1000/desafio-alura-gemini-quiz
+846º,6,Thiara,https://github.com/ThiaraFernandes/mulheres-na-tecnologia
+847º,6,Ian Radtke,https://github.com/IanRadtke/receitas_de_geladeira?tab=readme-ov-file
+848º,6,Sidney Costa dos Santos,https://github.com/BOAZ-D7/Visual-Identity
+849º,6,William Reis,https://github.com/William-Reis/encontre-seu-pet
+850º,6,Thyago Roberto dos Reis,https://github.com/Dev-ThyRex/Pais-presentes-e-em-constante-transforma-o.git
+851º,6,Caio Barbosa Rodrigues,https://github.com/khyneXp/Mercearia.git
+852º,6,Wllysse Melo,https://github.com/Wllysses-Melo/Ci-ncias-Exatas
+853º,6,Gislaine Vanessa Custodio Souza,https://github.com/Gvcustodio/Mundo-Entretenimento
+854º,6,Daniel Augusto da Silva,https://github.com/danielssaugusto/imersao
+855º,6,Bruno Motta,https://github.com/Mottab766/Gemini-Cariocas
+856º,6,Anderson Petry,https://github.com/petry85/projeto_imersao_alura
+857º,6,Sara Vanessa Guedes de Oliveira Firme,https://github.com/sarafirme/DesafioAlura-Gemini
+858º,6,Luiz Eduardo Capovilla,https://github.com/LuizLEC/Aberturas-de-Xadrez.git
+859º,6,edson francisco da silva,https://github.com/hnfksdjjn/verde-sustentavel/tree/main
+860º,6,Isaías Amorim Gonçalves,https://gelo-e-fogo.vercel.app/
+861º,6,Lara Vitória da Costa Bezerra,https://github.com/larav1/zombie
+862º,6,Guilherme Amaral Guerra,https://github.com/GuilhermeAmaralGuerra/Projeto-Marvel.git
+863º,6,Julio Roncato,https://github.com/JulioRoncato/Clash-Royale---GitHub/tree/main ; https://clash-royale-git-hub.vercel.app/
+864º,6,Luan Indiano Barreto,https://github.com/luanindiano/pesquisaDeNomes
+865º,6,Micael Sampaio da Silva,https://github.com/MicaelSampaioS/Seu-Mentor-Acad-mico
+866º,6,Joplin Hendrix da Silva Cruz,https://github.com/Joplin Cruz/animes
+867º,6,Caetano Souza Junqueira Tagliari Ferreira,https://github.com/Biscoito464/banco-de-jogos-brasileiros
+868º,6,Tallis Teixeira de Melo,https://github.com/tallismelo07/projeto-desvendando-atletas-
+869º,6,Adriel,https://github.com/Sethh7/Intelig-ncia-Artificial
+870º,6,Arthur Gabriel da Silva,https://github.com/Arthgabriel/BacSearch
+871º,6,Dayvison Fontes da silva,https://github.com/DayvisonFontes/AluraGemini
+872º,6,Lucas Gabriel Fernandes Ibanez,https://github.com/LxIbz/projetoCyberWall
+873º,6,Giovanna da Silva Araujo,https://github.com/GiovannaArauj0/SOSBrasil
+874º,6,Ayumi,https://github.com/ayujima/amiguinhos-da-sanrio
+875º,6,Thiago Castro Felix,https://github.com/thiagocastro-f/Tecnologias-Agro
+876º,6,Emmanuel lohan de siqueira ozorio viana,https://github.com/LohanOzorio/ChatBot-Bardo
+877º,6,Erivaldo Soares Junior,https://github.com/juuniorsoares/imensao-alura-google-germini
+878º,6,Geice Mara de O. R. Alexandre,https://github.com/AlexandreGM/Autismo
+879º,6,Murilo Weishaupt de Camargo,https://github.com/MuriloWeishaupt/Projeto-busca-de-carros
+880º,6,Vinicius Sousa Fernandes,https://github.com/Vinifernandes05/projeto-alura-Marcas-Esportivas/blob/main/README.md
+881º,6,Márcia Cristina de Almeida,https://github.com/MayAlmeida09/Gemini/tree/main
+882º,6,Ronayrton Rocha Barbosa Pinto,https://github.com/ronayrton/Imers-o-Dev-com-Gemini---Catalogo-de-pecas-de-informatica/tree/main
+883º,6,Layssa Camargo de Barros,https://github.com/v2mplay/Imersao-Alura.git
+884º,6,Ramon Garcia Marinho,https://github.com/RamonBeer/AluraImersaoAprender.git
+885º,6,Rafael Maia,https://github.com/neiylton/geminiMath
+886º,6,Izadora Duarte,https://github.com/izaduart/FitTrack
+887º,6,Eduardo Guimarães Coeli,https://github.com/educoeli/AluraGemini
+888º,6,Michael,https://github.com/voi1d/A24-Alura-project
+889º,6,Paulo Henrique Batista Silva,https://github.com/DoctorPB/Paddocks---Imers-o-Alura/tree/main
+890º,6,Pedro Piola,https://github.com/Bigodex/StreamFind
+891º,6,Bruno Porto Ferreira,https://github.com/BrunooPorto/BuscarMoto
+892º,6,Mariana Dias Pereira,https://github.com/Marianadias503/BurguerMania
+893º,6,Arthur Gomes Araujo,https://github.com/RunageINC/alura-imersaodev-challenge
+894º,6,Aysha Radjha Boumann da Silva,https://github.com/AyshBoumann/music---vibes
+895º,6,Cayo Henrique de Oliveira Rosa,https://github.com/Caique-Rosa/5-Ps-Patente
+896º,6,Leandro Donizete da Silva,https://github.com/ldsleandro/incendioseanimais
+897º,5,Edmo Gibson da Costa Carvalho,https://github.com/Kamiouji1/worlds-teams-data/tree/main
+898º,5,Lucas Tavares Drumond,https://github.com/LTavaresDrumond/Elenco-Botafogo
+899º,5,Emanuel Pereira de Sousa,https://github.com/Dipperdevs/imersao
+900º,5,Alison Barbosa,https://github.com/eualisonbarbosa/Viagens
+901º,5,Alexandre Silva Ferreira,https://github.com/Xandin22/OnePiece
+902º,5,luis carlos de oliveira junior,https://github.com/LucaolDev/Projeto-Imersao
+903º,5,Renato Pereira dos Santos,https://github.com/Renato32s/catalogo-de-jogos-indies
+904º,5,Guilherme Gomes Fernandes,https://guilhermegsfs.github.io/guilhermegemini/
+905º,5,João Milholo,https://github.com/jaomilholo/imersao-dev-alura
+906º,5,rodrigo venancio pimentel lima,https://github.com/RodrigoPimentelLima/projeto-google-gemini/tree/main
+907º,5,Rafaela Júlia Estabile,https://github.com/RafaJEstabile/Tecnologias.git
+908º,5,Tainá Fanfa,https://lunar-cycle.vercel.app/
+909º,5,Raphael Candido,https://github.com/Candido187/Dinossauros/tree/main
+910º,5,Gabriel Borges Silva,https://github.com/GabrielBorgesSilv/Pokedex-Pokemon
+911º,5,Lucas Pietro Roncatto,https://github.com/NextBooleanL/AluraMinecraftWiki
+912º,5,Luiz Gustavo Tozzi Dias Laurindo,https://github.com/DrLuizSherlock/Campe-es-Mundiais-Brasileiros-de-E-sports
+913º,5,João Víctor Dias Souza,https://github.com/JoaoVicDS/Curso-Alura
+914º,5,Amabilly Barbosa Russo,https://github.com/ambarussian/AluraImmersion
+915º,5,Wellygton Moraes e Silva,https://github.com/wellygtonDev2024/FrontEnd-Brasil/tree/main
+916º,5,wesley bruno pereira conde,https://github.com/Wesley9512/Flamengo
+917º,5,Davi Minetto Izui,https://github.com/daviizui/vaicompao-imersaodev
+918º,5,Elisvaldo Braga,https://github.com/elivaldobraga23/Cine-Mania
+919º,5,Sophia Heringer Coelho,https://github.com/Sophia-Coelho/Harry-Potter
+920º,5,Pierre Philemon Ricardo Rocha Reis,https://github.com/PierreRicardo213/Musicos-Mineiros
+921º,5,Guilherme de Paiva Ferraz Souza,https://github.com/Spindx/FimImerAlura
+922º,5,Everton Jesus da Paixão,https://github.com/evertonpaixao/front-end-develops
+923º,5,Gabriel Guimarães Gambeta,https://github.com/GabrielGambeta/Paralimpiadas/tree/main
+924º,5,Matheus Lima Carneiro,https://github.com/MatheusLimaCarneiro/GeminiWebDev
+925º,5,João Victor Pereira de Castro,https://github.com/JoaoVictorHub/Power-Rangers
+926º,5,André marcelino,https://github.com/Marcelinofatec/futebol
+927º,5,Deivid de Souza,https://github.com/deividfront-end/minhas-receitas
+928º,5,Gustavo Gabriel Fucilini,https://github.com/gustavofucilini/imersao-alura
+929º,5,Marco Aurelio Oliveira,https://github.com/Maoaurelio/Profissoes
+930º,5,Filipe Batista do Valle,https://github.com/Filipebdv/BTD6-Imersao
+931º,5,Carlos Magno Galindo Cordeiro da Silva,https://github.com/magnomct/imersao-alura-gemini
+932º,5,Maria Leônia de Melo Cavalcante,https://github.com/LeoniaMelo/TechTitans
+933º,5,Ricardo,https://github.com/RiknelSan/GeracoesDosConsoles
+934º,5,Elandro Wozeak Caniela,git@github.com:elandro18/Descrubra-Sua-Classe-Tormernta20.git
+935º,5,Matteus de Paula Francisco,https://github.com/matteusdpf/movie4you
+936º,5,Nivaldo Borges dos Santos Neto,https://github.com/Nivaldera/Atletas-Ol-mpicos-de-Jud-em-Toda-Hist-ria
+937º,5,Maria Fernanda Vaz Rocha,https://github.com/Mariavr04/Parabadminton/tree/main
+938º,5,Hudson Freire Miranda,https://github.com/hudsonfreiree/livros/tree/main
+939º,5,Arthur Leonardo Oliveira de Matos,https://github.com/Arthur-Leonardo/Deadpool-pool
+940º,5,Jose Eustaquio Silverio,https://github.com/JOSEEUSTAQUIOSILVERI0/retrato_queimadas.git
+941º,5,Pablo de lima Carvalho,https://codepen.io/collection/KpjLrO.
+942º,5,André Tavares,https://github.com/Nogmi81/imersao-Dev-Alura-Gemini
+943º,5,Larissa Pereira Victor de Lima,https://github.com/laraaladim/Programa-o_Iniciantes/tree/main
+944º,5,Daniel Barbosa Pereira,https://github.com/daniel-b-pereira/Oraculo-online
+945º,5,Agatha de Araujo Camargo,https://github.com/anek0/SitePortifolio
+946º,5,Ana Caroline de Jessus,https://github.com/Carolduplex/fisiculturias_imersaoDEV
+947º,5,Lucas Rodrigues Martins,https://github.com/LucasDevMartins/Projeto-Alura
+948º,5,Luisa Santana,https://github.com/Luuhs21/PesquisaGame
+949º,5,Marcos Vinícius Rebouças Lopes,https://github.com/Vhinicius/Seu-destino-nos-Estados-Unidos.
+950º,5,Marcella Hoffmann Barreto,https://github.com/marcellahoffmann/AluCine
+951º,5,Rodrigo Correia de Almeida,https://github.com/RodrigoC-Almeida/Imersao-Alura
+952º,5,Emanoel Victor,https://github.com/cientstaaa/games.git
+953º,5,Gustavo Ribeiro,https://github.com/gurbr/alura-gemini-2024
+954º,5,Maju,...
+955º,5,Fernando Diego,https://github.com/Efidiego/imers-o-alura
+956º,5,Marcos Poscai,https://github.com/poscai/maquina_do_tempo/
+957º,5,Aline de Farias Lisboa,https://github.com/lisboalien/anime-project
+958º,5,Rafael Henrique de Lima,https://github.com/RafaelhLimaa/Imersao_Gemini/tree/main/pontos-turisticos-por-estado
+959º,5,Renan Sena,https://github.com/renan013/Projeto-alura-GoogleGemini
+960º,5,Caio Hênry Pereira Domingues,https://github.com/CaioHenryxz/Site-Mov.IA/tree/main
+961º,5,João Pedro Carmo Lopes,https://github.com/joaopcarmo/hotyreblog
+962º,5,Marcos Antônio Teixeira de Souza Junior,https://github.com/MarcosTeixeiraJr/pagina_de_busca
+963º,5,Jerônimo Santos Rodrigues,https://github.com/JeronimoSantos/Projeto-Imesao-Dev-Gemini
+964º,5,Gabriele Beraldi Felipe,https://github.com/gabriele-beraldi/Slimepedia
+965º,5,Victor Amadeu S. de Medeiros,https://github.com/victramadeu/Plantas-t-xicas-mais-comuns-nas-escolas-do-Rio-de-Janeiro
+966º,5,Flávio Leandro Do Nascimento Félix,https://github.com/fau-33/imersao-alura-gemini
+967º,5,Odenilson Marques Araújo,https://github.com/odenilsonmarques/Projeto-alura-gemini
+968º,5,Daniel Breitschaft,https://github.com/DanielChaft/CEPedia
+969º,5,Sara Maria Alves de Lima,https://github.com/sara-allima/Lego-Search
+970º,5,Joel Victor Brandão dos Santos,https://github.com/joelvictorSantos/turismoBrasileiro/tree/main
+971º,5,Thiago de Souza Voto,https://github.com/ThiagoPremo/desafioalura/tree/main
+972º,5,Claudia de Castro,https://github.com/claudia172026/Imers-o-dev---Projeto-Niropsicopedagogia
+973º,5,José Carlos Conrado Oliveira,https://github.com/CarlitusConrado/Povos-Ind-genas-do-Brasil
+974º,5,Renato Martins,metaverso-eight.vercel.app
+975º,5,Fernando Cruz Macedo,https://github.com/fcm-cruz/app_techExplorer
+976º,5,Kristtofer Bruno,https://github.com/kristtofer-bruno/DevConhecimento
+977º,5,Caroline da Silva Souza,https://github.com/caheyes/jogos-nitendo-gemini
+978º,5,Heinz Stranner Júnior,https://github.com/Junior-Stranner/Simulador-Bundesliga
+979º,5,Roger Fontes,https://github.com/mody-737/caminho-escola
+980º,5,Luis Felipe da Silva Serradas,https://github.com/Felipe-Serradas/projetoAluraxGoogle-estilosKarate
+981º,5,Roger Fontes,https://mody-737.github.io/caminho-escola/
+982º,5,Luiz Claudio,https://github.com/1709971/Fazenda_Luizinho
+983º,5,Pedro Henrique Gonçalves Oliveira,https://github.com/Abuh-byte/abuh-byte
+984º,5,Nícolas Utrera Lisboa,https://github.com/Haat115/ProjetoAluraGemini.git
+985º,5,vitor barbosa,https://github.com/vitorbarbosa-vickz/navio-dos-poetas
+986º,5,Mario Sergio Fasolin Saito,https://github.com/Msfasolin/27-Estados-do-Brasil
+987º,5,Leonardo Bernardo Curtis,https://github.com/leonardobe/Dicionario-interativo.git
+988º,5,Isis Yume Okamoto,https://github.com/iyumw/AluraImersaoGemini.git
+989º,5,Paloma Rigo,https://github.com/Palomarigo/ImersaoAlura-com-Gemini
+990º,5,Barbara Diniz Abreu,https://github.com/barbaradinizabreu/Universo-dos-Livros
+991º,5,Aline Vieira Ometto,https://github.com/lih-90/escritores-brasileiros.alura
+992º,5,João Victor Torres D Assunção,https://github.com/JoaoTorres-dev/RAIZ-DO-PARA/blob/main/README.md
+993º,5,Yasmin Tafnes de Castro Barros,https://github.com/Tafneseu/Eventos-de-ve-culos
+994º,5,Lucas Marcelo Nascimento de Souza,https://github.com/LucasMarcelo85/DevMarcelo
+995º,5,Vicente Alves,https://github.com/AnylistV/iSongster
+996º,5,Vicente Alves,https://github.com/AnylistV/iSongster
+997º,5,gidel,https://github.com/Gidel-G/Saude
+998º,5,Marcos Henrique Nogueira Albino,https://github.com/marcosalbino/desafioImersaoAlura
+999º,5,Everton Álvaro de Souza,https://github.com/evertonAlvaro/enigma
+1000º,4,marcelo líbanio de Andrade,https://github.com/marceloandrade1993/meupersonal.git
+1001º,4,Júlio César da Silva Borges,https://github.com/RealBG011/Mundo-do-Futebol
+1002º,4,Rafael Rodrigues Pereira,https://github.com/RPTecDev/VideoGames
+1003º,4,William Denis,https://olipimiadas.vercel.app/
+1004º,4,felipe silva proença,https://vercel.com/new/felipe-proencas-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=imersao-google-gemini-h51na3jim-felipe-proencas-projects.vercel.app&projectName=imersao-google-gemini&s=https%3A%2F%2Fgithub.com%2Ffpsproenca%2FImersao-google-gemini&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1
+1005º,4,Renan Evaristo,https://github.com/JuvenalJuvencio/Concurso-alura
+1006º,4,Artagnaldo Coelho,https://github.com/artagnaldo/bloco-de-notas.github.io
+1007º,4,Janaina Aparecida da Silva,https://github.com/ajanainasilva/imersao-dev-google-geminini.git
+1008º,4,Frederico Carvalho (Zaki),https://github.com/freedyCarvalho/ImersaoAluraGoogleGemini
+1009º,4,Pedro Henrique Rodrigues Costa,https://github.com/Pedr0-Henrique/Atletas-do-brasil
+1010º,4,Lucas Gomes Mustafa,https://github.com/Lucasmstaf/atletasfluminense
+1011º,4,Andrew Coelho,https://github.com/Projecoes/atletasParalimpicos/tree/main/ImersãoDev
+1012º,4,Luisa Sant'Ana,https://github.com/lugoncales/skinviajante/
+1013º,4,Leonardo Fernandes Ribeiro,https://github.com/LeonardoFernandesRibeiro/Neo-Arts/tree/main
+1014º,4,Julia Reis,https://github.com/Yclaster/Cats
+1015º,4,Abdalla El Dib,https://github.com/danikejs/Imersao-Dev-com-Google-Gemini
+1016º,4,Walker Marcelino Capuzzo de Aquino,https://github.com/walkerCapuzzo/cidades-historicas.git
+1017º,4,Maria Eduarda Santos Pereira de Barros,https://github.com/marispbarros/senhor-dos-aneis
+1018º,4,Victor Cardoso Lima Matos,https://github.com/VictorSamuraiWol/projeto-cloud-imersao
+1019º,4,Michael,https://github.com/voi1d/A24-Alura-project
+1020º,4,Kervens Louis,https://github.com/kervens12/Champions-Alura-Gemini
+1021º,4,Gesiel Neves,https://github.com/gijosc
+1022º,4,Jefferson Cardoso,https://github.com/jeffvida2003/buscadordepostIA
+1023º,4,Victor Franco dos Santos,https://github.com/victor-franco-dos-santos/serras-brasileiras
+1024º,4,Murilo Góes,https://github.com/Murilo-Goes/Pesquisa-Interplanetaria
+1025º,4,Renato Rodrigues Dos Santos,https://github.com/Santosrr/escolas.git
+1026º,4,Junior da Costa França,https://github.com/Juniorcosta-dev/Descubra-Brasil
+1027º,4,Murilo Ramos Ortega,https://github.com/Ortega1998/Alura-Gemini-
+1028º,4,Michele Sales,https://github.com/michelesales67/MEIO-DO-MUNDO
+1029º,4,Gabriel Teixeira Desterro,https://github.com/GabrielDesterro/Modern-Family-Wiki-Imers-o-Alura-Gemini
+1030º,4,Joyce,https://github.com/JoyceRibeiroS/agentes-valorant
+1031º,4,Pedro Cordeiro Fernandes,https://github.com/PedroCordeiroF/Life-Is-Strange-Character-Search-Tool/tree/main
+1032º,4,Sayd Matheus,Diretores-Essenciais-para-a-Hist-ria-do-Cinema
+1033º,4,Lucas de Goes Vieira Júnior,https://github.com/LucasGoes89/buscaTemaVersiculos
+1034º,4,Josué Pedroso,josuepedroso/Alura-Imers-o-Dev-com-Google-Gemini-
+1035º,4,Nicole cazarini rodrigues,https://github.com/CazariniNicole/Curiosidades-do-universo/blob/main/README.md
+1036º,4,Matheus Correa Seki,https://github.com/mcseki/imersaodev_portifolio
+1037º,4,Luanna Fernandes Flor de Souza,https://github.com/Luanna88/ImersaoAlura-Gemini/tree/main
+1038º,4,João Constantino Pontes Barreto,https://github.com/constantino2710/Senado-dos-tangas
+1039º,4,Caio Borges,https://github.com/SinalZero/Frases-Nerds/tree/main
+1040º,4,Moisés de Rossi,https://github.com/MoisesdeRossi/ProjetoDev
+1041º,4,Bruno,Sem projeto
+1042º,4,Pedro Guilherme Monteiro de Oliveira,https://github.com/Kamado328/Imers-o-dev
+1043º,4,Samuel Souza da silva,https://github.com/samuel12s1/dicionario/tree/main
+1044º,4,Dagmar Collela,https://github.com/Collela/Alura-Imersao-Dev-com-Google-Gemini
+1045º,4,Diones sabino,https://github.com/D1ones/f--page
+1046º,4,Leandro Aparecio losso barbosa,https://github.com/leanbarbosa/animes./tree/main
+1047º,4,Thiago Mendes de Lima,https://github.com/ThiagoLima616/Metal-BR
+1048º,4,Hugo Roberto Braga,https://github.com/hrbraga/imersao.git
+1049º,4,Bernardo Soares Nunes,https://github.com/besoaresn/Lista-de-Tarefas?tab=readme-ov-file
+1050º,4,Isabela M. Pascuotti Ricardo,https://github.com/bella210795/crepusculo
+1051º,4,Leonardo Lucas de Oliveira,https://github.com/Leonardolucas09/rpgs-brasileiros/blob/main/README.md
+1052º,4,Alexandre Henrique Mandri,https://github.com/AlexMandri/projetoAlura
+1053º,4,ILMAR DA LUZ CARDOSO,https://github.com/ilmar-luz/TecTreze
+1054º,4,Marcos Antonio de Aguiar Júnior,https://github.com/marcosaguiarjr/CEPRapido/tree/main
+1055º,4,Carlos Augusto Cardoso,https://github.com/carloscardosoalura/alura-imersao-gemini-adivinha-palavra
+1056º,4,Luis Gustavo Araujo da Silva,https://github.com/Luigustavo10/Brasileirao
+1057º,4,Gustavo Castro,https://github.com/GuCastro81/circulo-de-quintas.git
+1058º,4,Alexandre de Moura Boni,https://github.com/alemobn/challenge-imersao-alura-gemini
+1059º,4,Diogo Henrique Fernandes Dantas,https://github.com/DHstation/Linguagens-de-programacao
+1060º,4,Isabela de Paula Medeiros,https://github.com/IsabelaMedeiros09/imers-o_dev/tree/main
+1061º,4,Henrique Ribeiro,https://github.com/Henrique088/imersao
+1062º,4,Michele Elias,https://github.com/devmichele/pesq_coelhos
+1063º,4,Jackeline Vieira,https://github.com/jackrck/M-quina-do-Tempo
+1064º,4,Rodolfo Milanez Suaki,https://github.com/RodolfoSuaki/Imersao-Alura-Gemini.git
+1065º,4,Vitória Santos,https://github.com/Viih-Santos/Atelie-Criativo
+1066º,4,Laura Medeiros de Oliveira,https://github.com/OliveLaura/TerapiaEmCasa
+1067º,4,Marcelo Y.Oda,https://github.com/MarceloOda46/Carros-do-Jap-o/blob/main/README.md
+1068º,4,Alyson A. Martins,https://github.com/alysonmartins/alura-imersao
+1069º,4,Camila Romao Silva,kamybutterfly.vercel.app
+1070º,4,Vinicius de Araujo,https://github.com/Vini-Araujo97/Imers-o--alura
+1071º,4,Leticia Rodrigues,https://github.com/Let-Rodrigues/Projeto-1-Alura
+1072º,4,Angeline Souza,https://github.com/Ange-dotcom/Adivinha-Mania
+1073º,4,Leonam Monteiro,https://github.com/leonammonteiro/NatuWiki
+1074º,4,Diogo dos Reis Lago,https://github.com/LazuliOO2/Front-end/tree/main/alura
+1075º,4,Reginaldo Luiz Formoso Junior,https://github.com/naldinho0707/Imers-o-Dev-com-Gemini.git
+1076º,3,Laysson Santos da Silva,https://github.com/layssonsantos/Agenda-Digital
+1077º,3,Vinícius Diller,https://github.com/viniciusdiller/olimpiadas
+1078º,3,Mariana Lacerda Reis,https://github.com/mariilacerda/cantores-sertanejos
+1079º,3,Maria Luiza Lima Bastos,https://github.com/marialuiza15/SoliSite-CursoAlura/blob/1d13ff1e8f872b3447499792f912d645e23f65b0/README.md
+1080º,3,Maria Rosalia Pereira dos Santos,https://github.com/TImrosalia/projeto-tecnologiasalaser/tree/main
+1081º,3,karla virginia,https://github.com/KarlaNascimento12/Curiosidade-Mitologica
+1082º,3,Michael,https://github.com/voi1d/A24-Alura-project
+1083º,3,José Heberson Rodrigues de Carvalho Filho,https://github.com/HebersonCarvalho/levelSkills
+1084º,3,Luis Felipe Galvao Cabral,https://github.com/Luisfgc1/ImersaoNBA_Help
+1085º,3,Duan Ledson,https://github.com/Duan-Ledson/guerreirosZ/tree/main
+1086º,3,Pedro Cavalcante,https://github.com/pedrobule/raizes-nomes
+1087º,3,Samuel Dantas,https://github.com/s4mmus/lost-guides
+1088º,3,Gabriel Gonçalves Alves,https://github.com/BielAlveszz/campeoes
+1089º,3,Fernanda Cristina Amaral Santana,https://github.com/Santanaferr/Imers-o-Alura-e-Gemini-2024/tree/main
+1090º,3,Munir Adnan Hamze,https://github.com/Munir002/Velozes-e-Curiosos/tree/main
+1091º,3,Maciel Ferreira da Silva,https://github.com/MacielFerre/imersao_alura_paginaweb
+1092º,3,Felipe Florêncio de Andrade,https://github.com/S3GFelipe/ProjetoEVolvo
+1093º,3,Thiago Mendes de Lima,https://github.com/ThiagoLima616/Metal-BR
+1094º,3,Ana Caroline Alves Lustosa,https://github.com/AlvesLustosa95/Projeto-Imers-o-Alura-Google-Geminii.git
+1095º,3,Pedro,https://github.com/Pedrobert013/Cientistas
+1096º,3,Maikon Rigon,https://github.com/MaikonRigon/olimpiadas
+1097º,3,Layo Brum,https://github.com/MrBrum007/Jogadores-de-e-sports/tree/main
+1098º,3,Adriel Lopes de Souza Camargo,https://github.com/adriel-loopes/Alura-IMC.git
+1099º,3,José Luiz Simette Estephanes,https://github.com/VitorLuizSimette/brawl-pesquisa
+1100º,3,eduardo lucas do nascimento alves de deus,https://eduxx123.github.io/Grey-s-Anatomy/
+1101º,3,Rudinei Edgar Weschenfelder,https://github.com/rudineiw/imersao-dev-gemini
+1102º,3,Taciano Mulinari Longue de Vasconcelos Cavalcante,https://github.com/TacianoML/curemap-projeto-alura-gemini
+1103º,3,Tarcisio,https://github.com/tarcisiobm/GameExplorer-ImersaoAlura
+1104º,3,Humberto Vinicius Trindade,https://github.com/h1bertos/Imerss-o---Campe-es-Brasileiros
+1105º,3,Caio Barbaro Ismael,https://github.com/caiobarbaroismael/Projeto_campeonato
+1106º,3,Claudia de Castro,https://github.com/claudia172026/Imers-o-dev---Projeto-Niropsicopedagogia
+1107º,3,Mateus Henrique Costa Guedes,https://github.com/Felequezz/Imerso---Gemini
+1108º,3,Robert de Jesus Araujo,https://github.com/Inocentrax/Animais-Extintos
+1109º,3,Alysson Freitas Lopes,https://github.com/Nexusaf/rubiks-solve-timer
+1110º,3,Karolyne Ferraz,https://github.com/KarolFerraz/VagasAPP
+1111º,3,Daniele Vasconcelos da Silva,https://github.com/Danielevs/Cyber-Glossario
+1112º,3,Matheus Ferraz,https://github.com/Math-Ferraz/Historias-dos-Clubes
+1113º,3,Débora Schaan Fernandes,https://github.com/debschaan/com-carinho
+1114º,3,Gustavo Souza Santos,https://github.com/GustavoSouza23/Mensagens-Motivacionais
+1115º,3,Francinildo Vieira da Silva,https://github.com/bozomj/imersaoAlura
+1116º,3,Michel filippi de almeida,https://github.com/MichelFilippi/CampaoPokemon
+1117º,3,Cézar de Souza Aguiar Viana,https://github.com/cezarviana/atletas-paralimpicos/tree/main
+1118º,3,Stéfani Soares Freire,https://github.com/s7ezinha/Pomodoro
+1119º,3,Caio França Ricciardi,https://github.com/Caiofran/olimpiadas-atletas
+1120º,3,Raira Sampaio,https://github.com/Rairasampaio/Projeto-Alura-site/blob/main/README.md
+1121º,3,Antonio Marcos Marcon Tiburtino,https://github.com/antoniotiburtino/Autores
+1122º,3,Lillian Martins Cruz,https://github.com/lillianmartins/site-tech
+1123º,3,Rafael Trindade Rodrigues,https://github.com/funshro/cursosGratuitos
+1124º,3,Lucas Silva Esmeraldino,https://github.com/lucassilvaesmeraldino/busca-planos-de-treinos
+1125º,3,Victor,https://github.com/ovictorpaiva/topTimesBrasileirao
+1126º,3,Wendel,https://github.com/Wendel23Lopes/Imers-oDev
+1127º,3,Silas Hoffmann Reis Viana,https://github.com/Silas-Hoffmann/Imersao-Alura-Gemini
+1128º,3,Filipe Borja Freitas Silva,https://github.com/iTzB0r/Galeria-Dos-Imortais
+1129º,3,Vinicius Sanches,https://github.com/kuro-madoushi/TrashWiki
+1130º,2,Carlos Henrique Antunes Ratti,https://estados-brasileiros-lemon.vercel.app
+1131º,2,Marcos Galdino,https://github.com/marcosgaldino7/DriversProject
+1132º,2,Lucas Araujo da silva,https://github.com/lucasaraujods/Projeto-Alura-Gemini
+1133º,2,William Vianda da Costa,https://github.com/willvianna/ggconfig
+1134º,2,Jessica Aquino Lobo Dos Santos,https://jessica-aquino-hub.github.io/Poked-x/
+1135º,2,Lucas Roda Ximenes dos Santos,https://github.com/Jimeens/One-Piece-site
+1136º,2,Laura Cardoso,https://github.com/lauraccardosoo/first-of-all
+1137º,2,João Vcitor Madureira de Oliveira Almeida,https://github.com/johnnys255/cosmopedia
+1138º,2,RAFAEL GOMES SILVA,https://github.com/rafael-rgs/disney-princesas
+1139º,2,Marcio Jucelio Gomes Barros,https://github.com/marciojucelio/blacklives
+1140º,2,Kauan Medeiros Marins,https://github.com/kauanmm11
+1141º,2,Vitoria Stefany Higino da Silva,https://github.com/AlmaStefany/Imersao-ao-CS
+1142º,2,Leonardo Kenji Takeda,https://github.com/bsk2808/pedais-guitarra
+1143º,2,José Isaac Narváez Antuarez,https://github.com/Halltone/Descubra-o-Brasil
+1144º,2,Daiane Gomes,https://github.com/dgms05/simuladoEstudo
+1145º,2,Gabriel Rison Santos,https://github.com/G-Rison/Vasco-Da-Gama-ImersaoDEV
+1146º,2,Patrick Machado,https://github.com/patrick7machado/site-cartoon-network
+1147º,2,Eliel Martins da Trindade,https://github.com/elieltrindade/clubes-campeonato-brasileiro
+1148º,2,Rodrigo Araujo Lima,https://github.com/rodrigo-alima/radioamadorismo
+1149º,2,Anderson Sedano,https://github.com/assedano/Primals
+1150º,2,Dionatan Rodrigues Soares,https://github.com/DioNathanSoares/monkeypoxsp
+1151º,2,Murilo Henrique Santos de Oliveira,https://github.com/Murilooliv/Gemini-nas-profiss-es.git
+1152º,2,Guilherme Martins,https://github.com/6u1lh3rm3/alura-genios
+1153º,2,Alexsander Ferreira Perdigão Costa,https://github.com/AlexPerdigao/AluraGemini
+1154º,2,João Pedro Menegas Zankoski,https://github.com/JoaoPMZankoski/GameScore
+1155º,1,Torricelli Ferreira de Arandas,https://github.com/Torricelli-Arandas e https://vercel.com/torricelli-arandas-projects/divine-coworking
+1156º,1,Camilly Cristine,https://github.com/camillyosc/Alura-Gemini
+1157º,1,Caique Godinho,https://github.com/Caigods/Goty
+1158º,1,Alice Cristina de Abreu,https://github.com/AliceC-Abreu/Yaelokre-Imersao-com-Gemini/tree/main
+1159º,1,Torricelli Ferreira de Arandas,https://github.com/Torricelli-Arandas e https://vercel.com/torricelli-arandas-projects/divine-coworking
